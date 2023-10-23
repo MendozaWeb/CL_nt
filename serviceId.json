@@ -1,0 +1,569 @@
+
+01
+
+{
+    "serviceIDs": [
+    "148_Tottus_Alameda_Service",
+    "148_Tottus_Antofagasta_Mall_Service",
+    "148_Tottus_Bio_Bio_Service",
+    "148_Tottus_Buin_Service",
+    "148_Tottus_Catedral_Service",
+    "148_Tottus_El_Bosque_Service",
+    "148_Tottus_El_Trebol_Service",
+    "148_Tottus_Factoria_Service",
+    "148_Tottus_Huechuraba_Service",
+    "148_Tottus_La_Florida_Service",
+    "148_Tottus_Maitencillo_1_Service",
+    "148_Tottus_Maitencillo_Service",
+    "148_Tottus_Padre_Hurtado_Service",
+    "148_Tottus_Penaflor_Service",
+    "148_Tottus_Plaza_Oeste_II_Service",
+    "148_Tottus_Plaza_Tobalaba_Service",
+    "148_Tottus_Renaca_Service",
+    "148_Tottus_Talagante_Cordillera_Service",
+    "148_Tottus_Vicuna_Mackenna_Service",
+    "148_Tottus_Vicuna_Mackenna_Service",
+    "Ya_LosDominicos",
+    "Ya_PiedraRoja",
+    "Ya_TottusEgana",
+    "Ya_Quilin",
+    "Ya_vitacuraI",
+    "Ya_Vitacura",
+    "Ya_Vivaceta",
+    "148_Tottus_Nataniel_Service",
+    "148_Tottus_Los_Angeles_Mall_Service",
+    "148_Tottus_Pajaritos_Service",
+    "148_Tottus_Antofagasta_Norte_Service",
+    "148_Tottus_Colina_Service",
+    "148_Tottus_Curico_Norte_Service",
+    "148_Tottus_Quilpue_Service",
+    "148_Tottus_Chillan_Service",
+    "148_Tottus_Kennedy_Service",
+    "148_Tottus_San_fernando_Service",
+    "148_Tottus_Walker_Martinez_Service",
+    "148_Tottus_Calama_Service",
+    "148_Tottus_Coquimbo_Service",
+    "148_Tottus_La_Serena_Service"
+    ]
+}
+
+{
+    "serviceIDs": [
+        "148_Tottus_Nataniel_Service",
+        "148_Tottus_La_Florida_Service",
+        "148_Tottus_Colina_Service",
+        "148_Tottus_Alameda_Service",
+        "148_Tottus_El_Bosque_Service",
+        "148_Tottus_Catedral_Service",
+|
+        "148_Tottus_Plaza_Tobalaba_Service",
+        "Ya_LosDominicos",
+        "Ya_Vivaceta",
+        "Ya_Vitacura",
+        "148_Tottus_Factoria_Service",
+        "Ya_Quilin",
+        "148_Tottus_Penaflor_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Antofagasta_Mall_Service"
+    ]
+}
+
+
+02
+
+{
+    "serviceIDs": [
+        "148_Tottus_La_Florida_Service",
+        "148_Tottus_Alameda_Service",
+        "148_Tottus_Catedral_Service",
+        "148_Tottus_Huechuraba_Service",
+        "148_Tottus_Plaza_Tobalaba_Service",
+        "148_Tottus_Vicuna_Mackenna_Service",
+        "Ya_TottusEgana",
+        "Ya_LosDominicos",
+        "148_Tottus_Walker_Martinez_Service",
+        "Ya_Vivaceta",
+        "Ya_PiedraRoja",
+        "148_Tottus_Factoria_Service",
+        "Ya_Quilin",
+        "148_Tottus_Plaza_Oeste_II_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Renaca_Service",
+        "148_Tottus_Buin_Service",
+        "148_Tottus_Los_Angeles_Mall_Service",
+        "148_Tottus_El_Trebol_Service",
+        "148_Tottus_Bio_Bio_Service",
+        "148_Tottus_Antofagasta_Norte_Service"
+    ]
+}
+
+
+03
+{
+    "serviceIDs": [
+        "148_Tottus_La_Florida_Service",
+        "148_Tottus_Alameda_Service",
+        "148_Tottus_Catedral_Service",
+        "148_Tottus_Huechuraba_Service",
+        "148_Tottus_Plaza_Tobalaba_Service",
+        "148_Tottus_Vicuna_Mackenna_Service",
+        "Ya_TottusEgana",
+        "Ya_LosDominicos",
+        "148_Tottus_Walker_Martinez_Service",
+        "Ya_Vivaceta",
+        "Ya_PiedraRoja",
+        "148_Tottus_Factoria_Service",
+        "Ya_Quilin",
+        "148_Tottus_Plaza_Oeste_II_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Renaca_Service",
+        "148_Tottus_Buin_Service",
+        "148_Tottus_Los_Angeles_Mall_Service",
+        "148_Tottus_El_Trebol_Service",
+        "148_Tottus_Bio_Bio_Service",
+        "148_Tottus_Antofagasta_Norte_Service"
+    ]
+}
+
+
+Dark
+BALMA
+
+{
+    "serviceIDs": [
+        "148_Tottus_Buin_Service""Ya_Quilin",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Renaca_Service",
+        "Ya_vitacuraI",
+        "Ya_PiedraRoja",
+        "Ya_LosDominicos",
+        "148_Tottus_Penaflor_Service",
+        "148_Tottus_Kennedy_Service",
+        "148_Tottus_Maitencillo_Service",
+        "148_Tottus_Antofagasta_Norte_Service",
+        "Ya_TottusEgana",
+    ]
+}
+
+
+
+
+{
+    "serviceIDs": [
+        "148_Amplifica_La_Reina_Service""148_Amplifica_La_Reina_Service",
+        "148_Amplifica_La_Reina_Service",
+        "148_Amplifica_La_Reina_Service",
+        "148_Amplifica_La_Reina_Service",
+        "148_Amplifica_La_Reina_Service",
+        "148_Amplifica_La_Reina_Service",
+    ]
+}
+
+
+{
+    "serviceIDs": [
+        "148_Amplifica_La_Reina_Service"
+    ]
+}
+
+
+
+================Adelanta_tus_compras Sabado=================
+
+
+https: //app.contentful.com/spaces/efpn4u8cnuye/entries/2sbCmKglhEuoPX4IpQNY8l?previousEntries=4zIPs6lyBg7PiHZ71LbeSP,BNOMIP2B1rCOdXxcguaNc
+{
+    "serviceIDs": [
+        "148_Tottus_Huechuraba_Service",
+        "148_Tottus_Vicuna_Mackenna_Service",
+        "148_Tottus_El_Bosque_Service",
+        "148_Tottus_La_Florida_Service",
+        "148_Tottus_Colina_Service",
+        "Ya_PiedraRoja",
+        "148_Tottus_Plaza_Oeste_II_Service".
+        "148_Tottus_Plaza_Tobalaba_Service",
+        "148_Tottus_Antofagasta_Norte_Service",
+        "148_Tottus_Calama_Service",
+        "148_Tottus_Coquimbo_Service",
+        "148_Tottus_La_Serena_Service",
+        "Ya_TottusEgana",
+        "Ya_LosDominicos",
+        "Ya_Quilin",
+        "148_Tottus_Chillan_Service",
+        "148_Tottus_Curico_Norte_Service",
+        "148_Tottus_El_Trebol_Service",
+        "148_Tottus_Los_Angeles_Mall_Service",
+        "148_Tottus_Quilpue_Service",
+        "148_Tottus_Renaca_Service",
+        "148_Tottus_Maitencillo_Service"
+    ]
+}
+
+
+
+{
+    "serviceIDs": [
+        "148_Tottus_Nataniel_Service",
+        "Ya_Vivaceta",
+        "148_Tottus_Catedral_Service",
+        "148_Tottus_San_fernando_Service",
+        "Ya_Vitacura",
+        "148_Tottus_Factoria_Service",
+        "148_Tottus_Buin_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Penaflor_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Alameda_Service",
+        "148_Tottus_Walker_Martinez_Service",
+        "148_Tottus_Antofagasta_Mall_Service",
+        "148_Tottus_Kennedy_Service",
+        "148_Tottus_Bio_Bio_Service"
+    ]
+}
+
+
+Puente Alto (No se tiene en los registros del excel)
+
+Gerónimo de Alderete (No se tiene en los registros del excel)
+
+
+
+==========sodimac==============
+
+{
+    "serviceIDs": [
+        "148_Sodimac_Kennedy_Service",
+        "148_Sodimac_Los_Dominicos_Service_2",
+        "148_Sodimac_Kennedy_Service_2",
+        "148_Sodimac_Los_Dominicos_Service",
+        "148_Sodimac_Kennedy_Service_1",
+        "148_Sodimac_Plaza_Oeste_Service",
+        "148_Sodimac_Nuble_Service",
+        "148_Sodimac_Quilin_Service",
+        "148_Sodimac_Nunoa_Service",
+        "148_Sodimac_Independencia_Service",
+        "148_Sodimac_Paseo_Estacion_Service",
+        "148_Sodimac_Maipu_Service",
+        "148_Sodimac_San_Miguel_Service",
+        "148_Sodimac_La_Florida_Service",
+        "148_Sodimac_Las_Condes_Service",
+        "148_Sodimac_Huechuraba_Service",
+        "148_Sodimac_Puente_Alto_Service"
+    ]
+}
+
+
+==========falabella==============
+
+{
+    "serviceIDs": [
+        "148_Falabella_Costanera_Center_Service",
+        "148_Falabella_Independencia_Service",
+        "148_Falabella_Los_Dominicos_Service_2",
+        "148_Falabella_Plaza_Egana_Service",
+        "148_Falabella_Plaza_Oeste_Service",
+        "148_Falabella_Plaza_Tobalaba_Service",
+        "148_Falabella_Plaza_Vespucio_Service"
+    ]
+}
+
+
+============================
+01
+{
+    "serviceIDs": [
+        "148_Tottus_Nataniel_Service",
+        "148_Tottus_La_Florida_Service",
+        "148_Tottus_Alameda_Service",
+        "Ya_TottusEgana",
+        "Ya_LosDominicos",
+        "Ya_Vivaceta",
+        "Ya_PiedraRoja",
+        "Ya_Quilin",
+        "148_Tottus_Plaza_Oeste_II_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Chillan_Service",
+        "148_Tottus_Curico_Norte_Service",
+        "148_Tottus_Antofagasta_Norte_Service"
+    ]
+}
+
+
+01
+{
+    "serviceIDs": [
+        "148_Tottus_Plaza_Tobalaba_Service",
+        "148_Tottus_Bio_Bio_Service",
+        "148_Tottus_Antofagasta_Norte_Service""148_Tottus_Alameda_Service",
+        "Ya_LosDominicos",
+        "148_Tottus_Nataniel_Service",
+        "148_Tottus_La_Florida_Service",
+        "Ya_TottusEgana",
+        "Ya_PiedraRoja",
+        "148_Tottus_San_fernando_Service",
+        "148_Tottus_Vicuna_Mackenna_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "Ya_Quilin",
+        "148_Tottus_La_Serena_Service",
+        "148_Tottus_Buin_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Curico_Norte_Service",
+        "148_Tottus_El_Trebol_Service",
+        "148_Tottus_Chillan_Service",
+        "148_Tottus_Colina_Service"
+    ]
+}
+
+
+vendorList
+vendorList Categoría BEBÉS Y NIÑOS
+
+{
+    "serviceIDs": [
+        "148_Amplifica_La_Reina_Service",
+        "148_Jugar_y_Crear_Service",
+        "148_Jugueteria_Cuncuna_Vitacura_Service",
+        "148_Green_Dolphin_Service",
+        "148_Amamantas_Service"
+    ]
+}
+
+
+CERVEZA
+
+{
+    "serviceIDs": [
+        "148_Tottus_Colina_Service",
+        "148_Tottus_El_Bosque_Service",
+        "Ya_TottusEgana",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Penaflor_Service"
+    ]
+}
+
+
+NOVA
+{
+    "serviceIDs": [
+        "148_Tottus_Alameda_Service",
+        "148_Tottus_El_Bosque_Service",
+        "Ya_Vitacura",
+        "148_Tottus_Plaza_Oeste_II_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Maitencillo_Service",
+        "148_Tottus_Buin_Service",
+        "148_Tottus_San_fernando_Service",
+        "148_Tottus_Los_Angeles_Mall_Service",
+        "148_Tottus_El_Trebol_Service",
+        "148_Tottus_Bio_Bio_Service",
+        "148_Tottus_Curico_Norte_Service"
+    ]
+}
+
+
+Tottus Chamisero
+MACHALI
+
+{
+    "serviceIDs": [
+        "148_Tottus_Huechuraba_Service",
+        "Ya_Vitacura",
+        "Ya_LosDominicos",
+        "Ya_PiedraRoja",
+        "148_Tottus_Factoria_Service",
+        "Ya_Quilin",
+        "148_Tottus_Kennedy_Service",
+        "148_Tottus_Renaca_Service",
+        "148_Tottus_Maitencillo_Service"
+    ]
+}
+
+
+
+
+
+{
+    "serviceIDs": [
+        "148_Tottus_Colina_Service",
+        "148_Tottus_Alameda_Service",
+        "148_Tottus_El_Bosque_Service",
+        "148_Tottus_Huechuraba_Service",
+        "Ya_Vivaceta",
+        "Ya_Vitacura",
+        "Ya_PiedraRoja",
+        "148_Tottus_Factoria_Service",
+        "Ya_Quilin",
+        "148_Tottus_Penaflor_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Quilpue_Service",
+        "148_Tottus_Maitencillo_Service",
+        "148_Tottus_Buin_Service",
+        "148_Tottus_San_fernando_Service"
+    ]
+}
+
+
+{
+    "serviceIDs": [
+        "148_Tottus_Nataniel_Service",
+        "148_Tottus_La_Florida_Service",
+        "148_Tottus_Colina_Service",
+        "148_Tottus_Alameda_Service",
+        "148_Tottus_El_Bosque_Service",
+        "148_Tottus_Plaza_Tobalaba_Service",
+        "148_Tottus_Vicuna_Mackenna_Service",
+        "Ya_TottusEgana",
+        "Ya_Vivaceta",
+        "Ya_PiedraRoja",
+        "Ya_Quilin",
+        "148_Tottus_Plaza_Oeste_II_Service",
+        "148_Tottus_Penaflor_Service",
+        "148_Tottus_Talagante_Cordillera_Service",
+        "148_Tottus_Padre_Hurtado_Service",
+        "148_Tottus_Buin_Service",
+        "148_Tottus_San_fernando_Service",
+        "148_Tottus_Los_Angeles_Mall_Service",
+        "148_Tottus_El_Trebol_Service",
+        "148_Tottus_Bio_Bio_Service",
+        "148_Tottus_Chillan_Service",
+        "148_Tottus_Curico_Norte_Service",
+        "148_Tottus_Antofagasta_Norte_Service",
+        "148_Tottus_La_Serena_Service"
+    ]
+}
+
+
+Tottus Miguel Alderete
+Tottus Chamisero
+La Calera
+Las Palmas Quillota
+Dark
+BALMA
+Machalí
+
+01
+{
+    "serviceIDs": [
+        "148_Tottus_Huechuraba_Service",
+        "Ya_Vitacura",
+        "Ya_LosDominicos",
+        "Ya_PiedraRoja",
+        "148_Tottus_Factoria_Service",
+        "Ya_Quilin",
+        "148_Tottus_Kennedy_Service",
+        "148_Tottus_Renaca_Service",
+        "148_Tottus_Maitencillo_Service"
+    ]
+}
+
+
+
+Sodimac
+
+{
+    "serviceIDs": [
+        "148_Sodimac_Quilin_Service",
+        "148_Sodimac_Independencia_Service",
+        "148_Sodimac_La_Florida_Service",
+        "148_Sodimac_Maipu_Service"
+    ]
+}
+
+
+{
+    "serviceIDs": [
+        "148_Sodimac_Los_Dominicos_Service_2",
+        "148_Sodimac_Kennedy_Service_2",
+        "148_Sodimac_Nuble_Service",
+        "148_Sodimac_Plaza_Oeste_Service",
+        "148_Sodimac_Nunoa_Service",
+        "148_Sodimac_Quilin_Service",
+        "148_Sodimac_Puente_Alto_Service",
+        "148_Sodimac_Independencia_Service",
+        "148_Sodimac_San_Miguel_Service",
+        "148_Sodimac_La_Florida_Service",
+        "148_Sodimac_Paseo_Estacion_Service",
+        "148_Sodimac_Huechuraba_Service",
+        "148_Sodimac_Las_Condes_Service",
+        "148_Sodimac_Maipu_Service"
+    ]
+}
+
+
+
+
+OPERACIÓN DE LUNES A DOMINGO
+{
+    "serviceIDs": [
+        "148_Sodimac_Los_Dominicos_Service_2",
+        "148_Sodimac_Kennedy_Service_2",
+        "148_Sodimac_Nuble_Service",
+        "148_Sodimac_Plaza_Oeste_Service",
+        "148_Sodimac_Nunoa_Service",
+        "148_Sodimac_Puente_Alto_Service",
+        "148_Sodimac_San_Miguel_Service",
+        "148_Sodimac_Paseo_Estacion_Service",
+        "148_Sodimac_Huechuraba_Service",
+        "148_Sodimac_Las_Condes_Service"
+    ]
+}
+
+OPERACIÓN DE LUNES A VIERNES (se baja banners y botón el finde)
+{
+    "serviceIDs": [
+        "148_Sodimac_Independencia_Service",
+        "148_Sodimac_Maipu_Service",
+        "148_Sodimac_Quilin_Service"
+    ]
+}
+
+
+{
+    "serviceIDs": [
+    "148_Tottus_Alameda_Service",
+    "148_Tottus_Antofagasta_Mall_Service",
+    "148_Tottus_Bio_Bio_Service",
+    "148_Tottus_Buin_Service",
+    "148_Tottus_Catedral_Service",
+    "148_Tottus_El_Bosque_Service",
+    "148_Tottus_El_Trebol_Service",
+    "148_Tottus_Factoria_Service",
+    "148_Tottus_Huechuraba_Service",
+    "148_Tottus_La_Florida_Service",
+    "148_Tottus_Maitencillo_1_Service",
+    "148_Tottus_Maitencillo_Service",
+    "148_Tottus_Padre_Hurtado_Service",
+    "148_Tottus_Penaflor_Service",
+    "148_Tottus_Plaza_Oeste_II_Service",
+    "148_Tottus_Plaza_Tobalaba_Service",
+    "148_Tottus_Renaca_Service",
+    "148_Tottus_Talagante_Cordillera_Service",
+    "148_Tottus_Vicuna_Mackenna_Service",
+    "148_Tottus_Vicuna_Mackenna_Service",
+    "Ya_LosDominicos",
+    "Ya_PiedraRoja",
+    "Ya_TottusEgana",
+    "Ya_Quilin",
+    "Ya_vitacuraI",
+    "Ya_Vitacura",
+    "Ya_Vivaceta",
+    "148_Tottus_Nataniel_Service",
+    "148_Tottus_Los_Angeles_Mall_Service",
+    "148_Tottus_Pajaritos_Service",
+    "148_Tottus_Antofagasta_Norte_Service",
+    "148_Tottus_Colina_Service",
+    "148_Tottus_Curico_Norte_Service",
+    "148_Tottus_Quilpue_Service",
+    "148_Tottus_Chillan_Service",
+    "148_Tottus_Kennedy_Service",
+    "148_Tottus_San_fernando_Service",
+    "148_Tottus_Walker_Martinez_Service",
+    "148_Tottus_Calama_Service",
+    "148_Tottus_Coquimbo_Service",
+    "148_Tottus_La_Serena_Service"
+    ]
+}

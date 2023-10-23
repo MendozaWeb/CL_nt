@@ -1,0 +1,32 @@
+=================PREGUNTAS=================
+
+Analiza la pregunta y solo me indicas la alternativa correcta:
+===================================================
+¿Cuándo se debe utilizar obligatoriamente la anotación @Column de un atributo en una entidad?
+
+
+a
+Cuando el nombre del atributo de la entidad es diferente al de la columna a la que representa
+
+b
+Cuando se quiere asignar parámetros especiales adicionales a un atributo de la entidad
+
+c
+Cuando el atributo posee nombres compuestos
+
+d
+Cuando se desea cambiar el tipo de dato del atributo que representa a la columna
+
+====================================================
+
+git pull
+Arquitecturas Limpias para Desarrollo de Software
+
+
+====================================================
+
+
+
+
+
+

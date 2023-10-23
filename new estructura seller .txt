@@ -1,0 +1,56 @@
+Content para ver los seller: 
+
+DL: https://fazil-app.com/vendor?contentfulid=7e7Knhf7DNPa45a1bor3gP
+
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/7e7Knhf7DNPa45a1bor3gP
+
+====================================
+exploreBrandCategories Categoría Saludables
+
+
+brandCategoryItemChileProd - Saludables - VERDULERIA PANCHITO
+
+
+name=Zeste Limon&
+
+
+
+https://api.test.tottus.cl/vendorDetails?name=Zeste Limon&id=2rlgS6xcnOkofbdiQEiyHS&searchBySellerID=17407057
+
+
+
+exploreBrandCategories Categoría Bebes Niños
+
+
+
+
+https://api.test.tottus.cl/vendorDetails?name=Bien argento&id=2xhPUIIqIwAKPCY2cwhJu4&searchBySellerID=7715148801
+
+
+https://fazil-app.com/vendor?contentfulid=7e7Knhf7DNPa45a1bor3gP
+
+
+
+====================================
+PIDELO FAZIL:
+	Farmacias   (en Desarrollo)
+	Mascotas
+	Bebes Niños  (Ya esta) (seviceID falta)
+	Flores Regalos
+	Celebraciones Juegos  (Ya esta)
+	Salud
+	Belleza		(Ya esta)(seviceID falta)
+	Fitness
+	Otras Tiendas (ya esta)
+
+
+MERCADO FÁCIL
+	Mundo Vegano
+	Chocolateria         (Ya esta)
+	Cafe                 (Ya esta)
+	Gourmet              (Ya esta)
+	Carnes y Pescados    (Ya esta)
+	Licorerias
+	Pasteles Panaderias  (Ya esta)
+	Saludables			 (Ya esta) (seviceID falta)
+	Market               (Ya esta) (seviceID falta)

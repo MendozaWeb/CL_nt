@@ -1,0 +1,24 @@
+Requerimiento - Sx48 horas - Desde el Sábado 04 hasta el Domingo 05 de Febrero
+    Hola chic@s!
+    Subir el Banner sx48horas en home fazil en el orden 1er lugar
+    PAPAS DUQUESA
+    Muchas gracias!!
+    ID HIJO:  appsolox48horas   (Solo por 48 Horas Sábado)
+    ID PADRE: temporalesapp (0a706d55-8b2c-4d7c-9650-1158c345101e)
+    Solución
+        IMG BANNER
+            https://images.ctfassets.net/efpn4u8cnuye/7wgWcX93xPmiGvz9DHJoio/9936ca18ac837ecc05a69a65a796c7fc/banner-papas-fritas-2.png
+        IMG PLP
+            https://images.ctfassets.net/efpn4u8cnuye/6OsMuTHNnMJbEu2va9qV5p/4f0fa3e60c9c90c5eabbffa03b3bcee8/liga-papas.png
+            url: https://app.contentful.com/spaces/efpn4u8cnuye/entries/4vOXwgOiSEk7VqHuCizBmB
+        URL
+            PRUEBAS
+            DL: https://fazil-app.com/categories?name=papasDuquesa&id=dbe952e6-5a0a-4d4d-9708-df8a73e96549&landingtonewPLP=true&defaultSelectParentId=0a706d55-8b2c-4d7c-9650-1158c345101e&defaultSortBy=Recomendados
+            PRODUCCION
+            https://api.test.tottus.cl/categories?name=papasDuquesa&id=dbe952e6-5a0a-4d4d-9708-df8a73e96549&landingtonewPLP=true&defaultSelectParentId=0a706d55-8b2c-4d7c-9650-1158c345101e&defaultSortBy=Recomendados
+        Home
+        https://app.contentful.com/spaces/efpn4u8cnuye/entries/3HEcfuZwJNySCswZdNOPd8?previousEntries=1PTVVvU08ihLx7rbjwwjTv,4H2JemudG4UIZnPbqmOJBj
+        imageLinkProdChile - Home Fazil - Papas duquesa
+        home_fazil_pp_sx48horas_papas_prefrita_duquesa_2023_febrero_54_sabado_04
+        DEEPLINK
+        URL: https://fazil-app.com/vendor?contentfulid=1PTVVvU08ihLx7rbjwwjTv

@@ -1,0 +1,5387 @@
+
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=3MarwGzmUPktGiy5A4QjZ3
+
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=2QOW2B6krPHnevZ3TWuzwn
+
+==============CAT ACCESO RAPIDO==================
+
+Carnes (CATG15488)
+/
+Vacuno (CATG20258)
+
+/
+Mundo Parrillero (CATG15506)
+/
+Bebidas, Jugos y Aguas (CATG20160)
+
+
+Carnes (CATG15488)
+/
+Cerdo (CATG20259)
+
+
+Mundo Parrillero (CATG15506)
+/
+Vinos y Licores (CATG20161)
+
+
+
+Tottus Express TOTTUS APP (CATG15093)
+/
+Bebidas, Aguas y Jugos (CATG15482)
+
+/
+Especiales Fazil (CATG10196)
+/
+Semana Santa (CATG10209)
+
+========================ProductID==============================
+
+
+Product id: CERV MARAC STONES 2.5G GL 6PK LATA 350CC
+ID: 110619460
+DL: https://fazil-app.com/productdesc?productkey=110619460
+
+Product id: CERV MARAC STONES 2.5G GL 6PK LATA 350CC
+ID: 110619460
+DL: https://fazil-app.com/productdesc?productkey=110619460
+
+Product id: Pack Cerveza Stones Redcitrus 2.5°
+ID: 115613956
+DL: https://fazil-app.com/productdesc?productkey=115613956
+
+
+
+Product id: PACK CERVEZA LATA 24 UND CUSQUENA 354 CC
+ID: 110354428
+DL: https://fazil-app.com/productdesc?productkey=110354428
+
+
+ProductId: SUAVIZANTE ADORABLE DOWNY 1000 ML
+ID: 110617256
+DL: https://fazil-app.com/productdesc?productkey=110617256
+
+110617256	 .
+
+
+DL: https://fazil-app.com/productdesc?productkey=115880673
+
+
+Trutro Entero de Pollo Peso Variabl
+DL: https://fazil-app.com/productdesc?productkey=116024749
+116024750
+
+
+Punta Picana Importada Cat-V Vacío
+DL: https://fazil-app.com/productdesc?productkey=115988921
+115988923
+
+
+Punta Picana Importado Cat-V Vacío | Tottus
+DL: https://fazil-app.com/productdesc?productkey=116160309
+116160310
+
+
+ProductId: ENTRANA AMERICANA CON PIEL SANTA BRASA
+ID: 117698627
+DL: https://fazil-app.com/productdesc?productkey=117698627
+
+
+DL: https://fazil-app.com/productdesc?productkey=116160307
+110622685
+
+=======================ProductID=======================
+115880673	LOMO VETADO NAC. CAT. V NATURAL
+116160307	LOMO LISO TOTTUS IMP. CAT-V VACIO
+
+115988911	Posta Negra Importado Cat-V Vacío
+115988912	Lomo Liso Importado Cat-V Vacío
+110623006	HAMBURGUESA DE VAC RDA 100G.
+110354396	CERVEZA Lager x24 LN HEINEKEN 330 CC
+116166062	Palta Hass Malla
+113956381	GIN BEEFEATER PINK 375G 750 CC
+110616920	NESCAFE FINA SELECCION 200G CL
+Clorox	CATG20308 | 110613627
+110610993	QUESO MANTECOSO LAMINADO 500 GR RESELLABLE.
+116165192	TOMATE LARGA VIDA
+
+115988915 Posta Negra Importado Cat-V Vacío
+
+115988896	Asiento Importado Cat-V Vacío
+
+115988897	Asiento Importado Cat-V Vacío
+116166606	FILETE TOTTUS IMP. CAT- V VACIO
+116166607	FILETE TOTTUS IMP. CAT- V VACIO
+
+
+116165193
+116160245	Lomo Vetado Importado Cat-V Vacío
+116160246	Lomo Vetado Importado Cat-V Vacío (vista)
+
+
+116454972
+116160245	Lomo Vetado Importado Cat-V Vacío
+110617256	SUAVIZANTE ADORABLE DOWNY 1000 ML .
+115988920	Punta Paleta Importado Cat-V Vacío
+        115988922
+
+116160308 Lomo liso home fazil
+116160246 Lomo vetado home tottus
+
+
+=================================CATEGORIES======================================
+
+============FRRCINE======================
+Categoria: Platos Preparados
+ID: CATG24203
+ https://fazil-app.com/categories?name=PlatosPreparados&id=CATG24203&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+ Categoria: Platos Preparados
+ID: CATG15492 
+ https://fazil-app.com/categories?nname=PlatosPreparados&id=CATG15492&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+======================================
+
+
+
+
+
+
+
+
+Category name: Carnes para la Parrilla	
+CAT: CATG20286
+ID: 116160247
+DL: https://fazil-app.com/productdesc?productkey=110619460
+
+Category name: Cervezas Importadas 
+ID: CATG20181 
+DL: https://fazil-app.com/categories?name=CervezasImportadas&id=CATG20181&landingtonewPLP=true&defaultSelectParentId=CATG20162&defaultSortBy=Recomendados
+
+
+
+Category name: SALCHICHA PREMIUM RECETA 
+ID: CATG10198
+DL: https://fazil-app.com/categories?name=SALCHICHAPREMIUMRECETA&id=CATG10198&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+Category name: PAPA MALLA 2KG TOTTUS
+ID: CATG10198
+DL: https://fazil-app.com/categories?name=PAPAMALLA2KGTOTTUS&id=CATG10198&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+RM DL: https://fazil-app.com/vendor?contentfulid=1IHgocGa4vzcDXZN8W0kOn
+
+
+
+
+
+RM DL: https://fazil-app.com/vendor?contentfulid=4zIPs6lyBg7PiHZ71LbeSP
+
+https://api.test.tottus.cl/categories?name=PapelesParaElHogar&id=CATG20293&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Semanda de la Belleza Murana 
+ID: CATG23792 
+ https://fazil-app.com/categories?name=SemandadelaBellezaMurana&id=CATG23792&landingtonewPLP=true&defaultSelectParentId=CATG23919&defaultSortBy=Recomendados
+
+
+
+
+
+DL: https://fazil-app.com/categories?name=Marcas Tottus&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Category name: Live Carlo Cocina 
+ID: CATG10201 
+DL: https://fazil-app.com/categories?name=LiveCarloCocina&id=CATG10201&landingtonewPLP=true&defaultSelectParentId=CATG10195&defaultSortBy=Recomendados
+
+
+
+Category name: Pascua 
+ID: CATG10209 
+DL: https://fazil-app.com/categories?name=Pascua&id=CATG10209&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+antes
+https://fazil-app.com/categories?name=Pascua&id=CATG10211&landingtonewPLP=true&defaultSelectParentId=CATG10209&defaultSortBy=Recomendados
+
+
+
+CATG10146
+
+--------------------23/03------------------------
+
+https://fazil-app.com/categories?name=Lacteos&id=CATG10169&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+https://fazil-app.com/categories?name=Congelados&id=CATG10170&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+
+https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG10174&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=PañalesyToallasHumedas&id=CATG10177&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=Mascotas&id=CATG10180&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=Licores&id=CATG10183&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=Cervezas&id=CATG10185&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=CocktailySnack&id=CATG10191&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+https://fazil-app.com/categories?name=GalletasyChocolates&id=CATG10192&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=ColadosyPicados&id=CATG23787&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG10174&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+https://fazil-app.com/categories?name=Fiambres&id=CATG10171&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+https://fazil-app.com/categories?name=CuidadoPersonal&id=CATG10175&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+DL: https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+https://api.test.tottus.cl/categories?name=Nestle&id=CATG10228&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Productos a luca$ - Antes
+https://api.test.tottus.cl/categories?name=EspecialMarcasPropias&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Category name: Especial Marcas Propias | Productos a luca$ - NOW
+ID: CATG10216 
+DL: https://fazil-app.com/categories?name=EspecialMarcasPropias&id=CATG10216&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Category name: Especial Marcas Propias
+ID: CATG10216 
+DL: https://fazil-app.com/categories?name=EspecialMarcasPropias&id=CATG10216&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Camarones 
+ID: CATG20134 
+DL: https://fazil-app.com/categories?name=Camarones&id=CATG20134&landingtonewPLP=true&defaultSelectParentId=CATG20115&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+Category name: Despacho Gratis sobre $14990 
+ID: Catg10229 
+DL: https://fazil-app.com/categories?name=DespachoGratissobre$14990&id=Catg10229&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+https://fazil-app.com/vendor?contentfulid=4zIPs6lyBg7PiHZ71LbeSP
+
+
+DL: https://api.test.tottus.cl/categories?name=FrutasyVerduras&id=CATG10172&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+DL: https://api.test.tottus.cl/categories?name=Carnes&id=CATG10173&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+DL: https://api.test.tottus.cl/categories?name=Fiambres&id=CATG10171&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+Category name: Cerdo 
+ID: CATG10188 
+DL: https://api.test.tottus.cl/categories?name=Cerdo&id=CATG10188&landingtonewPLP=true&defaultSelectParentId=CATG10173&defaultSortBy=Recomendados
+
+
+Category name: Pollo 
+ID: CATG10187 
+DL: https://fazil-app.com/categories?name=Pollo&id=CATG10187&landingtonewPLP=true&defaultSelectParentId=CATG10173&defaultSortBy=Recomendados
+
+
+
+Category name: Pavo 
+ID: CATG10189 
+DL: https://fazil-app.com/categories?name=Pavo&id=CATG10189&landingtonewPLP=true&defaultSelectParentId=CATG10173&defaultSortBy=Recomendados
+
+
+
+DL: https://api.test.tottus.cl/categories?name=Cervezas&id=CATG10185&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+
+DL: https://api.test.tottus.cl/categories?name=PañalesyToallasHumedas&id=CATG10177&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+DL: https://fazil-app.com/categories?name=Mascotas&id=CATG10180&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+CATG18725
+
+Category name: Pan de Molde 
+ID: CATG18730 
+DL: https://fazil-app.com/categories?name=PandeMolde&id=CATG18730&landingtonewPLP=true&defaultSelectParentId=CATG18725&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Alimentos Básicos 
+ID: CATG10190 
+DL: https://fazil-app.com/categories?name=AlimentosBásicos&id=CATG10190&landingtonewPLP=true&defaultSelectParentId=CATG10179&defaultSortBy=Recomendados
+
+
+
+DL: https://api.test.tottus.cl/categories?name=Congelados&id=CATG10170&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Huevitos Milka 
+ID: CATG23794 
+DL: https://fazil-app.com/categories?name=HuevitosMilka&id=CATG23794&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Category name: Caffe Pera 
+ID: CATG22071 
+DL: https://fazil-app.com/categories?name=CaffePera&id=CATG22071&landingtonewPLP=true&defaultSelectParentId=CATG22578&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Especial Tissue 
+ID: CATG23777 
+DL: https://fazil-app.com/categories?name=EspecialTissue&id=CATG23777&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Il Pomodoro 
+ID: CATG21888 
+DL: https://fazil-app.com/categories?name=IlPomodoro&id=CATG21888&landingtonewPLP=true&defaultSelectParentId=CATG22576&defaultSortBy=Recomendados
+
+
+Category name: Pepitas de Oro 
+ID: CATG20832 
+DL: https://fazil-app.com/categories?name=PepitasdeOro&id=CATG20832&landingtonewPLP=true&defaultSelectParentId=CATG22568&defaultSortBy=Recomendados
+
+
+Category name: Verduleria Panchito 
+ID: CATG20845 
+DL: https://fazil-app.com/categories?name=VerduleriaPanchito&id=CATG20845&landingtonewPLP=true&defaultSelectParentId=CATG22568&defaultSortBy=Recomendados
+
+
+
+Category name: dg super pollo 
+ID: CATG23798 
+DL: https://fazil-app.com/categories?name=dgsuperpollo&id=CATG23798&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+Category name: Hot Sale 
+ID: CATG10146 
+DL: https://fazil-app.com/categories?name=HotSale&id=CATG10146&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Category name: Black Week Sodimac 
+ID: CATG23799 
+DL: https://fazil-app.com/categories?name=BlackWeekSodimac&id=CATG23799&landingtonewPLP=true&defaultSelectParentId=CATG23754&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Carnes 
+ID: CATG10173 
+DL: https://fazil-app.com/categories?name=Carnes&id=CATG10173&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+Category name: Cuidado de la Ropa 
+ID: CATG23789 
+DL: https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG23789&landingtonewPLP=true&defaultSelectParentId=CATG10174&defaultSortBy=Recomendados
+
+
+Category name: Live Carlo Cocina 
+ID: CATG10202 
+DL: https://fazil-app.com/categories?name=LiveCarloCocina&id=CATG10202&landingtonewPLP=true&defaultSelectParentId=CATG10195&defaultSortBy=Recomendados
+
+
+Category name: Menaje 
+ID: CATG10158 
+DL: https://fazil-app.com/categories?name=Menaje&id=CATG10158&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+Category name: Verduras Congeladas 
+ID: CATG20111 
+DL: https://fazil-app.com/categories?name=VerdurasCongeladas&id=CATG20111&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+Antes
+https://fazil-app.com/categories?name=Verduras Congeladas&id=CATG20037&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+
+
+
+antes
+DL: https://fazil-app.com/categories?name=FrutasCongelados&id=CATG20037&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+
+Antes: Smothies
+https://api.test.tottus.cl/categories?name=Smothies&id=CATG20127&landingtonewPLP=true&defaultSelectParentId=CATG20112&defaultSortBy=Recomendados
+
+DL: https://api.test.tottus.cl/categories?name=Smothies&id=CATG20037&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=DetoxconFazil&id=CATG20848&landingtonewPLP=true&defaultSelectParentId=CATG20823&defaultSortBy=Recomendados
+
+
+Category name: Verduras para Parrillar 
+ID: CATG20156 
+DL: https://fazil-app.com/categories?name=VerdurasparaParrillar&id=CATG20156&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+
+
+Category name: Verduras para Parrillar 
+ID: CATG20156 
+DL: https://api.test.tottus.cl/categories?name=Verduras para Parrillar&id=CATG20156&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+Antes
+https://api.test.tottus.cl/categories?name=Vegetales&id=CATG21775&landingtonewPLP=true&defaultSelectParentId=CATG21737&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Bebidas&id=CATG20171&landingtonewPLP=true&defaultSelectParentId=CATG20160&defaultSortBy=Recomendados
+
+
+
+Category name: Cerdo 
+ID: CATG20259 
+DL: https://fazil-app.com/categories?name=Cerdo&id=CATG20259&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+antes
+https://api.test.tottus.cl/categories?name=Cerdo&id=CATG20273&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Pavo 
+ID: CATG20261 
+DL: https://fazil-app.com/categories?name=Pavo&id=CATG20261&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+antes
+https://api.test.tottus.cl/categories?name=Pavo&id=CATG20283&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Panadería&id=CATG18727&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
+
+
+
+antes:
+https://api.test.tottus.cl/categories?name=Panadería&id=CATG18727&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
+
+
+
+
+antes|
+https://api.test.tottus.cl/categories?name=Cervezas&id=CATG15679&landingtonewPLP=true&defaultSelectParentId=CATG15479&defaultSortBy=Recomendados
+
+
+Antes
+https://api.test.tottus.cl/categories?name=VinosyLicores&id=CATG20174&landingtonewPLP=true&defaultSelectParentId=CATG20161&defaultSortBy=Recomendados
+
+
+
+
+
+antes
+https://api.test.tottus.cl/categories?name=BebidasJugosyAguasSaborizadas&id=CATG19043&landingtonewPLP=true&defaultSelectParentId=CATG15482&defaultSortBy=Recomendados
+
+
+Category name: Bebidas, Aguas y Jugos 
+ID: CATG15482 
+DL: https://api.test.tottus.cl/categories?name=Bebidas, Aguas y Jugos &id=CATG15482&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Category name: Detox 
+ID: CATG23879 
+DL: https://api.test.tottus.cl/categories?name=Detox&id=CATG23879&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=Menaje&id=CATG10163&landingtonewPLP=true&defaultSelectParentId=CATG10158&defaultSortBy=Recomendados
+
+
+Category name: Vajillas y Fuentes 
+ID: CATG10163 
+DL: https://fazil-app.com/categories?name=VajillasyFuentes&id=CATG10163&landingtonewPLP=true&defaultSelectParentId=CATG10158&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+ProductId: Combo Pollo Asado Entero más Caja de Papas Fritas Grande
+ID: 116169630
+DL: https://fazil-app.com/productdesc?productkey=116169630
+
+
+
+Category name: Electro 
+ID: CATG15494 
+DL: https://fazil-app.com/categories?name=Electro&id=CATG15494&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Cervezas Artesanales 
+ID: CATG15683 
+DL: https://fazil-app.com/categories?name=CervezasArtesanales&id=CATG15683&landingtonewPLP=true&defaultSelectParentId=CATG15479&defaultSortBy=Recomendados
+
+
+Category name: Pescados y Congelados 
+ID: CATG23779 
+DL: https://fazil-app.com/categories?name=PescadosyCongelados&id=CATG23779&landingtonewPLP=true&defaultSelectParentId=CATG10209&defaultSortBy=Recomendados
+
+
+
+Category name: Frescos
+ID: CATG10204 
+DL: https://fazil-app.com/categories?name=Frescos&id=CATG10204&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Category name: Huevitos de Pascua Tottus 
+ID: CATG23930 
+DL: https://fazil-app.com/categories?name=HuevitosdePascuaTottus&id=CATG23930&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+https://fazil-app.com/categories?name=CuidadosdeFFVV&id=CATG20038&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+Tottus Express TOTTUS APP (CATG15093)
+/
+Frutas y Verduras (CATG15478)
+
+
+Category name: Frutas y Verduras 
+ID: CATG15478 
+DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Category name: Semana Santa 
+ID: CATG10209 
+DL: https://fazil-app.com/categories?name=SemanaSanta&id=CATG10209&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Pascua 
+ID: CATG10211 
+DL: https://fazil-app.com/categories?name=Pascua&id=CATG10211&landingtonewPLP=true&defaultSelectParentId=CATG10209&defaultSortBy=Recomendados
+
+
+
+
+Category name: Pescados y Mariscos Frescos 
+ID: CATG15691 
+DL: https://fazil-app.com/categories?name=PescadosyMariscosFrescos&id=CATG15691&landingtonewPLP=true&defaultSelectParentId=CATG15490&defaultSortBy=Recomendados
+
+
+Category name: Conservas 
+ID: CATG21753 
+DL: https://fazil-app.com/categories?name=Conservas&id=CATG21753&landingtonewPLP=true&defaultSelectParentId=CATG21733&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+Category name: Papeles para el Hogar 
+ID: CATG23790 
+DL: https://fazil-app.com/categories?name=PapelesparaelHogar&id=CATG23790&landingtonewPLP=true&defaultSelectParentId=CATG10174&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Platos Listos 
+ID: CATG19056 
+DL: https://fazil-app.com/categories?name=PlatosListos&id=CATG19056&landingtonewPLP=true&defaultSelectParentId=CATG15492&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Pollo 
+ID: CATG20260 
+DL: https://fazil-app.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+Category name: Cerdo 
+ID: CATG21747 
+DL: https://fazil-app.com/categories?name=Cerdo&id=CATG21747&landingtonewPLP=true&defaultSelectParentId=CATG21732&defaultSortBy=Recomendados
+
+CATG19052
+
+
+
+
+
+
+Category name: Bebidas  
+ID: CATG20171 
+DL: https://fazil-app.com/categories??name=Bebidas&id=CATG20171&landingtonewPLP=true&defaultSelectParentId=CATG20160&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Conservas de Pescado 
+ID: CATG20196 
+DL: https://fazil-app.com/categories?name=ConservasdePescado&id=CATG20196&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Frutas y Verduras 
+ID: CATG10172 
+DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG10172&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: Lacteos 
+ID: CATG10169 
+DL: https://fazil-app.com/categories?name=Lacteos&id=CATG10169&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+----------------- 26/04 --------------------
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Conservas de Pescado 
+ID: CATG20196 
+DL: https://fazil-app.com/categories?name=ConservasdePescado&id=CATG20196&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
+
+
+
+
+Category name: Oreo 
+ID: CATG23981 
+DL: https://fazil-app.com/categories?name=Oreo&id=CATG23981&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Panadería y Pastelería 
+ID: CATG23994 
+DL: https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG23994&landingtonewPLP=true&defaultSelectParentId=CATG23982&defaultSortBy=Recomendados
+
+
+Category name: Mantequillas y Manjar 
+ID: CATG24017 
+DL: https://fazil-app.com/categories?name=MantequillasyManjar&id=CATG24017&landingtonewPLP=true&defaultSelectParentId=CATG23992&defaultSortBy=Recomendados
+
+
+Category name: Yoghurt 
+ID: CATG24020 
+DL: https://fazil-app.com/categories?name=Yoghurt&id=CATG24020&landingtonewPLP=true&defaultSelectParentId=CATG23992&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Día de la Cerveza 
+ID: CATG24023 
+DL: https://fazil-app.com/categories?name=DíadelaCerveza&id=CATG24023&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Category name: Abarrotes 
+ID: CATG23969 
+DL: https://fazil-app.com/categories?name=Abarrotes&id=CATG23969&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+Category name: Líquidos 
+ID: CATG23970 
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG23970&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+Category name: Electrodomésticos 
+ID: CATG23972 
+DL: https://fazil-app.com/categories?name=Electrodomésticos&id=CATG23972&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+
+
+<option value="Default Shipping Method">Default Shipping Method - $15.95</option>
+
+
+
+Category name: Deportes 
+ID: CATG23975 
+DL: https://fazil-app.com/categories?name=Deportes&id=CATG23975&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+Category name: Textil Hogar 
+ID: CATG23976 
+DL: https://fazil-app.com/categories?name=TextilHogar&id=CATG23976&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+Category name: Deco Hogar 
+ID: CATG23977 
+DL: https://fazil-app.com/categories?name=DecoHogar&id=CATG23977&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+
+Category name: Día de la Cerveza 
+ID: CATG24023 
+DL: https://api.test.tottus.cl/categories?name=DíadelaCerveza&id=CATG24023&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Category name: Pañales y Toallas Húmedas 
+ID: CATG10177 
+DL: https://fazil-app.com/categories?name=PañalesyToallasHúmedas&id=CATG10177&landingtonewPLP=true&defaultSelectParentId=CATG23788&defaultSortBy=Recomendados
+
+
+Papel Higienico Doble Hoja 8x50 mts 
+
+Category name: Papeles para el Hogar 
+ID: CATG24009 
+DL: https://fazil-app.com/categories?name=PapelesparaelHogar&id=CATG24009&landingtonewPLP=true&defaultSelectParentId=CATG23990&defaultSortBy=Recomendados
+
+
+TOTTUS EXPRESS
+
+        _ Detergente Líquido Multiacción 3 Litros CATG24008 
+        
+        Category name: Cuidado de la Ropa 
+        ID: CATG24008 
+        DL: https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24008&landingtonewPLP=true&defaultSelectParentId=CATG23990&defaultSortBy=Recomendados
+        
+        _ Desodorantes Rexona Seleccionados $2.490 CATG24014
+        
+        Category name: Desodorantes Personales 
+        ID: CATG24014 
+        DL: https://fazil-app.com/categories?name=DesodorantesPersonales&id=CATG24014&landingtonewPLP=true&defaultSelectParentId=CATG23991&defaultSortBy=Recomendados
+        
+
+
+
+
+
+
+
+
+
+
+CATG23986
+CATG24020
+
+Category name: Hot Sale
+ID: CATG23982
+DL: https://fazil-app.com/categories?name=HotSale&id=CATG23982&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Category name: Capsulas de Cafe 
+ID: CATG20067 
+DL: https://fazil-app.com/categories?name=CapsulasdeCafe&id=CATG20067&landingtonewPLP=true&defaultSelectParentId=CATG20054&defaultSortBy=Recomendados
+
+
+Category name: Pavo 
+ID: CATG24005 
+DL: https://fazil-app.com/categories?name=Pavo&id=CATG24005&landingtonewPLP=true&defaultSelectParentId=CATG23985&defaultSortBy=Recomendados
+
+Category name: Vinos y Licores 
+ID: CATG15094 
+DL: https://fazil-app.com/categories?name=Vinos+y+Licores&id=CATG15094&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+/
+Hot Sale (CATG23982)
+/
+Líquidos (CATG23984
+
+
+
+Category name: Licores 
+ID: CATG24001 
+DL: https://fazil-app.com/categories?name=Licores&id=CATG24001&landingtonewPLP=true&defaultSelectParentId=CATG23984&defaultSortBy=Recomendados
+
+
+Category name: Líquidos 
+ID: CATG23984 
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG23984&landingtonewPLP=true&defaultSelectParentId=CATG23982&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: DG Packs Detergentes  Omo y Drive 
+ID: CATG23980 
+DL: https://fazil-app.com/categories?name=DGPacksDetergentesOmoyDrive&id=CATG23980&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+
+https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG10172&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+Jesica Upc-asesora
+
++51 982 508 466
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------02/05-------------
+
+Category name: Pañales y Toallas Húmedas 
+ID: CATG10177 
+DL: https://fazil-app.com/categories?name=PañalesyToallasHúmedas&id=CATG10177&landingtonewPLP=true&defaultSelectParentId=CATG23788&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: DOVE 
+ID: CATG23931 
+DL: https://api.test.tottus.cl/categories?name=DOVE&id=CATG23931&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Combo Pollo Asado 
+ID: CATG10199 
+DL: https://fazil-app.com/categories?name=ComboPolloAsado&id=CATG10199&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+Category name: Día de Lácteos y Congelados 
+ID: CATG23967 
+DL: https://fazil-app.com/categories?name=DiadeLácteosyCongelados&id=CATG23967&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Greendays 
+ID: CATG24035 
+DL: https://fazil-app.com/categories?name=Greendays&id=CATG24035&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Category name: Impresoras 
+ID: CATG24040 
+DL: https://fazil-app.com/categories?name=Impresoras&id=CATG24040&landingtonewPLP=true&defaultSelectParentId=CATG24035&defaultSortBy=Recomendados
+
+
+Category name: Cuidado Personal 
+ID: CATG24041 
+DL: https://fazil-app.com/categories?name=CuidadoPersonal&id=CATG24041&landingtonewPLP=true&defaultSelectParentId=CATG24035&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Marcas Tottus 
+ID: CATG15501 
+https://fazil-app.com/categories?name=MarcasTottus&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Category name: Frutas y Verduras 
+ID: CATG15478 
+DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Aspiradoras 
+ID: CATG24036 
+DL: https://fazil-app.com/categories?name=Aspiradoras&id=CATG24036&landingtonewPLP=true&defaultSelectParentId=CATG24035&defaultSortBy=Recomendados
+
+
+Category name: Electrodomésticos 
+ID: CATG24038 
+DL: https://fazil-app.com/categories?name=Electrodomésticos&id=CATG24038&landingtonewPLP=true&defaultSelectParentId=CATG24035&defaultSortBy=Recomendados
+
+Category name: Televisores 
+ID: CATG24037 
+DL: https://fazil-app.com/categories?name=Televisores&id=CATG24037&landingtonewPLP=true&defaultSelectParentId=CATG24035&defaultSortBy=Recomendados
+
+
+Category name: Telefonía 
+ID: CATG24039 
+DL: https://fazil-app.com/categories?name=Telefonía&id=CATG24039&landingtonewPLP=true&defaultSelectParentId=CATG24035&defaultSortBy=Recomendados
+
+Category name: Audio 
+ID: CATG24042 
+DL: https://fazil-app.com/categories?name=Audio&id=CATG24042&landingtonewPLP=true&defaultSelectParentId=CATG24035&defaultSortBy=Recomendados
+
+
+
+Category name: Tortas 
+ID: CATG18742 
+DL: https://fazil-app.com/categories?name=Tortas&id=CATG18742&landingtonewPLP=true&defaultSelectParentId=CATG18734&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Vino Blanco 
+ID: CATG15659 
+DL: https://fazil-app.com/categories?name=VinoBlanco&id=CATG15659&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+
+
+RM DL: https://fazil-app.com/vendor?contentfulid=4Rj1gA21MHqGCaogPPPTJz
+
+
+Category name: Core Snack 
+ID: CATG24043 
+DL: https://fazil-app.com/categories?name=CoreSnack&id=CATG24043&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Category name: Organicos 
+ID: CATG24025 
+DL: https://fazil-app.com/categories?name=Organicos&id=CATG24025&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+Img_CL_ffvv_s18_cintillo_ORGANICO_mayo_2023
+https://images.ctfassets.net/efpn4u8cnuye/d6ytGXwfkQnrq2d4tTQMx/af3ca488648a413cfa96ee8809627d78/ORGANICO.jpg
+
+
+DRB | CL_FFVV_a_banner_organico
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/76sKBdrvUqMrUVI7Hk6bC1?previousEntries=4zIPs6lyBg7PiHZ71LbeSP
+
+
+
+antes
+https://api.test.tottus.cl/categories?name=Pollo&id=CATG20278&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+Category name: THREE PACK SPRITE
+ID: CATG10198
+DL: https://fazil-app.com/categories?name=THREEPACKSPRITE&id=CATG10198&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+/
+Aseo y Limpieza (CATG15484)
+/
+Detergente y Cuidado para la Ropa (CATG20294
+
+
+
+
+Category name: Galletas de Agua y Soda 
+ID: CATG20102 
+DL: https://fazil-app.com/categories?name=GalletasdeAguaySoda&id=CATG20102&landingtonewPLP=true&defaultSelectParentId=CATG20064&defaultSortBy=Recomendados
+
+Category name: Carnes Listas para Cocinar 
+ID: CATG20290 
+DL: https://fazil-app.com/categories?name=CarnesListasparaCocinar&id=CATG20290&landingtonewPLP=true&defaultSelectParentId=CATG20265&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+https://fazil-app.com/categories?name=Oreo&id=CATG23981&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Oreo
+ID: CATG23981
+DL: https://fazil-app.com/categories?name=Oreo&id=CATG23981&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+-------05/05---------
+
+
+
+
+
+
+
+Category name: Queso Mantecoso 
+ID: CATG19962 
+DL: https://fazil-app.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Category name: Margarinas 
+ID: CATG19958 
+DL: https://fazil-app.com/categories?name=Margarinas&id=CATG19958&landingtonewPLP=true&defaultSelectParentId=CATG19933&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Salame y Cocktail 
+ID: CATG18928 
+DL: https://fazil-app.com/categories?name=SalameyCocktail&id=CATG18928&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Jamón de Cerdo 
+ID: CATG18937 
+DL: https://fazil-app.com/categories?name=JamóndeCerdo&id=CATG18937&landingtonewPLP=true&defaultSelectParentId=CATG18911&defaultSortBy=Recomendados
+
+
+
+
+Category name: Arvejas Congeladas 
+ID: CATG20123 
+DL: https://fazil-app.com/categories?name=ArvejasCongeladas&id=CATG20123&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: Hamburguesas 
+ID: CATG20128 
+DL: https://fazil-app.com/categories?name=Hamburguesas&id=CATG20128&landingtonewPLP=true&defaultSelectParentId=CATG20113&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: dg MAYONESA HELLMANNS 
+ID: CATG23934 
+DL: https://fazil-app.com/categories?name=dgMAYONESAHELLMANNS&id=CATG23934&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Category name: Perfumería 
+ID: CATG23974 
+DL: https://fazil-app.com/categories?name=Perfumería&id=CATG23974&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+Category name: Otros Licores 
+ID: CATG15668 
+DL: https://fazil-app.com/categories?name=OtrosLicores&id=CATG15668&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+Category name: Chocolates 
+ID: CATG23969 
+DL: https://fazil-app.com/categories?name=Chocolates&id=CATG23969&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+Category name: Día de la Madre 
+ID: CATG23968 
+DL: https://fazil-app.com/categories?name=Día+de+la+Madre&id=CATG23968&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Category name: Aromaterapia 
+ID: CATG24096 
+DL: https://fazil-app.com/categories?name=Aromaterapia&id=CATG24096&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Lácteos y Quesos (CATG15480)
+/
+ (CATG19934)
+
+
+
+
+
+
+
+
+
+Category name: Queso Chanco 
+ID: CATG19963 
+DL: https://fazil-app.com/categories?name=QuesoChanco&id=CATG19963&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Cervezas 
+ID: CATG20162 
+DL: https://fazil-app.com/categories?name=Cervezas&id=CATG20162&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+
+
+
+
+
+0011-0814-0243444700-15
+
+Cuenta Interbancaria  
+011-814-000243444700-15
+Moneda
+Dólares
+
+
+
+
+cl__home_fazil_mayo_2023_s19_kv_proveedor_tmp_carrusel_16_diwatts_loncoleche
+
+Category name: Loncoleche 
+ID: CATG23956 
+DL: https://fazil-app.com/categories?name=Loncoleche&id=CATG23956&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+cl__home_fazil_mayo_2023_s19_preciazos_tmp_carrusel_15_lomo_liso_vetado_punta_ganso_importado
+
+Category name: Vacuno 
+ID: CATG20258 
+DL: https://fazil-app.com/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+cl__tottus_express_mayo_2023_s19_expertos_carnes_tmp_carrrusel_09_linea_black
+
+Category name: Black 
+ID: CATG20267 
+DL: https://fazil-app.com/categories?name=Black&id=CATG20267&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Category name: Vino Rosé 
+ID: CATG15660 
+DL: https://fazil-app.com/categories?name=VinoRosé&id=CATG15660&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+
+
+Category name: Panadería y Pastelería 
+ID: CATG23973 
+DL: https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG23973&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+
+
+
+
+1839.75
+
+
+
+
+
+Category name: Vacuno 
+ID: CATG20258 
+DL: https://fazil-app.com/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Lechugas y Hojas 
+ID: CATG20044 s
+DL: https://fazil-app.com/categories?name=LechugasyHojas&id=CATG20044&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Plátanos y Frutas Tropicales 
+ID: CATG20051 
+DL: https://fazil-app.com/categories?name=PlátanosyFrutasTropicales&id=CATG20051&landingtonewPLP=true&defaultSelectParentId=CATG20034&defaultSortBy=Recomendados
+
+
+20208700
+https://s7d2.scene7.com/is/image/Tottus/20208700
+
+20208699
+https://s7d2.scene7.com/is/image/Tottus/20208699
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Molidas de Pavo 
+ID: CATG20284 
+DL: https://fazil-app.com/categories?name=MolidasdePavo&id=CATG20284&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+Category name: Trutos de Pollo 
+ID: CATG20279 
+DL: https://fazil-app.com/categories?name=TrutosdePollo&id=CATG20279&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Category name: Flores 
+ID: CATG15507 
+DL: https://fazil-app.com/categories?name=Flores&id=CATG15507&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+Category name: Fórmulas Lacteas 
+ID: CATG20404 
+DL: https://fazil-app.com/categories?name=FórmulasLacteas&id=CATG20404&landingtonewPLP=true&defaultSelectParentId=CATG20392&defaultSortBy=Recomendados
+
+
+
+Category name: Tío Nacho 
+ID: CATG24051 
+DL: https://fazil-app.com/categories?name=TíoNacho&id=CATG24051&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Category name: Aseo y Limpieza 
+ID: CATG21741 
+DL: https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG21741&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+
+
+Category name: Perfumería 
+ID: CATG23094 
+DL: https://fazil-app.com/categories?name=Perfumería&id=CATG23094&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+---------Las categorias de aqui estan inactivos :( ------------
+
+Category name: Perfumería 
+ID: CATG23991 
+DL: https://fazil-app.com/categories?name=Perfumería&id=CATG23991&landingtonewPLP=true&defaultSelectParentId=CATG23982&defaultSortBy=Recomendados
+
+
+Category name: Abarrotes 
+ID: CATG10179 
+DL: https://fazil-app.com/categories?name=Abarrotes&id=CATG10179&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+Category name: Líquidos 
+ID: CATG23778 
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG23778&landingtonewPLP=true&defaultSelectParentId=CATG10209&defaultSortBy=Recomendados
+
+Category name: Fiambres 
+ID: CATG10171 
+DL: https://fazil-app.com/categories?name=Fiambres&id=CATG10171&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+https://images.ctfassets.net/efpn4u8cnuye/6qTbsewWQanbWfq8eFPdxY/8ae388265b72b74f67dfa84904690176/BOTON_cientos_a_luca.png
+
+
+
+
+
+
+
+
+
+
+
+Category name: LOREAL 
+ID: CATG24097 
+DL: https://fazil-app.com/categories?name=LOREAL&id=CATG24097&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Frescos 
+ID: Catg10204 
+DL: https://fazil-app.com/categories?name=Frescos&id=Catg10204&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Molidas de Pavo 
+ID: CATG20284 
+DL: https://fazil-app.com/categories?name=MolidasdePavo&id=CATG20284&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+
+
+Category name: Live Carlo Cocina 
+ID: CATG10201 
+DL: https://api.test.tottus.cl/categories?name=LiveCarloCocina&id=CATG10201&landingtonewPLP=true&defaultSelectParentId=CATG10195&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Jamon de Cerdo 
+ID: CATG18937 
+DL: https://fazil-app.com/categories?name=JamondeCerdo&id=CATG18937&landingtonewPLP=true&defaultSelectParentId=CATG18911&defaultSortBy=Recomendados
+
+
+
+Category name: Molidas de Pavo 
+ID: CATG20284 
+DL: https://fazil-app.com/categories?name=MolidasdePavo&id=CATG20284&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CATG23957
+
+CATG23964
+
+
+
+
+
+
+
+
+Category name: Pollo Asado 
+ID: CATG19057 
+DL: https://fazil-app.com/categories?name=PolloAsado&id=CATG19057&landingtonewPLP=true&defaultSelectParentId=CATG15492&defaultSortBy=Recomendados
+
+
+
+Category name: Calefacción 
+ID: CATG10097  
+DL: https://fazil-app.com/categories?name=Calefacción&id=CATG10097&landingtonewPLP=true&defaultSelectParentId=CATG15494&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Pañales y Toallas Húmedas 
+ID: CATG24084 
+DL: https://fazil-app.com/categories?name=PañalesyToallasHúmedas&id=CATG24084&landingtonewPLP=true&defaultSelectParentId=CATG24062&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Huevos de Codorniz 
+ID: CATG18934 
+DL: https://fazil-app.com/categories?name=HuevosdeCodorniz&id=CATG18934&landingtonewPLP=true&defaultSelectParentId=CATG18910&defaultSortBy=Recomendados
+
+Category name: Verduras 
+ID: CATG20033 
+DL: https://fazil-app.com/categories?name=Verduras&id=CATG20033&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+Category name: NIDO 
+ID: CATG20394 
+DL: https://fazil-app.com/categories?name=NIDO&id=CATG20394&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Category name: salchicha Premium 
+ID: CATG20394 
+DL: https://fazil-app.com/categories?name=salchichaPremium&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Los 3 DL de aqui son de " CYBER " aun no esta activo su categorias
+------------------------
+
+
+
+Category name: Frutas y Verduras 
+ID: CATG24057 
+DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG24057&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Queso Mantecoso 
+ID: CATG19962 
+DL: https://fazil-app.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+Category name: Pizzas y Pizzetas 
+ID: CATG20116 
+DL: https://fazil-app.com/categories?name=PizzasyPizzetas&id=CATG20116&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+Category name: Hamburguesas Nuggets y Croquetas de Pollo 
+ID: CATG20131 
+DL: https://fazil-app.com/categories?name=HamburguesasNuggetsyCroquetasdePollo&id=CATG20131&landingtonewPLP=true&defaultSelectParentId=CATG20114&defaultSortBy=Recomendados
+
+Categoria: Queso Gauda 
+ID: CATG19960 
+ https://fazil-app.com/categories?name=QuesoGauda&id=CATG19960&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Category name: Papas Congeladas 
+ID: CATG20122 
+DL: https://fazil-app.com/categories?name=PapasCongeladas&id=CATG20122&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
+
+
+
+
+
+CATG20096
+
+
+
+ CATEGORIAS ACTIVOS
+----------------------------
+
+Categoria: Cerelales Azucarados 
+ID: CATG20096 
+https://fazil-app.com/categories?name=CerelalesAzucarados&id=CATG20096&landingtonewPLP=true&defaultSelectParentId=CATG20062&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+ CATEGORIAS INACTIVOS
+----------------------------
+
+
+
+Category name: Aseo y Limpieza 
+ID: CATG24063 
+DL: https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG24063&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Perfumería 
+ID: CATG24064 
+DL: https://fazil-app.com/categories?name=Perfumería&id=CATG24064&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Category name: Combo Pollo Asado 
+ID: CATG10199 
+DL: https://fazil-app.com/categories?name=ComboPolloAsado&id=CATG10199&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+Category name: Aspirado y Limpieza 
+ID: CATG24129 
+DL: https://fazil-app.com/categories?name=AspiradoyLimpieza&id=CATG24129&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+Category name: Electodómesticos 
+ID: CATG24130 
+DL: https://fazil-app.com/categories?name=Electodómesticos&id=CATG24130&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Aceites 
+ID: CATG20192 
+DL: https://fazil-app.com/categories?name=Aceites&id=CATG20192&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Líquidos
+ID: CATG23778
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG23778&landingtonewPLP=true&defaultSelectParentId=CATG10209&defaultSortBy=Recomendados
+
+
+Category name: Líquidos
+ID: CATG23970
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG23970&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Inactivo 
+ID: CATG24112 
+DL: https://fazil-app.com/categories?name=Inactivo&id=CATG24112&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Líquidos 
+ID: CATG24055 
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG24055&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+X6P-952
+
+
+
+
+
+
+imageLinkProdChile - Tottus Express - Cerveza lager corona
+
+
+
+cl__la_botilleria__mayo_2023_s22_cyber_day_ou_carrusel_07_cerveza_lager_corona
+
+
+
+
+
+
+Category name: Cuidado Personal 
+ID: CATG10175 
+DL: https://fazil-app.com/categories?name=CuidadoPersonal&id=CATG10175&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: Cyber La Crianza 
+ID: CATG24136 
+DL: https://fazil-app.com/categories?name=CyberLaCrianza&id=CATG24136&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Category name: Higiene Bucal
+ID: CATG10176
+DL: https://fazil-app.com/categories?name=HigieneBucal&id=CATG10176&landingtonewPLP=true&defaultSelectParentId=CATG23919&defaultSortBy=Recomendados
+
+Category name: Conservas de Verduras 
+ID: CATG20199 
+DL: https://fazil-app.com/categories?name=ConservasdeVerduras&id=CATG20199&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+
+Category name: Mantequilla y Manjar 
+ID: CATG24080 
+DL: https://fazil-app.com/categories?name=MantequillayManjar&id=CATG24080&landingtonewPLP=true&defaultSelectParentId=CATG24058&defaultSortBy=Recomendados
+
+
+Category name: Panadería 
+ID: CATG24127 
+DL: https://fazil-app.com/categories?name=Panadería&id=CATG24127&landingtonewPLP=true&defaultSelectParentId=CATG24061&defaultSortBy=Recomendados
+
+
+Category name: Helados 
+ID: CATG24126 
+DL: https://fazil-app.com/categories?name=Helados&id=CATG24126&landingtonewPLP=true&defaultSelectParentId=CATG24059&defaultSortBy=Recomendados
+
+
+Category name: Pañales Adulto 
+ID: CATG24090 
+DL: https://fazil-app.com/categories?name=PañalesAdulto&id=CATG24090&landingtonewPLP=true&defaultSelectParentId=PerfumeríaCATG24064&defaultSortBy=Recomendados
+
+
+Category name: Pastelería 
+ID: CATG24128 
+DL: https://fazil-app.com/categories?name=Pastelería&id=CATG24128&landingtonewPLP=true&defaultSelectParentId=CATG24061&defaultSortBy=Recomendados
+
+
+Category name: Carnes y Pescados 
+ID: CATG24124 
+DL: https://fazil-app.com/categories?name=CarnesyPescados&id=CATG24124&landingtonewPLP=true&defaultSelectParentId=CATG24059&defaultSortBy=Recomendados
+
+
+Category name: Cerdo 
+ID: CATG24075 
+DL: https://fazil-app.com/categories?name=Cerdo&id=CATG24075&landingtonewPLP=true&defaultSelectParentId=CATG24056&defaultSortBy=Recomendados
+
+
+
+Category name: Pavo 
+ID: CATG24077 
+DL: https://fazil-app.com/categories?name=Pavo&id=CATG24077&landingtonewPLP=true&defaultSelectParentId=CATG24056&defaultSortBy=Recomendados
+
+INACTIVOS
+--------------------------------
+Category name: Aseo y Limpieza 
+ID: CATG10174 
+DL: https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG10174&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+
+
+--------------------------------
+
+Category name: Carnes 
+ID: CATG24056 
+DL: https://fazil-app.com/categories?name=Carnes&id=CATG24056&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+Category name: Lacteos 
+ID: CATG24058 
+DL: https://fazil-app.com/categories?name=Lacteos&id=CATG24058&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+Category name: Vacuno 
+ID: CATG24074 
+DL: https://fazil-app.com/categories?name=Vacuno&id=CATG24074&landingtonewPLP=true&defaultSelectParentId=CATG24056&defaultSortBy=Recomendados
+
+
+Category name: Pañales Adultos 
+ID: CATG24090 
+DL: https://fazil-app.com/categories?name=PañalesAdultos&id=CATG24090&landingtonewPLP=true&defaultSelectParentId=CATG24064&defaultSortBy=Recomendados
+
+
+
+Category name: Congelados 
+ID: CATG24059 
+DL: https://fazil-app.com/categories?name=Congelados&id=CATG24059&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+Category name: Alimentos para Perros Adultos 
+ID: CATG20249 
+DL: https://fazil-app.com/categories?name=AlimentosparaPerrosAdultos&id=CATG20249&landingtonewPLP=true&defaultSelectParentId=CATG20237&defaultSortBy=Recomendados
+
+Category name: Vodka 
+ID: CATG15663 
+DL: https://fazil-app.com/categories?name=Vodka&id=CATG15663&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+Category name: Pisco 
+ID: CATG15665 
+DL: https://fazil-app.com/categories?name=Pisco&id=CATG15665&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+Category name: Pollo 
+ID: CATG24076 
+DL: https://fazil-app.com/categories?name=Pollo&id=CATG24076&landingtonewPLP=true&defaultSelectParentId=CATG24056&defaultSortBy=Recomendados
+
+Category name: Panadería y Pastelería 
+ID: CATG24061 
+DL: https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG24061&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+Category name: Harinas Blancas 
+ID: CATG20213 
+DL: https://fazil-app.com/categories?name=HarinasBlancas&id=CATG20213&landingtonewPLP=true&defaultSelectParentId=CATG20187&defaultSortBy=Recomendados
+
+
+Categoria: Galletas Dulces 
+ID: CATG20104 
+https://fazil-app.com/categories?name=GalletasDulces&id=CATG20104&landingtonewPLP=true&defaultSelectParentId=CATG20064&defaultSortBy=Recomendados
+
+
+
+Category name: Espumantes 
+ID: CATG15661 
+DL: https://fazil-app.com/categories?name=Espumantes&id=CATG15661&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+
+
+
+-------INACTIVOS------
+Category name: Perfumería 
+ID: CATG10175 
+DL: https://fazil-app.com/categories?name=Perfumería&id=CATG10175&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+Category name: Aseo y Limpieza 
+ID: CATG10174 
+DL: https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG10174&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
+
+
+
+Category name: Días Tottus
+ID: CATG24053 
+DL: https://fazil-app.com/categories?name=Cyber&id=CATG24053&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+Category name: OMO
+ID: CATG24112 
+DL: https://fazil-app.com/categories?name=OMO&id=CATG24112&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: Día Mundial de la Leche 
+ID: CATG24161 
+DL: https://fazil-app.com/categories?name=DíaMundialdelaLeche&id=CATG24161&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Combos 
+ID: CATG19302 
+ https://fazil-app.com/categories?name=Combos&id=CATG19302&landingtonewPLP=true&defaultSelectParentId=CATG19057&defaultSortBy=Recomendados
+
+
+Category name: Combos pizza 
+ID: CATG23877 
+DL: https://fazil-app.com/categories?name=Combospizza&id=CATG23877&landingtonewPLP=true&defaultSelectParentId=CATG19058&defaultSortBy=Recomendados
+
+
+
+Category name:Frutas y Verduras
+ID: CATG15478 
+DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Category name: DG Hs y Supreme
+ID: CATG24172
+DL: https://fazil-app.com/categories?name=DGHsySupreme&id=CATG24172&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+Category name: Harinas y Feculas
+ID: CATG21755
+DL: https://fazil-app.com/categories?name=HarinasyFeculas&id=CATG21755&landingtonewPLP=true&defaultSelectParentId=CATG21733&defaultSortBy=Recomendados
+
+
+Category name: DG Hs y Supreme
+ID: CATG24172
+DL: https://api.test.tottus.cl/categories?name=DGHsySupreme&id=CATG24172&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Category name: IANSA
+ID: CATG23946
+DL: https://fazil-app.com/categories?name=IANSA&id=CATG23946&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+Category name: CANNES FELINNES
+ID: CATG24175
+DL: https://fazil-app.com/categories?name=CANNESFELINNES&id=CATG24175&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+DRB | dg_home_fazil_despacho_gratis_generico_2023_feb_55_miercoles_22
+
+
+
+Category name: Despacho Gratis
+ID: CATG10136
+DL: https://api.test.tottus.cl/categories?name=DespachoGratis&id=CATG10136&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+https://fazil-app.com/categories?name=La+Gran+Estancia&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20263&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Carne Molida
+ID: CATG21200|
+DL: https://fazil-app.com/categories?name=CarneMolida&id=CATG21200&landingtonewPLP=true&defaultSelectParentId=CATG21072&defaultSortBy=Recomendados
+
+
+
+
+Category name: Vacuno Congelado
+ID: CATG20113
+DL: https://fazil-app.com/categories?name=VacunoCongelado&id=CATG20113&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+Category name: Limpieza MMPP
+ID: CATG24178
+DL: https://fazil-app.com/categories?name=LimpiezaMMPP&id=CATG24178&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Category name:dg iansa
+ID: dg iansa
+DL: https://fazil-app.com/categories?name=IANSA&id=dgiansa&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+
+
+Category name:Pande Molde
+ID: CATG18730
+DL: https://fazil-app.com/categories?name=PandeMolde&id=CATG18730&landingtonewPLP=true&defaultSelectParentId=CATG18725&defaultSortBy=Recomendados
+
+
+
+Category name:Pañales
+ID: CATG24159
+DL: https://fazil-app.com/categories?name=Pañales&id=CATG24159&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+CATG20390
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Filetes de Pollo
+ID: CATG20130
+DL: https://fazil-app.com/categories?name=FiletesdePollo&id=CATG20130&landingtonewPLP=true&defaultSelectParentId=CATG20114&defaultSortBy=Recomendados
+
+
+Category name: Chorizos Longanizas y Longanicillas
+ID: CATG24173
+DL: https://fazil-app.com/categories?name=ChorizosLonganizasyLonganicillas&id=CATG24173&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+
+
+Category name: Paltas
+ID: CATG20050
+DL: https://fazil-app.com/categories?name=Paltas&id=CATG20050&landingtonewPLP=true&defaultSelectParentId=CATG20034&defaultSortBy=Recomendados
+
+
+
+Category name: Vacuno Congelado
+ID: CATG20113
+DL: https://fazil-app.com/categories?name=VacunoCongelado&id=CATG20113&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+Category name: Limón Naranjas y Cítricos
+ID: CATG20048
+DL: https://fazil-app.com/categories?name=LimónNaranjasyCítricos&id=CATG20048&landingtonewPLP=true&defaultSelectParentId=CATG20034&defaultSortBy=Recomendados
+
+
+Category name: Papas y Zapallos
+ID: CATG20039
+DL: https://fazil-app.com/categories?name=PapasyZapallos&id=CATG20039&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
+
+
+Category name: Pisco
+ID: CATG15665
+DL: https://fazil-app.com/categories?name=Pisco&id=CATG15665&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+Category name: Core Limpieza
+ID: CATG24177
+DL: https://fazil-app.com/categories?name=CoreLimpieza&id=CATG24177&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Dia del Padre
+ID: CATG23968
+DL: https://fazil-app.com/categories?name=DiadelPadre&id=CATG23968&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Category name: Pañales y Toallas Húmedas 
+ID: CATG20390 
+DL: https://fazil-app.com/categories?name=PañalesyToallasHúmedas&id=CATG20390&landingtonewPLP=true&defaultSelectParentId=CATG15489&defaultSortBy=Recomendados
+
+
+Category name: Cortes Parrilleros de Cerdo 
+ID: CATG20277 
+https://fazil-app.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+
+Category name: HUILCO
+ID: CATG23948
+DL: https://fazil-app.com/categories?name=HUILCO&id=CATG23948&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: SOtras Verduras Congeladas
+ID: CATG20124
+DL: https://api.test.tottus.cl/categories?name=OtrasVerdurasCongeladas&id=CATG20124&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
+Category name: Core Limpieza
+ID: CATG24177
+DL: https://fazil-app.com/categories?name=CoreLimpieza&id=CATG24177&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Productos a Lucas
+ID: CATG10215
+DL: https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+CATG24184
+
+CATG24184
+
+
+----------EL DE AQUI ESTA ACTIVO---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Tablas de Quesos
+ID: CATG19969
+DL: https://fazil-app.com/categories?name=TablasdeQuesos&id=CATG19969&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Category name: Cortes Parrilleros de Cerdo 
+ID: CATG20277 
+DL: https://fazil-app.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: Whisky 
+ID: CATG15662 
+DL: https://fazil-app.com/categories?name=Whisky&id=CATG15662&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+Category name: Vodka 
+ID: CATG15663 
+DL: https://fazil-app.com/categories?name=Vodka&id=CATG15663&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+
+
+Category name: Bombones 
+ID: CATG20101 
+DL: https://fazil-app.com/categories?name=Bombones&id=CATG20101&landingtonewPLP=true&defaultSelectParentId=CATG20063&defaultSortBy=Recomendados
+
+
+
+
+Category name: Aceite de Oliva
+ID: CATG24098
+DL: https://fazil-app.com/categories?name=AceitedeOliva&id=CATG24098&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: El Andar
+ID: CATG24096
+DL: https://fazil-app.com/categories?name=ElAndar&id=CATG24096&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: El Andar
+ID: CATG24096
+DL: https://fazil-app.com/categories?name=ElAndar&id=CATG24096&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Aceite de Oliva
+ID: CATG24098
+DL: https://fazil-app.com/categories?name=AceitedeOliva&id=CATG24098&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Category name: Vinos 
+ID: CATG15652 
+DL: https://fazil-app.com/categories?name=Vinos&id=CATG15652&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+
+
+
+Category name: Pechuga de Pavo 
+ID: CATG18935 
+DL: https://fazil-app.com/categories?name=PechugadePavo&id=CATG18935&landingtonewPLP=true&defaultSelectParentId=CATG18911&defaultSortBy=Recomendados
+
+
+
+Category name: Yoghurt 
+ID: CATG19954 
+DL: https://fazil-app.com/categories?name=Yoghurt&id=CATG19954&landingtonewPLP=true&defaultSelectParentId=CATG19932&defaultSortBy=Recomendados
+
+
+Category name: Queso Rallado y Granulado
+ID: CATG19966
+DL: https://fazil-app.com/categories?name=QuesoRalladoyGranulado&id=CATG19966&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Category name: Quesillos y Queso Fresco
+ID: CATG19967
+DL: https://fazil-app.com/categories?name=QuesillosyQuesoFresco&id=CATG19967&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+Categoria: Manjar 
+ID: CATG20059 
+https://fazil-app.com/categories?name=Manjar&id=CATG20059&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+
+
+Category name: Te Regular
+ID: CATG20073
+DL: https://fazil-app.com/categories?name=TeRegular&id=CATG20073&landingtonewPLP=true&defaultSelectParentId=CATG20055&defaultSortBy=Recomendados
+
+
+
+Category name: Conservas Preparadas
+ID: CATG20200
+DL: https://fazil-app.com/categories?name=ConservasPreparadas&id=CATG20200&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Día Papá
+ID: CATG23968
+DL: https://fazil-app.com/categories?name=DíaPapá&id=CATG23968&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Líquidos
+ID: CATG23778
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG23778&landingtonewPLP=true&defaultSelectParentId=CATG10209&defaultSortBy=Recomendados
+
+
+Category name: Líquidos
+ID: CATG24055
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG24055&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+Category name: Líquidos 
+ID: CATG24055 
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG24055&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Fiambres 
+ID: CATG10221 
+DL: https://fazil-app.com/categories?name=Fiambres&id=CATG10221&landingtonewPLP=true&defaultSelectParentId=CATG10215&defaultSortBy=Recomendados
+
+Category name: Carnes
+ID: CATG24183
+DL: https://fazil-app.com/categories?name=Carnes&id=CATG24183&landingtonewPLP=true&defaultSelectParentId=CATG23968&defaultSortBy=Recomendados
+
+
+
+
+Category name: Líquidos 
+ID: CATG10218 
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG10218&landingtonewPLP=true&defaultSelectParentId=CATG10215&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Category name: Chocolates
+ID: CATG20100
+DL: https://fazil-app.com/categories?name=Chocolates&id=CATG20100&landingtonewPLP=true&defaultSelectParentId=CATG20063&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Vino Tinto 
+ID: CATG15658 
+DL: https://fazil-app.com/categories?name=VinoTinto&id=CATG15658&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+
+Category name: Cortes Parrilleros de Cerdo 
+ID: CATG20277 
+DL: https://fazil-app.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+Category name: Vienesas 
+ID: CATG18927 
+DL: https://fazil-app.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+<span title="">Catálogo</span>
+
+
+
+Category name: Panales MMPP
+ID: CATG24051 
+DL: https://fazil-app.com/categories?name=PanalesMMPP&id=CATG24051&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: Frutas y Verduras
+ID: CATG15478 
+DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Category name: Congelados
+ID: CATG15483
+DL: https://fazil-app.com/categories?name=Congelados&id=CATG15483&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Category name: Despensa
+ID: CATG15476 
+DL: https://fazil-app.com/categories?name=Despensa&id=CATG15476&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Category name: Lacteos y Quesos
+ID: CATG15480
+DL: https://fazil-app.com/categories?name=LacteosyQuesos&id=CATG15480&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Category name: Panadería  
+ID: CATG15486 
+DL: https://fazil-app.com/categories?name=Panadería&id=CATG15486&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Productos a Lucas 
+ID: CATG10215 
+DL: https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+Category name: Abarrotes 
+ID: CATG10217 
+DL: https://fazil-app.com/categories?name=Abarrotes&id=CATG10217&landingtonewPLP=true&defaultSelectParentId=CATG10215&defaultSortBy=Recomendados
+
+Category name: Líquidos
+ID: CATG10218
+DL: https://fazil-app.com/categories?name=Líquidos&id=CATG10218&landingtonewPLP=true&defaultSelectParentId=CATG10215&defaultSortBy=Recomendados
+
+Category name: Congelados
+ID: CATG10220
+DL: https://fazil-app.com/categories?name=Congelados&id=CATG10220&landingtonewPLP=true&defaultSelectParentId=CATG10215&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Lavado y Mantencion
+ID: CATG24198
+https://fazil-app.com/categories?name=LavadoyMantencion&id=CATG24198&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+
+Category name: Panadería y Pastelería
+ID: CATG24202
+https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG24202&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+Category name: Abarrotes
+ID: CATG24196
+DL: https://fazil-app.com/categories?name=Abarrotes&id=CATG24196&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Abarrotes
+ID: CATG24196
+https://fazil-app.com/categories?name=Abarrotes&id=CATG24196&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Panales
+ID: CATG24199
+https://fazil-app.com/categories?name=Panales&id=CATG24199&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+
+
+
+Category name: Frutas
+ID: CATG20034
+https://fazil-app.com/categories?name=Frutas&id=CATG20034&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+Category name: Tomates y Pimentones
+ID: CATG20040
+https://fazil-app.com/categories?name=TomatesyPimentones&id=CATG20040&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
+
+Category name: Parrillas y Saborizados 
+ID: CATG20282 
+https://fazil-app.com/categories?name=ParrillasySaborizados&id=CATG20282&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+Category name: Suavizantes
+ID: CATG20285
+ https://fazil-app.com/categories?name=Suavizantes&id=CATG23969&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+CATG15679
+CATG20268
+CATG21652
+CATG20397
+CATG18935
+CATG20100
+CATG18734
+CATG19302
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+CATG99999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Semana Súper Pollo
+ID: CATG24204
+ https://fazil-app.com/categories?name=SemanaSúperPollo&id=CATG24204&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Cerelales Azucarados 
+ID: CATG20096 
+https://fazil-app.com/categories?name=CerelalesAzucarados&id=CATG20096&landingtonewPLP=true&defaultSelectParentId=CATG20062&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=DiadeLácteosyCongelados&id=CATG23967&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Lavalozas
+ID: CATG21791
+ https://fazil-app.com/categories?name=Lavalozas&id=CATG21791&landingtonewPLP=true&defaultSelectParentId=CATG21741&defaultSortBy=Recomendados
+
+Category name: Suavizantes
+ID: CATG20307
+ https://fazil-app.com/categories?name=Suavizantes&id=CATG20307&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Categoria: Pulpas de Cerdo
+ID: CATG20274
+ https://fazil-app.com/categories?name=PulpasdeCerdo&id=CATG20274&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+Categoria: Leches Saborizadas Familiares
+ID: CATG19948
+ https://fazil-app.com/categories?name=LechesSaborizadasFamiliares&id=CATG19948&landingtonewPLP=true&defaultSelectParentId=CATG19931&defaultSortBy=Recomendados
+
+
+Categoria: Quesos Especiales
+ID: CATG19961
+ https://fazil-app.com/categories?name=QuesosEspeciales&id=CATG19961&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+
+Categoria: Picoteo
+ID: CATG24215
+ https://fazil-app.com/categories?name=Picoteo&id=CATG24215&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+
+
+
+
+
+
+Fiambrería y Huevos HOME DL: https://fazil-app.com/vendor?contentfulid=2QOW2B6krPHnevZ3TWuzwn
+
+
+
+
+DRB TESTING | Home BU Tottus - home tottus DL: https://fazil-app.com/vendor?contentfulid=7L52ybYEburt50OrxoB5Np
+
+
+
+
+Category name: Mundo Bebe
+ID: CATG24199
+ https://api.test.tottus.cl/categories?name=Mundo Bebé&id=CATG24199&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultS|electParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+Category name: Mundo Hogar
+ID: CATG24199
+ https://fazil-app.com/categories?name=MundoHogar&id=CATG15495&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Category name: Dormitorio
+ID: CATG21409
+ https://fazil-app.com/categories?name=Dormitorio&id=CATG21409&landingtonewPLP=true&defaultSelectParentId=CATG15495&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Precios de Bodega
+ID: CATG24226
+ https://fazil-app.com/categories?name=PreciosdeBodega&id=CATG24226&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Televisores 
+ID: CATG20410  
+DL: https://fazil-app.com/categories?name=Televisores&id=CATG20410&landingtonewPLP=true&defaultSelectParentId=CATG15494&defaultSortBy=Recomendados
+
+
+Categoria: Frazadas y Mantas
+ID: CATG21648
+ https://fazil-app.com/categories?name=FrazadasyMantas&id=CATG21648&landingtonewPLP=true&defaultSelectParentId=CATG21409&defaultSortBy=Recomendados
+
+Categoria: Eletrodomésticos
+ID: CATG20409
+ https://fazil-app.com/categories?name=Eletrodomésticos&id=CATG20409&landingtonewPLP=true&defaultSelectParentId=CATG15494&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Sx48 Miercoles 
+ID: CATG23964 
+https://fazil-app.com/categories?name=Sx48Miercoles&id=CATG23964&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Día de Lácteos y Congelados 
+ID: CATG23967 
+DL: https://fazil-app.com/categories?name=DiadeLacteosyCongelados&id=CATG23967&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+/
+Días de... (CATG24237)
+/
+Día de Lácteos y Congelados (CATG23967)
+
+CATG24237)
+
+Categoria:Productos a Lucas
+ID: CATG10215 
+ https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Category name: Lavado y Aseo
+ID: CATG10223
+ https://fazil-app.com/categories?name=LavadoyAseo&id=CATG10223&landingtonewPLP=true&defaultSelectParentId=CATG10215&defaultSortBy=Recomendados
+
+
+CATG15486
+
+https://api.test.tottus.cl/categories?name=Cóctel&id=CATG18723&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
+
+
+Marcas Propias
+
+
+
+==========Marcas Tottus=============
+
+Categoria: Abarrotes 
+ID: CATG21733 
+DL: https://fazil-app.com/categories?name=Abarrotes&id=CATG21733&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+Categoria: Lacteos 
+ID: CATG21738 
+DL: https://fazil-app.com/categories?name=Lacteos&id=CATG21738&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+
+Categoria: Panadería y Pastelería
+ID: CATG21764
+ https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG21764&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+
+Categoria: Cuidado Personal
+ID: CATG21740
+ https://fazil-app.com/categories?name=CuidadoPersonal&id=CATG21740&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+
+Categoria: Aseo y Limpieza
+ID: CATG21741
+ https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG21741&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+
+Categoria: Vinos y Licores
+ID: CATG21730
+ https://fazil-app.com/categories?name=VinosyLicores&id=CATG21730&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+Categoria: Galletas Dulces
+ID: CATG20104
+https://fazil-app.com/categories?name=GalletasDulces&id=CATG20104&landingtonewPLP=true&defaultSelectParentId=CATG20064&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Lacteos
+ID: CATG24231
+ https://fazil-app.com/categories?name=Lacteos&id=CATG24231&landingtonewPLP=true&defaultSelectParentId=CATG24226&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Category name: CLINIQUE
+ID: CATG10128
+ https://fazil-app.com/categories?name=CLINIQUE&id=CATG10128&landingtonewPLP=true&defaultSelectParentId=CATG10120&defaultSortBy=Recomendados
+
+Category name: Almuerza por menos de 5 Lucas
+ID: CATG10203
+DL: https://fazil-app.com/categories?name=Almuerzapormenosde5Lucas&id=CATG10203&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Category name: Pisco
+ID: CATG15665 
+DL: https://fazil-app.com/categories?name=Pisco&id=CATG15665&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+
+Category name: Aceites 
+ID: CATG20192 
+DL: https://fazil-app.com/categories?name=Aceites&id=CATG20192&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
+
+Category name: Pechugas y Filetitos de Pollo 
+ID: CATG20278 
+https://fazil-app.com/categories?name=PechugasyFiletitosdePollo&id=CATG20278&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+Category name: Nescafe
+ID: CATG24026
+DL: https://fazil-app.com/categories?name=Nescafe&id=CATG24026&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Cervezas Tradicionales 
+ID: CATG15682 
+ https://fazil-app.com/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
+
+
+Categoria: Día de la Cerveza 
+ID: CATG24023 
+DL: https://api.test.tottus.cl/categories?name=DíadelaCerveza&id=CATG24023&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
+
+
+
+
+
+Panadería HOME DL: https://fazil-app.com/vendor?contentfulid=4iUpsZbnNcfs7Axt5DEefr
+
+
+ Categoria: Platos Preparados
+ID: CATG15492 
+ https://fazil-app.com/categories?nname=PlatosPreparados&id=CATG15492&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+CATG10194)
+
+
+Categoria: Sx48 Miercoles 
+ID: CATG23964 
+ https://fazil-app.com/categories?name=Sx48Miercoles&id=CATG23964&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Masas y Tortillas	
+ID: CATG18724
+ https://fazil-app.com/categories?name=MasasyTortillas	&id=CATG18724&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categoria: Frutas y Verduras	
+ID: CATG15478
+     https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Día de Lácteos y Congelados 
+ID: CATG23967 
+ https://fazil-app.com/categories?name=DiadeLacteosyCongelados&id=CATG19932&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Categoria: Día del Pollo
+ID: CATG24238
+ https://fazil-app.com/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
+
+Categoria: Carnes 
+ID: CATG15488 
+ https://fazil-app.com/categories?name=Carnes&id=CATG15488&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Categoria:Día de la Cerveza	
+ID: CATG24023
+ https://fazil-app.com/categories?name=DíadelaCerveza&id=CATG24023&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
+Categoria: Vinos
+ID: CATG15652
+ https://fazil-app.com/categories?name=Vinos&id=CATG15652&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+
+
+
+https://fazil-app.com/categories?name=Mega+Ahorro&id=CATG24226&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Liquidacion
+ID: CATG24271
+ https://api.test.tottus.cl/categories?name=Liquidacion&id=CATG24271&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Categoria: Papeles ParaEl Hogar
+ID: CATG20293 
+ https://fazil-app.com/categories?name=PapelesParaElHogar&id=CATG20293&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+}
+
+https://fazil-app.com/categories?name=CoreDesayuno&id=CATG24248&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=Desayuno y Dulces&id=CATG15477&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Desayuno y Dulces
+ID: CATG15477
+ https://fazil-app.com/categories?name=DesayunoyDulces&id=CATG15477&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Mantequillas
+ID: CATG19957
+ https://fazil-app.com/categories?name=Mantequillas&id=CATG19957&landingtonewPLP=true&defaultSelectParentId=CATG19933&defaultSortBy=Recomendados
+
+
+Categoria: Leches Individuales
+ID: CATG19947
+ https://fazil-app.com/categories?name=LechesIndividuales&id=CATG19947&landingtonewPLP=true&defaultSelectParentId=CATG19931&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category name: Cortes Parrilleros de Cerdo
+ID: CATG20277
+DL: https://fazil-app.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+Categoria: Almuerza por 5 lucas
+ID: CATG10203 
+https://fazil-app.com/categories?name=Almuerzapormenosde5Lucas&id=CATG10203&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Core Desayuno
+ID: CATG24248
+ https://fazil-app.com/categories?name=CoreDesayuno&id=CATG24248&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Otros Cortes de Pavo 
+ID: CATG20285 
+ https://fazil-app.com/categories?name=OtrosCortesdePavo&id=CATG20285&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+
+
+
+
+
+Especiales Fazil ()
+
+
+
+
+
+Categoria: Desayuno
+ID: CATG24288
+ https://fazil-app.com/categories?name=Desayuno&id=CATG24288&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=4GmWYsqrPcZOxutsnllTG8
+Precios de Bodega MMPP	
+Especiales Fazil (
+
+
+Category name: Precios de Bodega MMPP
+ID: CATG24289
+ https://fazil-app.com/categories?name=PreciosdeBodegaMMPP&id=CATG24289&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Category name: Pechugas y Filetitos de Pollo 
+ID: CATG20278 
+https://fazil-app.com/categories?name=PechugasyFiletitosdePollo&id=CATG20278&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+Category name: Clorox
+ID: CATG24024
+ https://api.test.tottus.cl/categories?name=Clorox&id=CATG24024&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Cloro&id=CATG20314&landingtonewPLP=true&defaultSelectParentId=CATG20295&defaultSortBy=Recomendados
+
+
+
+
+Category name: EMM Fazil
+ID: CATG24291
+ https://fazil-app.com/categories?name=EMMFazil&id=CATG24291&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=4GmWYsqrPcZOxutsnllTG8
+
+
+
+Category name: Libreria
+ID: CATG24300
+ https://fazil-app.com/categories?name=Libreria&id=CATG24300&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+Tortas y Pasteles: CATG18734
+
+
+
+
+
+Queques y Muffins: CATG18741
+
+
+Category name: Queques Brazos de Reina y Magdalenas
+ID: CATG18741
+ https://api.test.tottus.cl/categories?name=Queques y Muffins&id=CATG18741&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+Galletas y colaciones: CATG18737
+
+
+
+
+Pie, Kuchen y Tartaletas: CATG18735
+
+Category name: Pie Kuchen y Tartaletas	
+ID: CATG18735
+ https://api.test.tottus.cl/categories?name=Pie, Kuchen y Tartaletas&id=CATG18735&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+
+Barquillos y Dulces: CATG24290
+
+Category name: Dulces Barquillos y Cuchuflís	
+ID: CATG24290
+ https://api.test.tottus.cl/categories?name=Barquillos y Dulces&id=CATG24290&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+
+
+DRB | exploreBranCategories Categorías destacadas Panadería
+
+
+
+
+
+
+Desayuno u Once: CATG24214 (se agregará N3 pastelería)
+
+
+Categoria: Desayunos
+ID: CATG24214
+ https://api.test.tottus.cl/categories?name=Desayuno u Once&id=CATG24214&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+
+
+
+Postres: Pendiente
+
+
+Colaciones: CATG18737
+Category name: Galletas y Colaciones
+ID: CATG18737
+ https://api.test.tottus.cl/categories?name=Colaciones&id=CATG18737&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+
+Pan de Pascua: CATG18733
+
+Category name: Pan de Pascua	
+ID: CATG18733
+ https://api.test.tottus.cl/categories?name=PandePascua	&id=CATG18733&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
+
+
+
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=4GmWYsqrPcZOxutsnllTG8
+
+DRB | circularButtonsComponent - Landing Pastelería
+
+
+
+Categoria: Especial Play-Doh
+ID: CATG24301
+ https://fazil-app.com/categories?name=EspecialPlayDoh&id=CATG24301&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+
+
+Masas y Hojaldres: CATG18738
+
+Category name: Masas Dulces y Hojaldres
+ID: CATG18738
+ https://api.test.tottus.cl/categories?name=Masas y Hojaldres&id=CATG18738&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+
+Category name: Masas, Hojaldres y Donuts
+ID: CATG24304
+ https://api.test.tottus.cl/categories?name=MasasHojaldresyDonuts&id=CATG24304&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+
+goodmarcus2020@gmail.com
+
+
+
+
+
+Category name: Cervezas Premium 
+ID: CATG15679 
+DL: https://fazil-app.com/categories?name=CervezasPremium&id=CATG15679&landingtonewPLP=true&defaultSelectParentId=CATG15479&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Aseo y Limpieza 
+ID: CATG15484 
+ https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG15484&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+Category name: Alimentos Basicos
+ID: CATG24250
+ https://fazil-app.com/categories?name=AlimentosBasicos&id=CATG24250&landingtonewPLP=true&defaultSelectParentId=CATG24228&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+Categoria: Frutas y Verduras
+ID: CATG24200
+https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG24200&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+Categoria: Tortas y Pasteles
+ID: CATG18734
+DL: https://fazil-app.com/categories?name=TortasyPasteles&id=CATG18734&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+Categoria: Congelados
+ID: CATG24270
+ https://fazil-app.com/categories?name=Congelados&id=CATG24270&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+Categoria: Black USA 
+ID: CATG20272 
+DL: https://fazil-app.com/categories?name=BlackUSA&id=CATG20272&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+
+Categoria: Productos a Lucas
+ID: CATG10215
+DL: https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+Categoria: Despensa
+ID: CATG10225
+ https://fazil-app.com/categories?name=Despensa&id=CATG10225&landingtonewPLP=true&defaultSelectParentId=CATG10217&defaultSortBy=Recomendados
+
+Categoria: Confites y Snacks
+ID: CATG10227
+DL: https://fazil-app.com/categories?name=ConfitesySnacks&id=CATG10227&landingtonewPLP=true&defaultSelectParentId=CATG10217&defaultSortBy=Recomendados
+
+Categoria: Bebidas Isotónicas y Energizantes 
+ID: CATG19052 
+DL: https://fazil-app.com/categories?name=BebidasIsotónicasyEnergizantes&id=CATG19052&landingtonewPLP=true&defaultSelectParentId=CATG19044&defaultSortBy=Recomendados
+
+
+
+Categoria: Alimentos para Perros Cachorros
+ID: CATG20250
+ https://fazil-app.com/categories?name=AlimentosparaPerrosCachorros&id=CATG20250&landingtonewPLP=true&defaultSelectParentId=CATG20237&defaultSortBy=Recomendados
+
+
+Categoria: Lavalozas y Lavavajillas
+ID: CATG20311
+ https://fazil-app.com/categories?name=LavalozasyLavavajillas&id=CATG20311&landingtonewPLP=true&defaultSelectParentId=CATG20295&defaultSortBy=Recomendados
+
+
+Categoria: Toallas Humedas
+ID: CATG20397
+ https://fazil-app.com/categories?name=ToallasHumedas&id=CATG20397&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoría no backend	Agua ()
+
+
+
+Categoria: Exclusivo Fazil	
+ID: CATG24294
+ https://fazil-app.com/categories?name=ExclusivoFazil&id=CATG24294&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Líquidos
+ID: CATG24197
+https://fazil-app.com/categories?name=Líquidos&id=CATG24197&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+
+
+Landing Día del Niño: https://fazil-app.com/vendor?contentfulid=6MWAUa8wHTw08WKDhBQTRD
+
+
+Category name: Electro
+ID: CATG24307
+ https://fazil-app.com/categories?name=Electro&id=CATG24307&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?
+Categoria: Electro 
+ID: CATG15494 
+ https://fazil-app.com/categories?name=Electro&id=CATG15494&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+Category name: Quitamanchas
+ID: CATG23930 
+DL: https://fazil-app.com/categories?name=Quitamanchas&id=CATG23930&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Category name: Murana
+ID: CATG24292
+ https://fazil-app.com/categories?name=Murana&id=CATG24292&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Core Limpieza
+ID: CATG24249
+ https://fazil-app.com/categories?name=CoreLimpieza&id=CATG24249&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Category name: Pastelería
+ID: CATG24174
+ https://fazil-app.com/categories?name=Pastelería&id=CATG24174&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+
+Category name: Cervezas Premium 
+ID: CATG20180 
+DL: https://fazil-app.com/categories?name=CervezasPremium&id=CATG20180&landingtonewPLP=true&defaultSelectParentId=CATG20162&defaultSortBy=Recomendados
+
+
+Category name: Vinos y Licores 
+ID: CATG20161 
+DL: https://fazil-app.com/categories?name=VinosyLicores&id=CATG20161&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+Categoria: Lacteos|
+ID: CATG24201
+https://fazil-app.com/categories?name=Lacteos&id=CATG24201&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+ Categoria: Detergente y Cuidado para la ropa 
+ID: CATG20294 
+ https://fazil-app.com/categories?name=DetergenteyCuidadoparalaropa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+
+Categoria: Platos Preparados
+ID: CATG23797
+ https://fazil-app.com/categories?name=PlatosPreparados&id=CATG23797&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Cortes Parrilleros de Cerdo 
+ID: CATG20277 
+ https://fazil-app.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+Categoria: Pechugas y Filetitos de Pollo 
+ID: CATG20278 
+https://fazil-app.com/categories?name=PechugasyFiletitosdePollo&id=CATG20278&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Pistolas y Lanzadores
+ID: CATG20424
+ https://fazil-app.com/categories?name=PistolasyLanzadores&id=CATG20424&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+
+Category name: Huevos y Fiambres
+ID: CATG21736
+ https://fazil-app.com/categories?name=HuevosyFiambres&id=CATG21736&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+
+
+DRB | CL | brandCategoriesChileProd CATEGORIA CONGELADOS
+        https://app.contentful.com/spaces/efpn4u8cnuye/entries/5oLnu5Ch8zXmMtqc5VzfFD?previousEntries=4zIPs6lyBg7PiHZ71LbeSP
+
+
+
+DRB | CL | brandCategoriesChileProd No te olvides Landing Congelados
+
+DRB | exploreBranCategories Categorías No te olvides Landing Congelados
+
+
+antes
+https://api.test.tottus.cl/categories?name=Perfumería&id=CATG24305&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Perfumería
+ID: CATG24305
+ https://api.test.tottus.cl/categories?name=Perfumería&id=CATG24305&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+
+Pastelería HOME DL: https://fazil-app.com/vendor?contentfulid=4GmWYsqrPcZOxutsnllTG8
+
+
+
+Categoria: Semana La Crianza y Aqua
+ID: CATG24313
+ https://fazil-app.com/categories?name=SemanaLaCrianzayAqua&id=CATG24313&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+https://fazil-app.com/seller?name=Carnes&id=2StiQTAiPqvtgHUgAc04bz
+
+
+
+https://api.test.tottus.cl/categories?name=Mega+Ahorro&id=CATG24226&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=Almuerzapormenosde5Lucas&id=CATG10203&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/seller?name=Día del Niño&id=6MWAUa8wHTw08WKDhBQTRD
+
+https://api.test.tottus.cl/seller?name=Día del Niño&id=6MWAUa8wHTw08WKDhBQTRD
+
+
+https://api.test.tottus.cl/categories?name=DiadeLacteosyCongelados&id=CATG23967&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=ExclusivoFazil&id=CATG24294&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=Vegetales&id=CATG20033&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Cuidados de FFVV&id=CATG20038&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=VerdurasparaParrillar&id=CATG20036&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Entre$8.000y$10.990&id=CATG24309&landingtonewPLP=true&defaultSelectParentId=CATG24308&defaultSortBy=Recomendados
+
+https://api.test.tottus.cl/categories?name=Hasta$7.990&id=CATG24310&landingtonewPLP=true&defaultSelectParentId=CATG24308&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=másde$11.000&id=CATG24311&landingtonewPLP=true&defaultSelectParentId=CATG24308&defaultSortBy=Recomendados
+
+
+Category name: Huevos y Fiambres
+ID: CATG15481
+ https://fazil-app.com/categories?name=HuevosyFiambres&id=CATG15481&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+Category name: Leches en Polvo Niños
+ID: CATG19971
+ https://fazil-app.com/categories?name=LechesenPolvoNiños&id=CATG19971&landingtonewPLP=true&defaultSelectParentId=CATG19936&defaultSortBy=Recomendados
+
+
+
+Category name: Pizzas
+ID: CATG19058
+ https://fazil-app.com/categories?name=Pizzas&id=CATG19058&landingtonewPLP=true&defaultSelectParentId=CATG15492&defaultSortBy=Recomendados
+
+
+
+Category name: Saborizantes en Polvo
+ID: CATG19974
+ https://fazil-app.com/categories?name=SaborizantesenPolvo&id=CATG19974&landingtonewPLP=true&defaultSelectParentId=CATG19936&defaultSortBy=Recomendados
+
+
+
+Category name: Dulces y Snack
+ID: CATG23997
+ https://fazil-app.com/categories?name=DulcesySnack&id=CATG23997&landingtonewPLP=true&defaultSelectParentId=CATG23983&defaultSortBy=Recomendados
+
+
+
+Category name: Desayuno
+ID: CATG23998
+ https://fazil-app.com/categories?name=Desayuno&id=CATG23998&landingtonewPLP=true&defaultSelectParentId=CATG23983&defaultSortBy=Recomendados
+
+
+Category name: Cervezas
+ID: CATG23999
+ https://fazil-app.com/categories?name=Cervezas&id=CATG23999&landingtonewPLP=true&defaultSelectParentId=CATG23984&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: Jugos
+ID: CATG24002
+ https://fazil-app.com/categories?name=Jugos&id=CATG24002&landingtonewPLP=true&defaultSelectParentId=CATG23984&defaultSortBy=Recomendados
+
+
+
+Category name: Fiambrería
+ID: CATG24060
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG24060&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+Category name: Platos Preparados
+ID: CATG24066
+ https://fazil-app.com/categories?name=PlatosPreparados&id=CATG24066&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+Category name: Quesos
+ID: CATG24081
+ https://fazil-app.com/categories?name=Quesos&id=CATG24081&landingtonewPLP=true&defaultSelectParentId=CATG24058&defaultSortBy=Recomendados
+
+
+
+Category name: Leches y Cremas
+ID: CATG24082
+ https://fazil-app.com/categories?name=LechesyCremas&id=CATG24082&landingtonewPLP=true&defaultSelectParentId=CATG24058&defaultSortBy=Recomendados
+
+
+Category name: 	Yoghurt y Postres	
+ID: CATG24083
+ https://fazil-app.com/categories?name=YoghurtyPostres&id=CATG24083&landingtonewPLP=true&defaultSelectParentId=CATG24058&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Chuletas de Cerdo 
+ID: CATG20275 
+DL: https://fazil-app.com/categories?name=ChuletasdeCerdo&id=CATG20275&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+Categoria: Manzanas y Peras
+ID: CATG20052
+ https://fazil-app.com/categories?name=ManzanasyPeras&id=CATG20052&landingtonewPLP=true&defaultSelectParentId=CATG20034&defaultSortBy=Recomendados
+
+
+Categoria: Suavizantes 
+ID: catg20307 
+ https://fazil-app.com/categories?name=Suavizantes&id=catg20307&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Category name: Murana Cuidado Capilar
+ID: CATG24334
+ https://fazil-app.com/categories?name=MuranaCuidadoCapilar&id=CATG24334&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Category name: Murana
+ID: CATG24335
+ https://fazil-app.com/categories?name=Murana&id=CATG24335&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Category name: Core MMPP
+ID: CATG24336
+ https://fazil-app.com/categories?name=CoreMMPP&id=CATG24336&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Antes
+https://api.test.tottus.cl/categories?name=Abarrotes&id=CATG24317&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+
+Category name: Pastas y Salsas
+ID: CATG20186
+ https://fazil-app.com/categories?name=PastasySalsas&id=CATG20186&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
+
+
+
+Categoria: Ariel-Ace
+ID: CATG24329
+ https://fazil-app.com/categories?name=Ariel-Ace&id=CATG24329&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Drive-Rinso
+ID: CATG24330
+ https://fazil-app.com/categories?name=Drive-Rinso&id=CATG24330&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Detergente y Cuidadopara la Ropa
+ID: CATG20294
+ https://fazil-app.com/categories?name=DetergenteyCuidadoparalaRopa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+DRB | imageLinkProdChile - Tottus Express - Frutas y verduras seleccionadas
+
+
+Categoria: Hasbro Days
+ID: CATG24337
+ https://fazil-app.com/categories?name=HasbroDays&id=CATG24337&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+
+Category name: Aseo y Limpieza
+ID: CATG15484
+ https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG15484&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Perfumería 
+ID: CATG24064 
+ https://fazil-app.com/categories?name=Perfumería&id=CATG24064&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+Category name: Pastelería Día del Niño
+ID: CATG24340
+ https://fazil-app.com/categories?name=PasteleríaDíadelNiño&id=CATG24340&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Carnes 
+ID: CATG24056 
+ https://fazil-app.com/categories?name=Carnes&id=CATG24056&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+Categoria: Cuidado de la Ropa
+ID: CATG24086
+ https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24086&landingtonewPLP=true&defaultSelectParentId=CATG24063&defaultSortBy=Recomendados
+
+
+Componentes Circulares Tottus Express TOTTUS APP (CATG23078)
+/
+Black Out (CATG24053)
+
+
+
+Category name: Black Out
+ID: CATG24053
+ https://fazil-app.com/categories?name=BlackOut&id=CATG24053&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Desayunos
+ID: CATG24069
+ https://fazil-app.com/categories?name=Desayunos&id=CATG24069&landingtonewPLP=true&defaultSelectParentId=CATG24054&defaultSortBy=Recomendados
+
+
+Categoria: Cervezas
+ID: CATG24070
+ https://fazil-app.com/categories?name=Cervezas&id=CATG24070&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Categoria: Hasta $7.990
+ID: CATG24310
+ https://fazil-app.com/categories?name=Hasta$7990&id=CATG24310&landingtonewPLP=true&defaultSelectParentId=CATG24308&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Loreal
+ID: CATG24342
+ https://fazil-app.com/categories?name=Loreal&id=CATG24342&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Autos y Pistas
+ID: CATG20420
+ https://fazil-app.com/categories?name=AutosyPistas&id=CATG20420&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+Categoria: Muñecas, Peluches y Accesorios
+ID: CATG20419
+ https://fazil-app.com/categories?name=MuñecasPeluchesyAccesorios&id=CATG20419&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+
+Categoria: Juegos de Mesa y Puzzles
+ID: CATG20422
+ https://fazil-app.com/categories?name=JuegosdeMesayPuzzles&id=CATG20422&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+
+
+Categoria:  Especial Juguetería
+ID: CATG15504
+ https://api.test.tottus.cl/categories?name=EspecialJuguetería&id=CATG15504&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Super Fazil
+ID: CATG24195
+ https://fazil-app.com/categories?name=SuperFazil&id=CATG24195&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Categoria: Cervezas Tradicionales 
+ID: CATG15682 
+ https://fazil-app.com/categories?name=CervezasTradicionales&id=CATG15682&landingtonewPLP=true&defaultSelectParentId=CATG15479&defaultSortBy=Recomendados
+
+
+
+Categoria: Frutos Secos y Deshidratados
+ID: CATG20035
+ https://fazil-app.com/categories?name=FrutosSecosyDeshidratados&id=CATG20035&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+Categoria: Carnes y Frescos
+ID: CATG24343
+ https://fazil-app.com/categories?name=CarnesyFrescos&id=CATG24343&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Frutos Secos y Deshidratados	
+ID: CATG18752
+ https://fazil-app.com/categories?name=FrutosSecosyDeshidratados&id=CATG18752&landingtonewPLP=true&defaultSelectParentId=CATG15503&defaultSortBy=Recomendados
+
+
+Categoria: Exclusivos Tottus
+ID: CATG24345
+ https://fazil-app.com/categories?name=ExclusivosTottus&id=CATG24345&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+ 
+
+
+
+
+
+  https://api.test.tottus.cl/categories?name=Precios+Increíbles&id=CATG23079&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+  Productos a luca$ - Antes
+https://api.test.tottus.cl/categories?name=EspecialMarcasPropias&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+antes
+https://api.test.tottus.cl/categories?name=Precios+Increíbles&id=CATG23079&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Día de Cuidado Capilar y Pañales
+ID: CATG24361
+ https://fazil-app.com/categories?name=DíadeCuidadoCapilaryPañales&id=CATG24361&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Cuidado Capilar
+ID: CATG24363
+ https://fazil-app.com/categories?name=CuidadoCapilar&id=CATG24363&landingtonewPLP=true&defaultSelectParentId=CATG24361&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Categoria: Día de Detergentes
+ID: CATG24354
+ https://api.test.tottus.cl/categories?name=DíadeDetergentes&id=CATG24354&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+z
+Categoria: Pañales
+ID: CATG24362
+ https://api.test.tottus.cl/categories?name=Panales&id=CATG24362&landingtonewPLP=true&defaultSelectParentId=CATG24361&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Concurso Marcas Propias
+ID: CATG24365
+ https://fazil-app.com/categories?name=ConcursoMarcasPropias&id=CATG24365&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Precios Increibles
+ID: CATG23079
+ https://fazil-app.com/categories?name=PreciosIncreibles&id=CATG23079&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Cervezas 
+ID: CATG20162 
+ https://fazil-app.com/categories?name=Cervezas&id=CATG20162&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+Categoria: Vino Tinto
+ID: CATG20174
+ https://fazil-app.com/categories?name=VinoTinto&id=CATG20174&landingtonewPLP=true&defaultSelectParentId=CATG20161&defaultSortBy=Recomendados
+
+
+ 
+Categoria: Super Ahorro Soprole
+ID: CATG24350
+ https://api.test.tottus.cl/categories?name=SuperAhorroSoprole&id=CATG24350&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+ID: CATG24377
+ https://fazil-app.com/categories?name=Sx48Viernes&id=CATG24377&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Abarrotes&id=CATG24196&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+
+Categoria: Snacks
+ID: CATG21785
+ https://fazil-app.com/categories?name=Snacks&id=CATG21785&landingtonewPLP=true&defaultSelectParentId=CATG21739&defaultSortBy=Recomendados
+
+ Categoria: Abarrotes
+ID: CATG24196
+ https://fazil-app.com/categories?name=Abarrotes&id=CATG24196&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Cocktail y Snack&id=CATG15503&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Categoria: Otros Snack
+ID: CATG18755
+ https://fazil-app.com/categories?name=OtrosSnack&id=CATG18755&landingtonewPLP=true&defaultSelectParentId=CATG15503&defaultSortBy=Recomendados
+
+
+
+Categoria: Dia del Padre
+ID: CATG24182
+ https://fazil-app.com/categories?name=DiadelPadre&id=CATG24182&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Concurso Marcas Propias
+ID: CATG24365
+ https://fazil-app.com/categories?name=ConcursoMarcasPropias&id=CATG24365&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+DL
+        Categoria: Plenitud
+        ID: CATG24347
+        https://api.test.tottus.cl/categories?name=Plenitud&id=CATG24347&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+==========14/08============
+
+========== Precios Increíbles	============
+
+
+Categoria: Precios Increíbles	
+ID: CATG23079
+ https://api.test.tottus.cl/categories?name=PreciosIncreíbles&id=CATG23079&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Panales
+ID: CATG24391
+ https://fazil-app.com/categories?name=Panales&id=CATG24391&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+Categoria: Abarrotes
+ID: CATG23085
+ https://fazil-app.com/categories?name=Abarrotes&id=CATG23085&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+Categoria: Lavado y Mantencion
+ID: CATG23086
+ https://fazil-app.com/categories?name=LavadoyMantencion&id=CATG23086&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Categoria: Perfumería
+ID: CATG23081
+ https://fazil-app.com/categories?name=Perfumería&id=CATG23081&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+
+---------------Padre-------------------
+
+
+--------Hijos--------
+
+
+        Categoria: Pavo
+        ID: CATG24390
+         https://fazil-app.com/categories?name=Pavo&id=CATG24390&landingtonewPLP=true&defaultSelectParentId=CATG24384&defaultSortBy=Recomendados
+
+
+        Categoria: Cerdo
+        ID: CATG24389
+         https://fazil-app.com/categories?name=Cerdo&id=CATG24389&landingtonewPLP=true&defaultSelectParentId=CATG24384&defaultSortBy=Recomendados
+
+
+        Categoria: Pollo
+        ID: CATG24388
+         https://fazil-app.com/categories?name=Pollo&id=CATG24388&landingtonewPLP=true&defaultSelectParentId=CATG24384&defaultSortBy=Recomendados
+
+
+        Categoria: Vacuno
+        ID: CATG24387
+         https://fazil-app.com/categories?name=Vacuno&id=CATG24387&landingtonewPLP=true&defaultSelectParentId=CATG24384&defaultSortBy=Recomendados
+
+
+----------------------------------------
+
+https://api.test.tottus.cl/categories?name=dgdove&id=CATG24395&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+
+departamentos en lima alquiler con garaje en centro de  lima con garajes
+
+
+
+
+Categoria: Pollos Enteros
+ID: CATG20280
+ https://fazil-app.com/categories?name=PollosEnteros&id=CATG20280&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Categoria: Día de Vinos y Espumantes
+ID: CATG24353
+ https://fazil-app.com/categories?name=DíadeVinosyEspumantes&id=CATG24353&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+Categoria: Día de Desayuno
+ID: CATG24349
+ https://fazil-app.com/categories?name=DíadeDesayuno&id=CATG24349&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+Licor Aperol 11° 750 cc	
+DL: https://fazil-app.com/productdesc?productkey=110606443
+
+ALIM MASC PLLOPAV MED GDE DOG CHOW 15 KG .	
+DL: https://fazil-app.com/productdesc?productkey=110619744
+
+
+DOG CHOW ADUL M/G CARyP SIN COL ART 15KG	
+DL: https://fazil-app.com/productdesc?productkey=110619744
+
+CERVEZA LAGER X24 LN SOL 4.5G 330 CC	
+DL: https://fazil-app.com/productdesc?productkey=110617826
+
+
+Categoria: Especial Colgate
+ID: CATG24393
+ https://fazil-app.com/categories?name=EspecialColgate&id=CATG24393&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: El Andar
+ID: CATG24398
+ https://fazil-app.com/categories?name=elandar&id=CATG24398&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+https://fazil-app.com/categories?name=EspecialPañales&id=D&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=EspecialPañales&id=D&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+https://fazil-app.com/categories?name=EspecialPañales&id=D&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+antes
+
+https://api.test.tottus.cl/categories?name=EspecialPañales&id=D&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+DL MUNDO PARRILLERO: https://fazil-app.com/vendor?contentfulid=1UCxDFY1fKKlCn4lMnLVUX
+
+
+Categoria: Vacuno 
+ID: CATG20258 
+ https://fazil-app.com/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+Categoria: Cerdo 
+ID: CATG20259 
+ https://fazil-app.com/categories?name=Cerdo&id=CATG20259&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+Categoria name: Pollo 
+ID: CATG20260 
+ https://fazil-app.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+Categoria name: Hamburguesas
+ID: CATG20263 
+ https://fazil-app.com/categories?name=Hamburguesas&id=CATG20263&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+Categoria: Cordero
+ID: CATG20262
+ https://fazil-app.com/categories?name=Cordero&id=CATG20262&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+PARA ENBUTIDOS
+        
+
+
+
+
+
+
+Categoria: Postres
+ID: CATG24303
+ https://fazil-app.com/categories?name=Postres&id=CATG24303&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+
+
+
+PARA Jugos y Aguas Saborizadas
+        Categoria: Bebidas, Aguas y Jugos
+        ID: CATG15482
+          https://fazil-app.com/categories?name=Bebidas, Aguas y Jugos &id=CATG15482&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Para la Parrilla
+ID: CATG20286
+https://fazil-app.com/categories?name=Para la Parrilla&id=CATG20286&landingtonewPLP=true&defaultSelectParentId=CATG20265&defaultSortBy=Recomendados
+
+
+
+Categoria: Milka
+ID: CATG24399
+ https://fazil-app.com/categories?name=Milka&id=CATG24399&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Ensaladas
+ID: CATG19064
+ https://fazil-app.com/categories?name=Ensaladas&id=CATG19064&landingtonewPLP=true&defaultSelectParentId=CATG24095&defaultSortBy=Recomendados
+
+
+Categoria: Ensaladas Listas
+ID: CATG19064
+https://fazil-app.com/categories?name=EnsaladasListas&id=CATG19064&landingtonewPLP=true&defaultSelectParentId=CATG24095&defaultSortBy=Recomendados
+
+
+
+Categoria: Dia de la Papa Frita
+ID: CATG24401
+ https://fazil-app.com/categories?name=diadelapapafrita&id=CATG24401&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+ https://fazil-app.com/categories?name=diadelapapafrita&id=CATG24401&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+https://fazil-app.com/productdesc?productkey=118705938
+
+
+filete directo:5100169
+ https://fazil-app.com/productdesc?productkey=118705938&landingtonewPLP=true&defaultSortBy=Recomendados
+
+
+aceite: 1020028
+ https://fazil-app.com/productdesc?productkey=118705938&landingtonewPLP=true&defaultSortBy=Recomendados
+
+
+
+ https://fazil-app.com/productdesc?productkey=118705938&landingtonewPLP=true&defaultSortBy=Recomendados
+
+
+Categoria: Fiambrería
+ID: CATG24339
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG24339&landingtonewPLP=true&defaultSelectParentId=CATG24195&defaultSortBy=Recomendados
+
+
+Categoria: Pañales
+ID: CATG24362
+ https://api.test.tottus.cl/categories?name=Panales&id=CATG24362&landingtonewPLP=true&defaultSelectParentId=CATG24361&defaultSortBy=Recomendados
+
+
+
+Categoria: Lavado y Mantencion
+ID: CATG23086
+ https://fazil-app.com/categories?name=LavadoyMantencion&id=CATG23086&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+Categoria: Choclo Congelado
+ID: CATG20121
+ https://fazil-app.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
+ 
+
+ 
+
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=7L52ybYEburt50OrxoB5Np
+
+
+Category name: Productos a Lucas
+ID: CATG10215
+ https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Líquidos
+ID: CATG24318
+ https://fazil-app.com/categories?name=Líquidos&id=CATG24318&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+
+Categoria: Abarrotes
+ID: CATG24317
+ https://fazil-app.com/categories?name=Abarrotes&id=CATG24317&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Frutas y Verduras
+ID: CATG24322
+ https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG24322&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Aceites
+ID: CATG21749
+ https://fazil-app.com/categories?name=Aceites&id=CATG21749&landingtonewPLP=true&defaultSelectParentId=CATG21733&defaultSortBy=Recomendados
+
+
+Categoria: Verduras 
+ID: CATG21743 
+ https://fazil-app.com/categories?name=Verduras&id=CATG21743&landingtonewPLP=true&defaultSelectParentId=CATG21731&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Gin
+ID: CATG15667
+ https://fazil-app.com/categories?name=Gin&id=CATG15667&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+Categoria: Molidas de Cerdo
+ID: CATG20276
+ https://fazil-app.com/categories?name=MolidasdeCerdo&id=CATG20276&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+
+Categoria: Costillar y Costillitas 
+ID: CATG20273 
+ https://fazil-app.com/categories?name=CostillaryCostillitas&id=CATG20273&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+
+
+Categoria: Cafe
+ID: CATG21760
+ https://fazil-app.com/categories?name=Cafe&id=CATG21760&landingtonewPLP=true&defaultSelectParentId=CATG21734&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Cervezas 
+ID: CATG20162 
+ https://fazil-app.com/categories?name=Cervezas&id=CATG20162&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+
+Categoria: Jamón de Pavo
+ID: CATG18936
+ https://fazil-app.com/categories?name=JamondePavo&id=CATG18936&landingtonewPLP=true&defaultSelectParentId=CATG18911&defaultSortBy=Recomendados
+
+
+Categoria: Frutas 
+ID: CATG21744 
+ https://fazil-app.com/categories?name=Frutas&id=CATG21744&landingtonewPLP=true&defaultSelectParentId=CATG21731&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Aceites 
+ID: CATG20192 
+ https://fazil-app.com/categories?name=Aceites&id=CATG20192&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
+
+
+Categoria: Paltas
+ID: CATG20043
+ https://fazil-app.com/categories?name=Paltas&id=CATG20043&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
+
+https://api.test.tottus.cl/categories?name=PreciosIncreíbles&id=CATG23079&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Molidas y Hamburguesas
+ID: CATG20291
+ https://fazil-app.com/categories?name=MolidasyHamburguesas&id=CATG20291&landingtonewPLP=true&defaultSelectParentId=CATG20265&defaultSortBy=Recomendados
+
+
+Categoria: Trutos de Pollo 
+ID: CATG20279 
+ https://fazil-app.com/categories?name=TrutosdePollo&id=CATG20279&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Jabones
+ID: CATG20401
+ https://fazil-app.com/categories?name=Jabones&id=CATG20401&landingtonewPLP=true&defaultSelectParentId=CATG20391&defaultSortBy=Recomendados
+
+
+Categoria: Whisky 
+ID: CATG15662 
+ https://fazil-app.com/categories?name=Whisky&id=CATG15662&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+Categoria: Chocolates
+ID: CATG20100
+ https://fazil-app.com/categories?name=Chocolates&id=CATG20100&landingtonewPLP=true&defaultSelectParentId=CATG20063&defaultSortBy=Recomendados
+
+
+Categoria: Sopaipillas
+ID: CATG24412
+ https://fazil-app.com/categories?name=Sopaipillas&id=CATG24412&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Oportunidad Única
+ID: CATG23080
+ https://fazil-app.com/categories?name=OportunidadUnica&id=CATG23080&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Sx48 Viernes
+ID: CATG24377
+ https://fazil-app.com/categories?name=Sx48Viernes&id=CATG24377&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+https://api.test.tottus.cl/categories?name=Loreal&id=CATG24342&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Especial Vinos
+ID: CATG24447
+ https://fazil-app.com/categories?name=EspecialVinos&id=CATG24447&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Carnes
+ID: CATG24384
+ https://fazil-app.com/categories?name=Carnes&id=CATG24384&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+Categoria: Detergentes Líquidos
+ID: CATG20305
+ https://fazil-app.com/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+Categoria: Líquidos
+ID: CATG23088
+ https://fazil-app.com/categories?name=Líquidos&id=CATG23088&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+Categoria: Lacteos 
+ID: CATG23082 
+ https://fazil-app.com/categories?name=Lacteos&id=CATG23082&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Papeles Higiénicos 
+ID: CATG20300 
+ https://fazil-app.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Kit Kat
+ID: CATG24448
+ https://fazil-app.com/categories?name=KitKat&id=CATG24448&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Bebidas
+ID: CATG19044
+ https://fazil-app.com/categories?name=Bebidas&id=CATG19044&landingtonewPLP=true&defaultSelectParentId=CATG15482&defaultSortBy=Recomendados
+
+Categoria: Congelados
+ID: CATG23083
+ https://fazil-app.com/categories?name=Congelados&id=CATG23083&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+Categoria: Panadería y Pasteleria
+ID: CATG23084
+ https://fazil-app.com/categories?name=PanaderíayPasteleria&id=CATG23084&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+Categoria: Fiambrería
+ID: CATG23087
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG23087&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+Categoria: Platos Preparados
+ID: CATG24385
+ https://fazil-app.com/categories?name=PlatosPreparados&id=CATG24385&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+Categoria: Frutas y Verduras
+ID: CATG24386
+ https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG24386&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+941486316
+
+
+
+Categoria: Aire Libre
+ID: CATG15500
+ https://fazil-app.com/categories?name=AireLibre&id=CATG15500&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Category name: Despacho Gratis
+ID: CATG10136
+DL: https://api.test.tottus.cl/categories?name=DespachoGratis&id=CATG10136&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Cóctel y Snack
+https://api.test.tottus.cl/categories?name=Cocktail y Snack&id=CATG15503&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Categoria: Papas Fritas
+ID: CATG18750
+ https://fazil-app.com/categories?name=PapasFritas&id=CATG18750&landingtonewPLP=true&defaultSelectParentId=CATG15503&defaultSortBy=Recomendados
+
+Categoria: Galletas de Cocktail
+ID: CATG18751
+ https://fazil-app.com/categories?name=GalletasdeCocktail&id=CATG18751&landingtonewPLP=true&defaultSelectParentId=CATG15503&defaultSortBy=Recomendados
+
+Categoria: Quesos
+ID: CATG24224
+ https://fazil-app.com/categories?name=Quesos&id=CATG24224&landingtonewPLP=true&defaultSelectParentId=CATG24215&defaultSortBy=Recomendados
+ 
+Categoria: Fiambrería
+ID: CATG24223
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG24223&landingtonewPLP=true&defaultSelectParentId=CATG24215&defaultSortBy=Recomendados
+ 
+Categoria: Kit Kat
+ID: CATG24448
+ https://fazil-app.com/categories?name=KitKat&id=CATG24448&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+ 
+
+Category name: Despacho Gratis
+ID: CATG10136
+DL: https://fazil-app.com/categories?name=DespachoGratis&id=CATG10136&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+cencinas
+Componentes Circulares Tottus Express TOTTUS APP	
+Días de...	
+
+
+
+si con este paso no se visualiza, habria que reportar al equipo de desa
+
+
+Categoria: Jamon
+ID: CATG18911
+ https://fazil-app.com/categories?name=Jamon&id=CATG18911&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+
+
+ 
+
+
+
+Categoria: Ahorra Ahora con Productos Tottus
+ID: CATG24452
+ https://fazil-app.com/categories?name=AhorraAhoraconProductosTottus&id=CATG24452&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Menaje y Utensilios de Parrilla
+ID: CATG20158
+ https://fazil-app.com/categories?name=MenajeyUtensiliosdeParrilla&id=CATG20158&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+Categoria: Parrillas
+ID: CATG20164
+ https://fazil-app.com/categories?name=Parrillas&id=CATG20164&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
+
+
+
+
+------------DL INACTIVO------------
+Categoria: Especial Panales
+ID: CATG24185
+ https://fazil-app.com/categories?name=EspecialPanales&id=CATG24185&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+--------------------------------
+
+
+
+Categoria: Congelados Septiembre
+ID: CATG24453
+ https://fazil-app.com/categories?name=CongeladosSeptiembre&id=CATG24453&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Mascotas
+ID: CATG15487
+ https://fazil-app.com/categories?name=Mascotas&id=CATG15487&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Categoria: Utensilios de Parrilla
+ID: CATG20170
+ https://fazil-app.com/categories?name=UtensiliosdeParrilla&id=CATG20170&landingtonewPLP=true&defaultSelectParentId=CATG20158&defaultSortBy=Recomendados
+
+Categoria: Core MMPP
+ID: CATG24456
+ https://fazil-app.com/categories?name=CoreMMPP&id=CATG24456&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Jamon|
+ID: CATG18911
+ https://fazil-app.com/categories?name=Jamon&id=CATG18911&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+
+
+
+Categoria: SUPER POLLO
+ID: CATG24451
+ https://fazil-app.com/categories?name=superpollo&id=CATG24451&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: SUPER CERDO
+ID: CATG24450
+ https://fazil-app.com/categories?name=supercerdo&id=CATG24450&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Aceites
+ID: CATG20183
+ https://fazil-app.com/categories?name=Aceites&id=CATG20183&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
+
+
+
+Categoria: Cocktail y Snack
+ID: CATG20191
+ https://fazil-app.com/categories?name=CocktailySnack&id=CATG20191&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
+
+
+
+Categoria: Accesorios de Aseo y Cocina
+ID: CATG20298
+ https://fazil-app.com/categories?name=AccesoriosdeAseoyCocina&id=CATG20298&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+
+Categoria: Fiambrería
+ID: CATG24323
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG24323&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Día de Jamones
+ID: CATG24457
+ https://api.test.tottus.cl/categories?name=DíadeJamones&id=CATG24457&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+Categoria: Café
+ID: CATG20054
+ https://fazil-app.com/categories?name=Café&id=CATG20054&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+
+
+Categoria: Cafe Instantáneo
+ID: CATG20069
+ https://fazil-app.com/categories?name=CafeInstantaneo&id=CATG20069&landingtonewPLP=true&defaultSelectParentId=CATG20054&defaultSortBy=Recomendados
+
+
+
+api.test.tottus.cl
+
+
+
+https://api.test.tottus.cl/categories?name=Todo Jamones&id=CATG24457&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Tottus
+ID: CATG24316
+ https://fazil-app.com/categories?name=Tottus&id=CATG24316&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Combos Platos Listos
+ID: CATG24194
+ https://fazil-app.com/categories?name=CombosPlatosListos&id=CATG24194&landingtonewPLP=true&defaultSelectParentId=CATG24095&defaultSortBy=Recomendados
+
+
+Categoria: Cervezas
+ID: CATG15479
+ https://api.test.tottus.cl/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Importado
+ID: CATG20266
+ https://fazil-app.com/categories?name=Importado&id=CATG20266&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+
+Categoria: Lavado y Hogar
+ID: CATG24319
+ https://fazil-app.com/categories?name=LavadoyHogar&id=CATG24319&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+Categoria: Fiambrería FFPP
+ID: CATG24460
+ https://fazil-app.com/categories?name=FiambreríaFFPP&id=CATG24460&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados 
+
+Categoria: SUPER POLLO
+ID: CATG24451
+ https://api.test.tottus.cl/categories?name=superpollo&id=CATG24451&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+DRB | exploreBrandCategoriesX2 - Tottus App - FIESTAS PATRIAS 6 AL 20 SEP
+
+
+DRB | imageLinkProdChile - Landing Panadería - Pastel empolvado
+DRB | imageLinkProdChile - Landing Panadería - Tortas mil hojas manjar merengue
+DRB | imageLinkProdChile - Fiestas Patrias - Abastero carnicero sobrecostilla o posta paleta importado
+
+
+
+Categoria: Licores Desa
+ID: CATG24458
+ https://fazil-app.com/categories?name=LicoresDesa&id=CATG24458&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Parrillas y Accesorios
+ID: CATG20435
+ https://fazil-app.com/categories?name=ParrillasyAccesorios&id=CATG20435&landingtonewPLP=true&defaultSelectParentId=CATG15500&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Helados de Agua
+ID: CATG20146
+ https://fazil-app.com/categories?name=HeladosdeAgua&id=CATG20146&landingtonewPLP=true&defaultSelectParentId=CATG20118&defaultSortBy=Recomendados
+
+
+
+Categoria: Especial Papeles
+ID: CATG24186
+ https://fazil-app.com/categories?name=EspecialPapeles&id=CATG24186&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Bombillines
+ID: CATG24509
+ https://fazil-app.com/categories?name=Bombillines&id=CATG24509&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Tresmontes Lucchetti
+ID: CATG24455
+ https://fazil-app.com/categories?name=TresmontesLucchetti&id=CATG24455&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+Category name: La Gran Estancia 
+ID: CATG20268 
+DL: https://fazil-app.com/categories?name=LaGranEstancia&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+Categoria: Carbon
+ID: CATG20169
+  https://fazil-app.com/categories?name=Carbon&id=CATG20169&landingtonewPLP=true&defaultSelectParentId=CATG20158&defaultSortBy=Recomendados
+
+Category name: Pan Precocido 
+ID: CATG23966 
+DL: https://fazil-app.com/categories?name=PanPrecocido&id=CATG23966&landingtonewPLP=true&defaultSelectParentId=CATG18725&defaultSortBy=Recomendados
+
+CERV STE ART SIX PACK LATA 4.8G GL354 CC	
+DL: https://fazil-app.com/productdesc?productkey=110613687
+
+
+
+Categoria: Solo Por 48 Horas 
+ID: CATG23957 
+https://fazil-app.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+Categoria: DG  Omo Quix Cif y Comfort
+ID: CATG24241
+ https://fazil-app.com/categories?name=DGOmoQuixCifyComfort&id=CATG24241&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Club Social Oreo Milka
+ID: CATG24459
+ https://fazil-app.com/categories?name=ClubSocialOreoMilka&id=CATG24459&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Categoria: Cervezas hasta 40% Dscto
+ID: CATG24544
+ https://fazil-app.com/categories?name=Cervezashasta40%Dscto&id=CATG24544&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: La Gran Estancia 
+ID: CATG20268 
+ https://fazil-app.com/categories?name=LaGranEstancia&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+Categoria: Champiñones y Orientales 
+ID: CATG20042 
+ https://fazil-app.com/categories?name=ChampiñonesyOrientales&id=CATG20042&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
+
+Categoria: Pan Envasado
+ID: CATG18725
+ https://fazil-app.com/categories?name=PanEnvasado&id=CATG18725&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
+
+
+Categoria: Jabones Líquidos
+ID: CATG20357
+ https://fazil-app.com/categories?name=JabonesLíquidos&id=CATG20357&landingtonewPLP=true&defaultSelectParentId=CATG20341&defaultSortBy=Recomendados
+
+Categoria: Dove
+ID: CATG24187
+ https://fazil-app.com/categories?name=Dove&id=CATG24187&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+https://fazil-app.com/categories?name=aceiteMaravilla&id=CATG24376&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Categoria: Empanadas
+ID: CATG19304
+ https://fazil-app.com/categories?name=Empanadas&id=CATG19304&landingtonewPLP=true&defaultSelectParentId=CATG19059&defaultSortBy=Recomendados
+
+Categoria: Licores
+ID: CATG15653
+ https://fazil-app.com/categories?name=Licores&id=CATG15653&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+Categoria: Toallas de Papel
+ID: CATG20301
+ https://fazil-app.com/categories?name=ToallasdePapel&id=CATG20301&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
+
+Categoria: Aguas Saborizadas y Especiales
+ID: CATG19055
+ https://fazil-app.com/categories?name=AguasSaborizadasyEspeciales&id=CATG19055&landingtonewPLP=true&defaultSelectParentId=CATG19045&defaultSortBy=Recomendados
+
+
+Categoria: Toallas Desmaquillantes
+ID: CATG20355
+ https://fazil-app.com/categories?name=ToallasDesmaquillantes&id=CATG20355&landingtonewPLP=true&defaultSelectParentId=CATG20340&defaultSortBy=Recomendados
+
+
+
+Categoria: Pechugas y Filetitos de Pollo 
+ID: CATG20278 
+ https://fazil-app.com/categories?name=PechugasyFiletitosdePollo&id=CATG20278&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+https://api.test.tottus.cl/seller?name=Mundo Parrillero&id=1UCxDFY1fKKlCn4lMnLVUX
+
+Categoria: Fiestas Patrias Tottus
+ID: CATG24503
+ https://fazil-app.com/categories?name=FiestasPatriasTottus&id=CATG24503&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Asado Fiestas Patrias
+ID: CATG24496
+ https://fazil-app.com/categories?name=AsadoFiestasPatrias&id=CATG24496&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+ 
+Categoria: Cotillón Fiestas Patrias
+ID: CATG24468
+ https://fazil-app.com/categories?name=CotillonFiestasPatrias&id=CATG24468&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+https://fazil-app.com/seller?name=MundoParrillero&id=1UCxDFY1fKKlCn4lMnLVUX
+
+
+
+ HOME FFPP DL: https://fazil-app.com/vendor?contentfulid=1UCxDFY1fKKlCn4lMnLVUX
+
+Categoria: Mundo Parrillero
+ID: CATG15506
+ https://fazil-app.com/categories?name=MundoParrillero&id=CATG15506&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Pechuga de Pavo
+ID: CATG18935
+ https://api.test.tottus.cl/categories?name=PechugadePavo&id=CATG18935&landingtonewPLP=true&defaultSelectParentId=CATG18911&defaultSortBy=Recomendados
+
+
+Categoria: Ajiaco
+ID: CATG24554
+ https://fazil-app.com/categories?name=Ajiaco&id=CATG24554&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Terremoto
+ID: CATG24471
+ https://fazil-app.com/categories?name=Terremoto&id=CATG24471&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Category name: Detox 
+ID: CATG23879 
+DL: https://api.test.tottus.cl/categories?name=Detox&id=CATG23879&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+cl__home_agosto_2023_s35_boton_05_marca_destacada_livean
+
+cl__home_agosto_2023_s38_boton_04_not_co
+
+
+Se agrego la marca *NotCO*, en el Home 
+
+
+
+
+
+
+
+Categoria: Remate Tiki Tiki
+ID: CATG24558
+ https://fazil-app.com/categories?name=RemateTikiTiki&id=CATG24558&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Category name: Detox 
+ID: CATG23879 
+DL: https://fazil-app.com/categories?name=Detox&id=CATG23879&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+Categoria: Sour y Cocteles
+ID: CATG15666
+ https://fazil-app.com/categories?name=SouryCocteles&id=CATG15666&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+ 
+Categoria: Especial J&J
+ID: CATG24594
+ https://fazil-app.com/categories?name=EspecialJ&J&id=CATG24594&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Carnes
+ID: CATG24384
+ https://api.test.tottus.cl/categories?name=Categoría Destacada&id=CATG24384&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
+
+
+
+Categoria: Solo por 48 Horas Lunes
+ID: CATG10197
+ https://fazil-app.com/categories?name=Solopor48HorasLunes&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+Categoria: Sx48 Miércoles
+ID: CATG24376
+ https://fazil-app.com/categories?name=Sx48Miercoles&id=CATG24376&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Vienesas 
+ID: CATG18927 
+ https://fazil-app.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+
+
+
+Categoria: Super Ahorro
+ID: CATG24195
+ https://fazil-app.com/categories?name=SuperAhorro&id=CATG24195&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Remate Tiki Tiki
+ID: CATG24558
+ https://fazil-app.com/categories?name=RemateTikiTiki&id=CATG24558&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Congelados
+ID: CATG24578
+ https://fazil-app.com/categories?name=Congelados&id=CATG24578&landingtonewPLP=true&defaultSelectParentId=CATG24558&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=JabonesLíquidos&id=CATG20357&landingtonewPLP=true&defaultSelectParentId=CATG20341&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Dove&id=CATG24187&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+	 Tottus Express TOTTUS APP  Marcas Tottus (CATG15501) CATG21736	Huevos y Fiambres	
+
+
+https://api.test.tottus.cl/categories?name=Picoteo&id=CATG24215&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Huevos de Color
+ID: CATG18932
+ https://fazil-app.com/categories?name=HuevosdeColor&id=CATG18932&landingtonewPLP=true&defaultSelectParentId=CATG18910&defaultSortBy=Recomendados
+
+
+Categoria: Quesos
+ID: CATG19934
+ https://fazil-app.com/categories?name=Quesos&id=CATG19934&landingtonewPLP=true&defaultSelectParentId=CATG15480&defaultSortBy=Recomendados
+
+Categoria: Panales Infantiles
+ID: CATG20395
+ https://fazil-app.com/categories?name=PanalesInfantiles&id=CATG20395&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
+
+
+Categoria: Cuidado Capilar 
+ID: CATG20339 
+ https://fazil-app.com/categories?name=CuidadoCapilar&id=CATG20339&landingtonewPLP=true&defaultSelectParentId=CATG15485&defaultSortBy=Recomendados
+
+Categoria: Leche en Polvo
+ID: CATG19936
+ https://fazil-app.com/categories?name=LecheenPolvo&id=CATG19936&landingtonewPLP=true&defaultSelectParentId=CATG15480&defaultSortBy=Recomendados
+
+
+Category name: Zona a Lucas
+ID: CATG10215
+ https://fazil-app.com/categories?name=ZonaaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Vinos
+ID: CATG10182
+ https://fazil-app.com/categories?name=Vinos&id=CATG10182&landingtonewPLP=true&defaultSelectParentId=CATG10181&defaultSortBy=Recomendados
+
+
+Categoria: Licores
+ID: CATG10183
+ https://fazil-app.com/categories?name=Licores&id=CATG10183&landingtonewPLP=true&defaultSelectParentId=CATG10181&defaultSortBy=Recomendados
+
+
+
+Categoria: Galletas y Chocolates
+ID: CATG10192
+ https://fazil-app.com/categories?name=GalletasyChocolates&id=CATG10192&landingtonewPLP=true&defaultSelectParentId=CATG10179&defaultSortBy=Recomendados
+
+
+
+Categoria: Colados y Picados
+ID: CATG10193
+ https://fazil-app.com/categories?name=ColadosyPicados&id=CATG10193&landingtonewPLP=true&defaultSelectParentId=CATG10179&defaultSortBy=Recomendados
+
+
+Categoria: Lácteos
+ID: CATG24058
+ https://fazil-app.com/categories?name=Lacteos&id=CATG24058&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+
+Categoria: Papeles para el Hogar
+ID: CATG24087
+ https://fazil-app.com/categories?name=PapelesparaelHogar&id=CATG24087&landingtonewPLP=true&defaultSelectParentId=CATG24063&defaultSortBy=Recomendados
+
+
+Categoria: Aseo Hogar
+ID: CATG24088
+ https://fazil-app.com/categories?name=AseoHogar&id=CATG24088&landingtonewPLP=true&defaultSelectParentId=CATG24063&defaultSortBy=Recomendados
+
+
+Categoria: Higiene Bucal
+ID: CATG24089
+ https://fazil-app.com/categories?name=HigieneBucal&id=CATG24089&landingtonewPLP=true&defaultSelectParentId=CATG24064&defaultSortBy=Recomendados
+
+
+Categoria: Cuidado de la Piel
+ID: CATG24091
+ https://fazil-app.com/categories?name=CuidadodelaPiel&id=CATG24091&landingtonewPLP=true&defaultSelectParentId=CATG24064&defaultSortBy=Recomendados
+
+
+Categoria: Depilación  Afeitado
+ID: CATG24109
+ https://fazil-app.com/categories?name=DepilaciónAfeitado&id=CATG24109&landingtonewPLP=true&defaultSelectParentId=CATG24064&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=VerdurasCongeladas&id=CATG20141&landingtonewPLP=true&defaultSelectParentId=CATG10117&defaultSortBy=Recomendados
+
+
+
+Categoria: Lasagnas y Pastas
+ID: CATG20141
+ https://api.test.tottus.cl/categories?name=LasagnasyPastas&id=CATG20141&landingtonewPLP=true&defaultSelectParentId=CATG20117&defaultSortBy=Recomendados
+
+
+Categoria: Helados de Leche o Cremosos
+ID: CATG20145
+ https://fazil-app.com/categories?name=HeladosdeLecheoCremosos&id=CATG20145&landingtonewPLP=true&defaultSelectParentId=CATG20118&defaultSortBy=Recomendados
+
+
+DRB | imageLinkProdChile - Tottus App - Pañales premium care
+
+DRB | imageLinkProdChile - Tottus App - Bebidas variedades coca cola
+
+
+Se agregaron los banners " *Pañales premium care* y  *Bebidas variedades coca cola* ", en el *Home Tottus App*
+
+
+Se agregaron los banners " *Pañales premium care* y  *Bebidas variedades coca cola* ", en el *Home Tottus App*
+
+
+https://api.test.tottus.cl/categories?name=VerdurasCongeladas&id=CATG20141&landingtonewPLP=true&defaultSelectParentId=CATG10117&defaultSortBy=Recomendados
+
+
+Categoria: Tottus Reserve
+ID: CATG24596
+ https://fazil-app.com/categories?name=TottusReserve&id=CATG24596&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+
+
+Categoria: Mascotas
+ID: CATG24065
+ https://fazil-app.com/categories?name=Mascotas&id=CATG24065&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
+
+
+Categoria: Alimentos Basicos
+ID: CATG24067
+ https://fazil-app.com/categories?name=AlimentosBasicos&id=CATG24067&landingtonewPLP=true&defaultSelectParentId=CATG24054&defaultSortBy=Recomendados
+
+
+Categoria: Vinos
+ID: CATG24071
+ https://fazil-app.com/categories?name=Vinos&id=CATG24071&landingtonewPLP=true&defaultSelectParentId=CATG24055&defaultSortBy=Recomendados
+
+
+
+Categoria: Aguas, Bebidas y Jugos
+ID: CATG24073
+ https://fazil-app.com/categories?name=Aguas,BebidasyJugos&id=CATG24073&landingtonewPLP=true&defaultSelectParentId=CATG24055&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Categoria: Licores
+ID: CATG24072
+ https://fazil-app.com/categories?name=Licores&id=CATG24072&landingtonewPLP=true&defaultSelectParentId=CATG24055&defaultSortBy=Recomendados
+
+
+
+Category name: Cuidado Personal	
+ID: CATG15485
+ https://fazil-app.com/categories?name=CuidadoPersonal&id=CATG15485&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Dulces y Snack
+ID: CATG24068
+ https://fazil-app.com/categories?name=DulcesySnack&id=CATG24068&landingtonewPLP=true&defaultSelectParentId=CATG24054&defaultSortBy=Recomendados
+
+
+CATG24068
+CATG37400
+
+
+
+
+Categoria: Soprole APP
+ID: CATG24649
+ https://fazil-app.com/categories?name=SoproleAPP&id=CATG24649&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Whisky 
+ID: CATG15662 
+ https://fazil-app.com/categories?name=Whisky&id=CATG15662&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+
+
+Categoria: Especial Halloween
+ID: CATG24655
+ https://api.test.tottus.cl/categories?name=EspecialHalloween&id=CATG24655&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Tottus Express TOTTUS APP
+ID: CATG15093
+ https://fazil-app.com/categories?name=TottusExpressTOTTUSAPP&id=CATG15093&&defaultSortBy=Recomendados
+
+
+
+ 
+Categoria: Queso Chanco
+ID: CATG19963
+ https://fazil-app.com/categories?name=QuesoChanco&id=CATG19963&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+
+Categoria: Pizzas
+ID: CATG23876
+ https://fazil-app.com/categories?name=Pizzas&id=CATG23876&landingtonewPLP=true&defaultSelectParentId=CATG19058&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Papas Fritas 
+ID: CATG20231 
+ https://fazil-app.com/categories?name=PapasFritas&id=CATG20231&landingtonewPLP=true&defaultSelectParentId=CATG20191&defaultSortBy=Recomendados
+
+
+Categoria: Huevos
+ID: CATG21769
+ https://fazil-app.com/categories?name=Huevos&id=CATG21769&landingtonewPLP=true&defaultSelectParentId=CATG21736&defaultSortBy=Recomendados
+
+
+Categoria: Detergentes en Polvo
+ID: CATG20306
+ https://fazil-app.com/categories?name=DetergentesenPolvo&id=CATG20306&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+
+Categoria: PIZZA 28 CM  
+ID: CATG10197 
+ https://fazil-app.com/categories?name=PIZZA28CM&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+Categoria: Solo Por 48 Horas 
+ID: CATG23957 
+ https://fazil-app.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+Categoria: ANTITRANSPIRANTES TOTTUS
+ID: CATG24659
+ https://fazil-app.com/categories?name=ANTITRANSPIRANTESTOTTUS&id=CATG24659&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+ 
+
+
+
+
+Categoria: Oportunidad Única
+ID: CATG23080
+ https://fazil-app.com/categories?name=OportunidadUnica&id=CATG23080&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Lácteos
+ID: CATG23092
+ https://fazil-app.com/categories?name=Lacteos&id=CATG23092&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+Categoria: Líquidos
+ID: CATG23095
+ https://fazil-app.com/categories?name=Líquidos&id=CATG23095&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+Categoria: Fiambrería
+ID: CATG23091
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG23091&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+Categoria: Lavado y Mantención
+ID: CATG23093
+ https://fazil-app.com/categories?name=LavadoyMantención&id=CATG23093&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+Categoria: Congelados
+ID: CATG23090
+ https://fazil-app.com/categories?name=Congelados&id=CATG23090&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+Categoria: Panadería y Pastelería
+ID: CATG23096
+ https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG23096&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+Categoria: Abarrotes
+ID: CATG23089
+ https://fazil-app.com/categories?name=Abarrotes&id=CATG23089&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+Categoria: Perfumería
+ID: CATG23094
+ https://fazil-app.com/categories?name=Perfumería&id=CATG23094&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+
+
+
+ampiñón Blanco
+https://api.test.tottus.cl/categories?name=Verduras+para+Parrillar&id=CATG20036&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
+
+
+ Categoria: Detergente y Cuidado para la ropa 
+ID: CATG20294 
+ https://api.test.tottus.cl/categories?name=DetergenteyCuidadoparalaropa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+
+Categoria: Perfumería
+ID: CATG10224
+ https://fazil-app.com/categories?name=Perfumería&id=CATG10224&landingtonewPLP=true&defaultSelectParentId=CATG10215&defaultSortBy=Recomendados
+
+
+
+Categoria: Sx48 Jueves
+ID: CATG10198
+ https://fazil-app.com/categories?name=Sx48Jueves&id=CATG10198&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+Categoria: Sx48 Sábado
+ID: CATG24383
+ https://fazil-app.com/categories?name=Sx48Sábado&id=CATG24383&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+Category name: Bebidas, Aguas y Jugos 
+ID: CATG15482 
+DL: https://fazil-app.com/categories?name=BebidasAguasyJugos&id=CATG15482&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Mundo Bebe
+ID: CATG15489
+ https://fazil-app.com/categories?name=MundoBebe&id=CATG15489&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Pasteles
+ID: CATG18743
+ https://fazil-app.com/categories?name=Pasteles&id=CATG18743&landingtonewPLP=true&defaultSelectParentId=CATG18734&defaultSortBy=Recomendados
+
+Categoria: Frutas Congeladas 
+ID: CATG20112 
+ https://fazil-app.com/categories?name=FrutasCongeladas&id=CATG20112&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+Categoria: MASTER DOG 
+ID: CATG10197 
+ https://fazil-app.com/categories?name=MASTERDOG&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+Categoria: Solo Por 48 Horas 
+ID: CATG23957 
+ https://fazil-app.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+Categoria: Navidad
+ID: CATG24595
+ https://fazil-app.com/categories?name=Navidad&id=CATG24595&landingtonewPLP=true&defaultSelectParentId=CATG15495&defaultSortBy=Recomendados
+
+
+Categoria: Detergentes Líquidos
+ID: CATG20305
+ https://fazil-app.com/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+https:///api.test.tottus.cl/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+
+
+Categoria: Cereales
+ID: CATG20062
+ https://fazil-app.com/categories?name=Cereales&id=CATG20062&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+
+
+Categoria: Conservas de Mariscos
+ID: CATG20198|
+ https://fazil-app.com/categories?name=ConservasdeMariscos&id=CATG20198&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
+
+
+Categoria: Té
+ID: CATG20055
+ https://fazil-app.com/categories?name=Te&id=CATG20055&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+
+Categoria: Fiambrería 
+ID: CATG18909
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG18909&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+

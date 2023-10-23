@@ -1,0 +1,150 @@
+Cambio de banner plp en bloque de Categorias - 23/02
+----------------------------------------------------------
+Asset
+    Img_CL_fazil_s08_banner_week_DG_CMR_plp_v2_febrero_2023
+    https://images.ctfassets.net/efpn4u8cnuye/4VAkmvMGqgLmCFE0C0V8M1/9f05002d35748879e2cc1dab4407b8ba/DG_CMR_plp__1_.jpg
+
+imageLink
+    BANNER PLP DG CMR
+================================================
+
+Marcas Tottus
+    https://api.test.tottus.cl/categories?name=Marcas Tottus&id=1d2f1606-cdf2-4ad3-a152-dbb90a34de0b&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+CategoryItem
+1d2f1606-cdf2-4ad3-a152-dbb90a34de0b
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/73EZ9PpfgUoP9wexkXOq0w
+
+Antes
+    Asset
+    MMPP-2
+
+
+
+--------------------------------------
+
+Despensa
+    https://api.test.tottus.cl/categories?name=Despensa&id=b2611753-6a7f-42f5-b55d-7f14020c6c89&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+CategoryItem
+    b2611753-6a7f-42f5-b55d-7f14020c6c89
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/7yLep17YCTIYr80jzPJdkU
+
+
+Antes
+    Asset
+    despensa
+
+
+--------------------------------------
+
+FFVV
+    https://api.test.tottus.cl/categories?name=Frutas y Verduras&id=7771d6e5-ac92-473b-b397-14571cc350b1&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+Antes
+    Asset
+    frutas-y-verduras
+    imageLink
+    CL | BANNER GENERICO FFVV
+
+CategoryItem
+    7771d6e5-ac92-473b-b397-14571cc350b1
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/6v3uEcUe4oqKPqgOphsbfK
+
+
+--------------------------------------
+Carnes – Dejar en banner carrusel
+
+imageLinkProdChile - Home Fazil - DG CMR
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/1rAay2DLEHhAj4OuOxY6Y8?previousEntries=4scBYybeJhluRs5mA4OEdF,7tYukVKo6VcJGjtOBY0uA3
+
+--------------------------------------
+
+Mundo parrillero
+    https://api.test.tottus.cl/categories?name=MundoParrillero&id=a4b43f2d-bddb-4574-b774-b2cd725cf01a&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+
+Antes
+    Asset
+    btn-mundo-parrilla-100
+
+CategoryItem
+    a4b43f2d-bddb-4574-b774-b2cd725cf01a
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/4n3dXC4Jm68LUhqLVVvIHO
+
+--------------------------------------
+
+lácteos
+    https://api.test.tottus.cl/categories?name=Lácteos y Quesos&id=8b32070f-d970-40ea-9a05-6f76e969478b&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+CategoryItem
+    8b32070f-d970-40ea-9a05-6f76e969478b
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/3qv2xU1tDBwTsdUJIWroep
+
+
+Antes
+    Asset
+    lacteos-100
+
+
+--------------------------------------
+
+Huevos y Fiambres
+    https://api.test.tottus.cl/categories?name=Huevos y Fiambres&id=65f22e70-9701-4532-9c21-93d7a8d939fe&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+CategoryItem
+    65f22e70-9701-4532-9c21-93d7a8d939fe
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/633EKzrCRIxGTXz1apzI7e
+
+    Antes
+    Asset
+    huevos-fiambres
+
+
+--------------------------------------
+
+
+Cervezas
+    https://api.test.tottus.cl/categories?name=Cervezas&id=1d141e4b-5da4-464c-a552-3a19eedc9fe1&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+CategoryItem
+    1d141e4b-5da4-464c-a552-3a19eedc9fe1
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/6TjZSAJVv3lJim68tI7WUb
+
+
+Antes
+    Asset
+    cerveza
+    imageLink
+    PLP GENERICO CERVEZA
+
+--------------------------------------
+
+Bebidas
+    https://api.test.tottus.cl/categories?name=Bebidas, Aguas y Jugos&id=a259ebfe-102d-49b8-aef5-3e73c33f2dc7&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+CategoryItem
+    a259ebfe-102d-49b8-aef5-3e73c33f2dc7
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/4GhgU7aXECjgYBnX5RU18C
+
+
+Antes
+    Asset
+    bebidas-100
+
+
+--------------------------------------
+
+Vinos
+https://api.test.tottus.cl/categories?name=Vinos y Licores&id=97b26034-e314-4848-a62d-74876bf1d885&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+CategoryItem
+    97b26034-e314-4848-a62d-74876bf1d885
+    https://app.contentful.com/spaces/efpn4u8cnuye/entries/2i6MxDxUY7RsxtPakcxpno
+
+
+Antes
+    Asset
+    NO_BORRAR_CL_tottus_s01_banner_generico_vinos_ene_2023
+    imageLink
+    BANNER PLP VINO GENERICO

@@ -1,0 +1,37 @@
+Tefy, va el banner de 48hrs para el lunes, no mas esperar a que se actualize el banner plp :cara_ligeramente_sonriente:
+
+
+======================== 03/02 =============================
+
+Img_CL_fazil_s05_banner_plp_huevo_tottus_febrero_2023
+https://images.ctfassets.net/efpn4u8cnuye/2Y9DR6Zu5il1HiLiUWYxr5/0bcb864b044239dac2c629fb5d9089b5/SOLOX48HORAS-BANNER-1200X196-02-02.png
+
+
+Img_CL_fazil_s05_banner_48hrs_huevo_tottus_febrero_2023
+https://images.ctfassets.net/efpn4u8cnuye/7IfX4K5DOcROWU0H1oHn3x/51471d05ca4cbfe43dd4dc7436caee31/SOLOX48HORAS-BANNER-APP-02-02.png
+
+
+PROD
+
+DL: https://api.test.tottus.cl/categories?name=HuevoGrandeColor&id=f97fb1d6-af95-4532-aa15-149af4bae8fc&landingtonewPLP=true&defaultSelectParentId=0a706d55-8b2c-4d7c-9650-1158c345101e&defaultSortBy=Recomendados
+
+
+
+Category name:  
+ID:  
+DL: https://api.test.tottus.cl/categories?name=&id=&landingtonewPLP=true&defaultSelectParentId=&defaultSortBy=Recomendados
+
+PLP SX48 HUEVO GRANDE FEBRERO 03
+
+Removido ----------------
+imageLink
+PLP SX48 DETERGENTE DRIVE ENERO 30
+
+
+JORGE DL: https://fazil-app.com/vendor?contentfulid=1PTVVvU08ihLx7rbjwwjTv
+
+imageLinkProdChile - Home Fazil - Huevo grande
+
+home_fazil_pp_sx48horas_papel_huevo_grandee_2023_febrero_lunes_06
+
+=============================

@@ -1,0 +1,35 @@
+
+=========== Sx48 horas - Lunes 29 de agosto ================
+Hola chicos,
+
+Subir en 1° lugar el Sx48 horas en ambos home:
+
+
+id: appsolox48hrs
+
+Les debo el otro Sx48 horas que se va a subir.
+
+	Solución
+        Img__Cl_faziz_s35_banner_48hrs_chuleta_centro_agosto_2022
+		https://images0ctfassets.net/efpn4u8cnuye/5yRfnfofn4SfFfrdRgjxtp/f765c36fb9d741fc0a230f780e15063b/26.08--Cartera-masivo-lunes--banner.png
+
+		Img__Cl_faziz_s35_banner_48hrs_chuleta_centro_agotado_agosto_2022
+		https://images.ctfassets.net/efpn4u8cnuye/7ILLgmWlGvfd5ftdZKBr3e/8b15ca076b0b92d1badcea67ba9adeea/26.08--Cartera-masivo-lunes--banner2.png
+
+
+	    URL
+	    https://api.test.tottus.cl/categories?name=Solo_por_48_hrs_desde_hoy_Lunes&id=17bbb481-6d7b-4ffd-9f3f-d50b6773d038&landingtonewPLP=true&defaultSelectParentId=00c28d22-db15-4eb8-8383-06d6b27ac343&defaultSortBy=Recomendados
+
+	    Home
+	    https://app.contentful.com/spaces/efpn4u8cnuye/entries/5uHKOk4RqE2bHOZn3j2leP?previousEntries=4zIPs6lyBg7PiHZ71LbeSP,ygnOxkkqHpaGuI3BmlPvz
+	    home_fazil_pp_sx48_chuleta-centro_tottus_750gr_tpm_2022_agosto_34_lunes_29
+
+	    Express
+	    https://app.contentful.com/spaces/efpn4u8cnuye/entries/4lvLyune9UieYxXw0h26DB?previousEntries=4zIPs6lyBg7PiHZ71LbeSP,ygnOxkkqHpaGuI3BmlPvz
+
+	    home_tottus_pp_sx48_chuleta-centro_tottus_750gr_tpm_2022_agosto_34_lunes_29
+
+	    DEEPLINK
+		URL: https://fazil-app.com/vendor?contentfulid=4zIPs6lyBg7PiHZ71LbeSP
+
+

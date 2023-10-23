@@ -1,0 +1,573 @@
+
+Home BU Tottus - home tottus express
+---------------------------------------------------------------------
+Todos los Lunes	Al día siguiente am*	
+CCL_Tottus_Express_banner_enero_2021_1_Lunes_FFYVV_20%_dcto_CMR_(nuevo)_NO_BORRAR
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/1kSkEr3gWtHLVT7Og8QpcF	JORGE	
+
+
+Todos los Miercoles	Al día siguiente am*	
+CCL_Tottus_Express_banner_enero_2021_1_Dias_D_Miércoles_Carnes_NO_BORRAR
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/34dgqycHh45x15SlHgOQfq	ROSSMEL	
+
+
+
+
+Todos los Jueves	Al día siguiente am*	
+CCL_Tottus_Express_banner_enero_2021_1_Dias_D_Jueves_Pollo_NO_BORRAR
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/4fZfLI9XQSgoBh6SgEcCxX	ROSSMEL	
+
+
+Todos los  Viernes 	Al día siguiente am*	
+CCL_Tottus_Express_banner_enero_2021_1_Vinos_20%_Viernes_NO_BORRAR	
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/4dBwWAbP1g7S7cLHH5Kq7J	ROSSMEL	
+
+
+Todos los Sabado	Al día siguiente am*	
+CCL_Tottus_Express_banner_enero_2021_1_Sabado_Cuidado_Personal_NO_BORRAR	
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/8F5m6m3G4f7EUB70zmiP9	JORGE
+
+
+Martes	Domingo	
+CCL_Tottus_Express_banner_enero_2021_1_MMPP_todos_los_días_NO_BORRAR	
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/1Tei9soyrJ2adcyiRSmq0q	JORGE
+
+
+
+homeContentChileProd- home principal fazil
+---------------------------------------------------------------------
+Todos los Lunes	Al día siguiente am*	
+CCL_Fazil_banner_enero_2021_1_Lunes_home_fazil_FFYVV_20%_dcto_CMR_(nuevo)_NO_BORRAR
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/1kSkEr3gWtHLVT7Og8QpcF  JORGE	
+
+
+Todos los Miercoles	Al día siguiente am*	
+CCL_Fazil_banner_enero_2021_1_Dias_D_Miércoles_Carnes_NO_BORRAR
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/6ba28DRIQd93FSbXwf4Wpu	ROSSMEL	
+
+
+Todos los Jueves	Al día siguiente am*	
+CCL_Fazil_banner_enero_2021_1_Dias_D_Jueves_Pollo_NO_BORRAR
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/1J9kWBtydNXQm3CgfOwWjJ	ROSSMEL	
+
+
+Todos los  Viernes 	Al día siguiente am*(FALTA IMAGEN)
+CCL_Fazil_banner_enero_2021_1_Vinos_20%_Viernes_NO_BORRAR	
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/4dBwWAbP1g7S7cLHH5Kq7J	ROSSMEL	
+
+
+Todos los Sabado	Al día siguiente am*(FALTA IMAGEN)	
+CCL_Fazil_banner_enero_2021_1_Sabado_Cuidado_Personal_NO_BORRAR
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/sVI3llZYmnqpyB5e4TAtb	JORGE	
+
+
+Martes	Domingo	
+CCL_Fazil_banner_enero_2021_1_MMPP_todos_los_días_NO_BORRAR	
+https://app.contentful.com/spaces/efpn4u8cnuye/entries/1kSkEr3gWtHLVT7Og8QpcF	JORGE
+
+
+
+
+
+image miercoles
+
+https://images.ctfassets.net/efpn4u8cnuye/GCaCLXNJaEw6xh4ymBsvG/12a6f3ba5842a57823e06368df5b22a9/625x250-OU-miercoles.jpg
+
+Jueves
+https://images.ctfassets.net/efpn4u8cnuye/AcRlkSuKSU6umnRnrlw3f/98ef1437a02397fd55ecd9e0e4b520af/BANNER-OPORTUNIDAD-UNICA-VINOS-OCT.png
+
+Viernes
+https://images.ctfassets.net/efpn4u8cnuye/AcRlkSuKSU6umnRnrlw3f/98ef1437a02397fd55ecd9e0e4b520af/BANNER-OPORTUNIDAD-UNICA-VINOS-OCT.png
+
+
+Sabado
+https://images.ctfassets.net/efpn4u8cnuye/14gJXQv2Y5pkjUGpuzV4sr/632d526dc09563e5413b838ef8a91799/banner_capilar_23_09.png
+
+
+Domingo 30/01 (Removido)
+*------------------------
+
+cl__Fazil_enero_2022_s04_dg_omo_7g_carrusel_01_bodegon_omo
+cl__Fazil_enero_2022_s04_dg_tena_15000_carrusel_03_bodegon_tena
+cl__Fazil_enero_2022_s04_dg_cross_16000_carrusel_02_cross
+
+
+cl__tottus_express_enero_2022_s04_dg_omo_7g_carrusel_01_bodegon_omo
+cl__tottus_express_enero_2022_s04_dg_tena_15000_carrusel_03_bodegon_tena
+cl__tottus_express_enero_2022_s04_dg_cross_16000_carrusel_02_cross
+
+
+(Removido)
+cl__tottus_express_enero_2022_s04_cmr_days_ou_carrusel_07_carbon_premium_2.5kg_quincho
+
+(Agregado)31/01
+cl__tottus_express_enero_2022_s05_PACK_LIMPIEZA
+
+
+https://images.ctfassets.net/efpn4u8cnuye/4UD3YrQxFicTIQUEt77nnz/559d780fe945b09f6011950c956c604d/VINOS_MARZO.png
+
+https://images.ctfassets.net/efpn4u8cnuye/3Z1k3ahZwr9hOHbXqPgaDF/d8bb4f9b7593e6bb8bb27eab19aa29c5/0B45A1C5-868D-4F4B-837F-D59F34CA322B.png
+
+====================   ABRIL  ======================
+
+Sabado
+https://images.ctfassets.net/efpn4u8cnuye/5xKFKH6eyite1wM5cVZqWM/1f4bc07114acdb5df180558c0b34251f/banner-capilares-abril-100_sabados.png
+
+Viernes
+https://images.ctfassets.net/efpn4u8cnuye/7s7O4c4ny50UVOlbNvJJkP/54b4d7414dfcf44c2421e325ee82461a/VINOS_abril_viernes.png
+
+Lunes
+https://images.ctfassets.net/efpn4u8cnuye/3DKdCvyr9FQs3dXaSLQmBs/fac7379f8823ada7561de834e48e584a/ffvv_20_tottus_abril_Lunes.png
+
+====================================================
+
+
+=====================NUEVOS COMPONENTES===============================
+
+
+CL_tottus_express_banner_abril_2021_s01_Lunes_FFYVV_20%_dcto_CMR
+
+
+cl__tottus_express_abril_2022_s01_Miercoles_dias_d_20off_carrusel_tottus_03_dias_d_carnes
+
+
+--
+cl__tottus_express_abril_2022_s01_Jueves_dias_d_20off_carrusel_tottus_04_dias_d_pollos
+
+
+cl__tottus_express_abril_2022_s01_Viernes_dias_d_20off_carrusel_tottus_05_dias_d_vinos
+
+
+
+cl__tottus_express_abril_2022_s01_Sabado_dias_d_20off_carrusel_tottus_06_dias_d_capilares
+
+
+cl__tottus_express_abril_2022_Martes_Domingo_s01_dias_d_20off_carrusel_tottus_02_dias_d_mmpp
+====================================================
+
+
+SABADO
+https://images.ctfassets.net/efpn4u8cnuye/5xKFKH6eyite1wM5cVZqWM/1f4bc07114acdb5df180558c0b34251f/banner-capilares-abril-100_sabados.png
+
+https://api.test.tottus.cl/categories?id=eeac4378-6b3c-43b7-9e49-1546bc7245d4&landingtonewPLP=true&defaultSelectParentId=cd5d7e79-9a0a-4c0a-b176-f1ea9c264958&defaultSortBy=Recomendados
+
+
+
+=================ACTUALIZAR=========================
+
+HOME FAZIL - BANNERS DIARIOS - ABRIL
+
+cl__fazil_abril_2022_s01_dias_d_20off_carrusel_01_dias_d_ffvv
+cl__fazil_abril_2022_s01_dias_d_15off_carrusel_02_dias_d_mmpp
+cl__fazil_abril_2022_s01_dias_d_20off_carrusel_03_dias_d_carnes
+cl__fazil_abril_2022_s01_dias_d_20off_carrusel_04_dias_d_pollos
+cl__fazil_abril_2022_s01_dias_d_20off_carrusel_05_dias_d_vinos
+cl__fazil_abril_2022_s01_dias_d_20off_carrusel_06_dias_d_capilares
+
+EXPRESS TOTTUS - BANNERS DIARIOS - ABRIL
+
+cl__tottus_express_abril_2022_s01_dias_d_Lunes_FFYVV_20%_dcto_CMR_carrusel_01
+cl__tottus_express_abril_2022_s01_dias_d_20off_dias_d_mmpp_carrusel_02
+cl__tottus_express_abril_2022_s01_dias_d_20off_dias_d_carnes_carrusel_03
+cl__tottus_express_abril_2022_s01_dias_d_20off_dias_d_pollos_carrusel_04
+cl__tottus_express_abril_2022_s01_dias_d_20off_dias_d_vinos_carrusel_05
+cl__tottus_express_abril_2022_s01_dias_d_20off_dias_d_capilares_carrusel_06
+
+====================================================
+
+----------------------------------------------------
+Banner días d Frutas y verduras 
+
+https://fazil-app.com/categories?id=a4470b7d-e81f-44d0-bc32-24da043bab2f&landingtonewPLP=true&defaultSelectParentId=00c28d22-db15-4eb8-8383-06d6b27ac343&defaultSortBy=Recomendados
+
+
+----------------------------------------------------
+Banner días d Carnes 
+
+https://fazil-app.com/categories?name=Carnes&id=008aac18-5e1b-4d73-a7b9-95442b1641ad&landingtonewPLP=true&defaultSelectParentId=56802d2f-cb8b-4524-b0b0-e78018cce45c&defaultSortBy=Recomendados
+
+
+----------------------------------------------------
+Banner días d Pollo
+
+https://fazil-app.com/categories?name=Pollo&id=6f0bc74b-9f47-4d86-b24e-3360cd36eafa&landingtonewPLP=true&defaultSelectParentId=008aac18-5e1b-4d73-a7b9-95442b1641ad&defaultSortBy=Recomendados
+
+
+----------------------------------------------------
+Banner días d Vinos
+
+https://fazil-app.com/categories?id=4acbffd2-0ab8-4970-9e34-8941ffaf332c&landingtonewPLP=true&defaultSelectParentId=97b26034-e314-4848-a62d-74876bf1d885&defaultSortBy=Recomendados
+
+
+----------------------------------------------------
+Banner días d Cuidado Capilar
+
+https://fazil-app.com/categories?id=eeac4378-6b3c-43b7-9e49-1546bc7245d4&landingtonewPLP=true&defaultSelectParentId=cd5d7e79-9a0a-4c0a-b176-f1ea9c264958&defaultSortBy=Recomendados
+
+
+----------------------------------------------------
+Banner días tds lo dias en productos
+
+https://fazil-app.com/categories?id=9375f300-08ee-4810-a45f-c72b02059317&landingtonewPLP=true&defaultSelectParentId=27087b61-1a46-48c1-ae78-d525a07d7c4d&defaultSortBy=Recomendados
+
+
+
+====================================================
+
+
+TAS000001150359
+
+0a706d55-8b2c-4d7c-9650-1158c345101e
+
+
+
+
+Category name: flyer lanzamientos 
+ID: appflyerlanzamiento01 
+DL: https://fazil-app.com/categories?name=flyerlanzamientos&id=06fdc4ee-350b-4dcc-91fd-efdb57d83249&landingtonewPLP=true&defaultSelectParentId=0a706d55-8b2c-4d7c-9650-1158c345101e&defaultSortBy=Recomendados
+
+
+
+
+Category name: especial carnes 
+ID: eventorelieveapp 
+DL: https://fazil-app.com/categories?name=especialcarnes&id=723d3645-7556-4a73-9194-29f2772b52de&landingtonewPLP=true&defaultSelectParentId=0a706d55-8b2c-4d7c-9650-1158c345101e&defaultSortBy=Recomendados
+
+
+=====================2023 - 02==========================
+BannerLGChileProd - Tottus App - CINTILLO LUNES - FFVV
+
+    DL: https://api.test.tottus.cl/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+    IMG: https://images.ctfassets.net/efpn4u8cnuye/FVxaSA2vxFn5dMcmpRlHD/0289f32a83fa80604ab1593094e665be/FFVV_nuevo_cintillo-aq_VERDE.jpg
+
+
+
+BannerLGChileProd - Tottus App - CINTILLO JUEVES - CERVEZAS
+
+    DL: https://api.test.tottus.cl/categories?name=DíadelaCerveza&id=CATG24023&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
+    IMG: https://images.ctfassets.net/efpn4u8cnuye/4l4Mas9AFlhk5dpMfmA2hr/968f0a4472f9c1285714bc0be81a9612/Dias-d_CERVEZA_AQUA_cintillo-aq_verde.jpg
+
+
+MARTES	Días de lácteos	CATG23967
+
+
+
+
+
+
+Categoria: Frutas y Verduras	
+ID: CATG15478
+     https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Día de Lácteos y Congelados 
+ID: CATG23967 
+ https://fazil-app.com/categories?name=DiadeLacteosyCongelados&id=CATG19932&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Categoria: Día del Pollo
+ID: CATG24238
+ https://fazil-app.com/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
+
+Categoria: Carnes 
+ID: CATG15488 
+ https://fazil-app.com/categories?name=Carnes&id=CATG15488&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Categoria:Día de la Cerveza	
+ID: CATG24023
+ https://fazil-app.com/categories?name=DíadelaCerveza&id=CATG24023&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
+Categoria: Vinos
+ID: CATG15652
+ https://fazil-app.com/categories?name=Vinos&id=CATG15652&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+Categoria: Cuidado Capilar 
+ID: CATG20339 
+ https://fazil-app.com/categories?name=CuidadoCapilar&id=CATG20339&landingtonewPLP=true&defaultSelectParentId=CATG15485&defaultSortBy=Recomendados
+
+
+
+https://fazil-app.com/categories?name=Mega+Ahorro&id=CATG24226&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria : Perfumería
+ID: CATG24232
+ https://fazil-app.com/categories?name=Perfumería&id=CATG24232&landingtonewPLP=true&defaultSelectParentId=CATG24226&defaultSortBy=Recomendados
+
+
+==========================
+
+Img_CL_tottus_app_s26_cinitllo_dd_jueves_ffvv_julio_2023
+https://images.ctfassets.net/efpn4u8cnuye/4hk87v2PVCo9bPasy3LvzG/c55431f6b3527eb2abecc84fd991da7c/HUINCHA-D___AS-D-30-06.png
+
+Img_CL_tottus_app_s26_cinitllo_dd_martes_pollos_julio_2023
+https://images.ctfassets.net/efpn4u8cnuye/5dC5Zss3dh9tqEpY7B7WY0/badcdb832ad7a7284235449519c898d4/OPORTUNIDAD-__NICA-DIAS-D-TOTTUS-huincha.png
+
+
+
+
+================AGOSTO================
+
+BannerLGChileProd - Tottus App - CINTILLO MARTES - LACTEOS Y CONGELADOS	
+BannerLGChileProd - Tottus App - CINTILLO MARTES - POLLOS
+BannerLGChileProd - Tottus App - CINTILLO MIERCOLES
+
+BannerLGChileProd - Tottus App - CINTILLO JUEVES - CERVEZAS
+Antes|
+https://images.ctfassets.net/efpn4u8cnuye/4l4Mas9AFlhk5dpMfmA2hr/968f0a4472f9c1285714bc0be81a9612/Dias-d_CERVEZA_AQUA_cintillo-aq_verde.jpg
+
+BannerLGChileProd - Tottus App - CINTILLO JUEVES - FFVV
+
+BannerLGChileProd - Tottus App - CINTILLO VIERNES
+Antes
+https://images.ctfassets.net/efpn4u8cnuye/6kxl8phmplzbsFeZDXqBvB/5ca8ffc6c4dc513b33de159a03e170fc/HUINCHA-VINOS-1440-X-126-VERDE.png
+
+BannerLGChileProd - Tottus App - CINTILLO SABADO - Capilares
+
+
+
+
+
+------------------------------------
+
+Img_CL_tottus_app_s28_DD_domingos_desayuno_agosto_2023
+https://images.ctfassets.net/efpn4u8cnuye/r7jUEXyNjv9t3qsz7CJ5W/1d00ed66412e06924f351a7763237d11/HUINCHAS-D___A-D-3.png
+
+Img_CL_tottus_app_s28_DD_sabados_panales_infantiles_agosto_2023
+https://images.ctfassets.net/efpn4u8cnuye/5ivC2rsKcpu5dkWS3GmEOA/0f9dd32a7c29321a8c11f12b1c4c4905/HUINCHAS-D___A-D-2.png
+
+Img_CL_tottus_app_s28_DD_viernes_espumantes_vinos_agosto_2023
+https://images.ctfassets.net/efpn4u8cnuye/3QmyZPXCXhNO1QD7Gyrb02/52e5565825665d2b13fa080b058f556d/HUINCHAS-D___A-D-6.png
+
+Img_CL_tottus_app_s28_DD_jueves_cervezas_agosto_2023
+https://images.ctfassets.net/efpn4u8cnuye/2DI49rJzUyxLEqfJnfhI7C/e133d0cc89a2c5dc3fabe6907a016412/HUINCHAS-D___A-D-5.png
+
+
+Img_CL_tottus_app_s28_DD_martes_lacteos_congelados_agosto_2023
+https://images.ctfassets.net/efpn4u8cnuye/5GVS7Sln9990shooGRMir8/b54ee64ec8959778bcc30b9d71b22a19/HUINCHAS-D___A-D-4.png
+
+Img_CL_tottus_app_s28_DD_lunes_detergentes_agosto_2023
+https://images.ctfassets.net/efpn4u8cnuye/4Swi0m0TZ9F1YhQ1dUJiY6/0871dce26ddc9d8f7032d8099036735f/HUINCHAS-D___A-D-1.png
+
+
+-------------AGOSTO------------------
+
+Orden de los cintillos.
+
+    _cintillo_01_lunes_en_detergentes
+
+    _cintillo_01_martes_en_pollos
+     cintillo_02_martes_lacteos_congelados
+
+    _cintillo_01_miercoles_carnes_vacuno
+
+    _cintillo_01_jueves_cervezas_seleccionadas
+     cintillo_02_jueves_frutas_verduras
+
+    _cintillo_01_viernes_vinos_espumantes
+
+    _cintillo_01_sabado_panales_infantiles
+     cintillo_02_sabado_cuidado_capilar
+
+-------------BANNER PLP------------------
+
+Img_CL_tottusApp_s33_bannerPlp_dd_domingos_2023
+https://images.ctfassets.net/efpn4u8cnuye/4w1gqkJEcofAHqF8YWCiED/f1442041ea3997e872c5be5cb2abf9d7/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_9.png
+
+Img_CL_tottusApp_s33_bannerPlp_dd_sabados_2023
+https://images.ctfassets.net/efpn4u8cnuye/48S6QvmnkFKrsGNv3AmT8h/f72980d90ea78e26ef16fe57f9e4330e/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_8.png
+
+Img_CL_tottusApp_s33_bannerPlp_dd_sabados_panalesInfantiles_2023
+https://images.ctfassets.net/efpn4u8cnuye/3m1E8MbEj6RBbVM85y3YKj/6d34046b6e828362c7011c134fa20516/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_7.png
+
+Img_CL_tottusApp_s33_bannerPlp_dd_viernes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6LweHGpnDBaL65U4nmKLSU/3cb154846d122ccaf59a8a406e91e337/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_6.png
+
+
+
+Img_CL_tottusApp_s33_bannerPlp_dd_jueves_cervezas_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/4CfSlo5ZbwdUJYewYlqRIu/4555580d316fd01179e39d5e66c533ec/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_5.png
+
+Img_CL_tottusApp_s33_bannerPlp_dd_jueves_ffvv_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/5ZFmXboD0Nr1PdvRUNXZgt/01148c267d0c6e62f1781e3c046f0edf/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_4.png
+
+
+
+Img_CL_tottusApp_s33_bannerPlp_dd_miercoles_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/60xPrvLrmTNbXXBT0In0ID/af691794895f9bb2cb9b6d32a6bab4eb/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_3.png
+
+
+Img_CL_tottusApp_s33_bannerPlp_dd_martes_pollo_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/5BL0GIjjpJwgZgT572wroF/937289852953f542a2093eb109a6433d/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia.png
+
+Img_CL_tottusApp_s33_bannerPlp_dd_martes_lacteos_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6WGpgAzR2wYj2Ko7lHW61u/4555a61b3a5193d83cafe030d5cb4f99/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1_copia_2.png
+
+
+
+Img_CL_tottusApp_s33_bannerPlp_dd_lunes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/54kenadnAn9blxywyjETme/fd9f0d799e5b64429db251d08e6d7de3/Banners_PLP_Categorias_y_OU_600x98_Mesa_de_trabajo_1.png
+
+
+------------------
+ID: banner_plp
+Nombre: vinos_espumantes
+
+Nombre: cuidado_capilar
+
+Nombre: pañales_infantiles
+
+Nombre: dia_de_desayuno
+
+
+Frutas_y_Verduras	
+
+Día_de_la_Cerveza	
+
+Lácteos_y_Congelados	
+
+Día_del_Pollo
+
+
+Día_de_Detergentes
+
+
+
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-desayuno_domingo_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/2nyTfx4Rh1mIOedIwPL6fN/2041934e0f3cce5c4b8f6e7e728e2773/dias-d-desayuno-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-capilar_sabado_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/4Vu0nH85rLL7DVtptLRGDB/8e5a56c691a8a02ed9f6c4ca275cd293/dias-d-capilar-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-panales_sabado_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/5tZscgcNHqok7CJ9dz9rU2/41e57176a437f61e5da436691964eebd/dias-d-detergentes_1-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-vinos_viernes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/1Qo79qqkgQRVgJVRA9ccVa/635cc0dbc7e09fb8fb5866667d42dc8f/dias-d-vinos-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dd_dias-d-cervezas_jueves_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/4mIJkIZEmFEuiqtMODvty2/5b91e89823211309fb8a1b0ae6e00b0b/dias-d-cervezas-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-ffyvv_jueves_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/19lxzb235wFdUztHxFqpWs/264c224e17560dd5fb01f44357a2e021/dias-d-ffyvv-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-carnes_miercoles_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/JKk5nYKUj7Ucypwyrys1N/2386fb6c8feacc41a3ed312983256682/dias-d-carnes-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-pollos_martes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6cfT9nU8JjwLh2b0TYUzPH/63150d6a0a1bd04c1f023865be3332fc/dias-d-pollos-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-lacteos_martes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/17q1It104SkRhSnGrhADTM/086bc788dc2e6d43509ef6eac2bb43e7/dias-d-lacteos-8.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-detergentes_martes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6F4F2rl0mdKqVEBRAsczTl/a01e561e3fcf92f245c01abcede31e54/dias-d-detergentes-8.png
+
+
+
+exploreBrandCategories
+
+
+DRB | brandCategoryItemChileProd - Tottus App - Día de Desayuno
+
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-ffyvv_jueves_v2_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6hoKOsalyXu6GpeNJYqKlG/e52ace57e69e5fbb1e16e781e1b2ece0/Rectangle_21.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-carnes_miercoles_v2_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/7tOaDejKqFrKbbiKMO2EoS/7f0fa43dc2eaca930a79fc0a7cb3dee2/Rectangle_20.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-pollos_martes_v2_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6zD2npYAhnUlTu4eD5RKSF/953de0340ed0c30d3511933af3173115/Rectangle_1__1_.png
+
+Img_CL_tottusApp_s34_bannerDestacado_dias-d-lacteos_martes_v2_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/4VlEPR2jt2T6tHR5xG7iOb/afcb81377a66602dcd188d2d116eab6c/Rectangle_19.png
+
+
+==============NEW DISEÑO  DE DD BANNER PLP==============
+
+Img_CL_tottusApp_s34_bannerPlp_dd_domingos_2023
+https://images.ctfassets.net/efpn4u8cnuye/7yTdtAEj3XUfLy2xPg8x8u/8eb02390ffb1f03f96663751e2750325/dias-D-app-10.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_sabadosCuidadoCapilar_2023
+https://images.ctfassets.net/efpn4u8cnuye/4qSDEMATmNmy46uXwH4oFH/112faad61099c7f08c949bdd57f33b62/dias-D-app-8.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_sabados_panalesInfantiles_2023
+https://images.ctfassets.net/efpn4u8cnuye/hTRooVEH87MAyNTcEqItH/9de0739dc918acba7dc7610aa433a746/dias-D-app-9.png
+
+Img_CL_tottusApp_s33_bannerPlp_dd_viernesVinosEspumantes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/2u90EBKcp0HcA3Vr5yunU8/5464331f37056d2fb68d26a2ca9d6398/dias-D-app-7.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_jueves_cervezas_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/1SKwz43zj87ms6wBM3XaKF/4ed669e135ef43a0e9648c1bc26bf67c/dias-D-app-6.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_jueves_ffvv_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6qeROREytQ4c01edU3IW4T/32b9b30d2f3b95225dc3999560ab78a9/dias-D-app-5.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_miercolesCarnesRojas_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/7LAvsz3hgpDR1DULCDgv2c/f5f23093bfa4a26d6952d875ff0d5ac5/dias-D-app-4.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_martes_pollo_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/3HkSnQ28HFkdcO6C097iTK/7058403786f3feccb6d1edc4dbcc074a/dias-D-app-3.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_martes_lacteos_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/2bSHbCsgIV25rHNE4Tq00/74b09a842260775d5e902aaa65d49389/dias-D-app-2.png
+
+Img_CL_tottusApp_s35_bannerPlp_dd_martes_jamones_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/4jcDxIB78MDOaAOIzQfg33/bb7fff633d3274b48990ba30abac6125/c.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_lunesDetergentes_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/46O0mSxjrvwtBUB6GmbRl/22854c35e7e9d124cc22d34b1ffd0b5d/dias-D-app-1.png
+
+
+
+
+
+==============NEW DISEÑO  DE DD BANNER DESKTOP==============
+
+
+Img_CL_tottusApp_s34_bannerPlp_dd_domingos_desayunos_desktop_2023
+https://images.ctfassets.net/efpn4u8cnuye/5hJYWwrmxp9e3mGd2HXOCD/9194db797884d915628b8e84308bd2b3/btn-fcom-diasD-9.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_sabados_panalesInfantiles_desktop_2023
+https://images.ctfassets.net/efpn4u8cnuye/68f413MpsRTAcSamqUT4ng/59dec86354463165d27488b0a8234980/btn-fcom-diasD-8.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_sabadosCuidadoCapilar_desktop_2023
+https://images.ctfassets.net/efpn4u8cnuye/3fh089hIflypUDNaD1QGkZ/2b314f010f743179258a2a9698c41957/btn-fcom-diasD-7.png
+
+Img_CL_tottusApp_s33_bannerPlp_dd_viernesVinosEspumantes_desktop_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/4NgZivYVnxAvrrdqPBmIri/2c11ce3e91c2c4e9f020f72377bf2295/btn-fcom-diasD-6.png
+
+
+Img_CL_tottusApp_s34_bannerPlp_dd_jueves_cervezas_desktop_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/6cILuktsuQtblgMlxu3gX2/0c49ddd9c81f82e42e93b2bc5ace6e4b/btn-fcom-diasD-5.png
+
+
+Img_CL_tottusApp_s34_bannerPlp_dd_jueves_ffvv_desktop_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/4Ef2n4OCp8D1zm5qBy3YFx/39ebfefb0aefa370fa6e974614cde3a0/btn-fcom-diasD-3.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_miercolesCarnesRojas_desktop_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/57xDGJMzaLyaKiPJ8ndDsW/1f6c432549b179ec199318a3bdd31d03/btn-fcom-diasD-2.png
+
+
+Img_CL_tottusApp_s34_bannerPlp_dd_martes_lacteos_desktop_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/xeR2ks3DOi8bv6AIHErUw/fa5ebd432fca3194c29f87008f5adcf2/btn-fcom-diasD-1.png
+
+Img_CL_tottusApp_s34_bannerPlp_dd_lunesDetergentes_desktop_ago_2023
+https://images.ctfassets.net/efpn4u8cnuye/7oaAWu4WEU1ZmuSHLNgDb9/ea9107b79513bffaa3b25c9d9a926a21/btn-fcom-diasD-4.png
+
+
+Categoria: Día de Jamones
+ID: CATG24457
+ https://fazil-app.com/categories?name=DíadeJamones&id=CATG24457&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+IMG PLP
+    https://images.ctfassets.net/efpn4u8cnuye/4jcDxIB78MDOaAOIzQfg33/bb7fff633d3274b48990ba30abac6125/c.png
+

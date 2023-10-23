@@ -1,0 +1,26 @@
+Agregar en botilleria los banners
+
+      Con el cell ubicamos botillerias que componente es y se encuentra en home fazil
+
+        https://app.contentful.com/spaces/efpn4u8cnuye/entries/gpqo8lEafTyyYoacyWwnm?previousEntries=3QVPzlVzmkFkP4lCXDCt4J
+
+          https://app.contentful.com/spaces/efpn4u8cnuye/entries/6e9FOmkOTBONCy87qQhPah?previousEntries=3QVPzlVzmkFkP4lCXDCt4J,gpqo8lEafTyyYoacyWwnm
+          brandCategoryItem
+          BU Licoreria
+            https://api.test.tottus.cl/seller?name=Licorería&id=3sEymA1qOD8DEeijVDZYOR
+
+          Usamos la ruta sgte y solo reemplazamos el id (3sEymA1qOD8DEeijVDZYOR) de arriba
+
+          https://app.contentful.com/spaces/efpn4u8cnuye/entries/3sEymA1qOD8DEeijVDZYOR
+
+            carouselBanner
+            Carousel Vinos y Licores Principal
+
+              componentName
+              CL_BU_la_botilleria_febrero_2022_pisco
+
+              imageURL
+              https://images.ctfassets.net/efpn4u8cnuye/1epyNbPBnZb89SHOS8rtjs/c25e6d1804738bc8eb3942a3e3bb627a/PIEZAS-BOTELLERIA-03-04-3.png
+
+              url
+              https://api.test.tottus.cl/categories?name=Licoress&id=3a7558af-cdb8-4650-85f5-6584f0236e11&landingtonewPLP=true&defaultSelectParentId=97b26034-e314-4848-a62d-74876bf1d885&defaultSortBy=Recomendados

@@ -1,0 +1,71 @@
+
+banner_plp
+
+=============LISTADO DE LOS LINK DE JARVIS DE LA CATEGORIAS=============   
+
+Marcas Tottus: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15501?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Despensa: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15476?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Desayuno y Dulces: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15477?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Bebidas, Aguas y Jugos: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15482?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Platos Preparados: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15492?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Cóctel y Snack: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15503?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Vinos y Licores: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15094?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Cervezas: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15479?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Aseo y Limpieza: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15484?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Mundo Hogar: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15495?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Cuidado Personal: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15485?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Belleza: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15502?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Electro: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15494?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Mundo Bebé: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15489?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+
+Mascotas: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15487?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Alimentos Saludables: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15493?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Pescados y Mariscos: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15490?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+Escolares: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15497?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Especial Juguetería: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15504?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Auto y Ferretería: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15499?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Deportes: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15496?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Celebraciones: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15498?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Sabores del Mundo: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15505?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+Aire Libre: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15500?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+
+
+

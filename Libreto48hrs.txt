@@ -1,0 +1,50 @@
+Requerimiento - Sx48 horas - Desde el Viernes 29 al Domingo 21 de Mayo
+    Hola chic@s!
+    Subir el Banner sx48horas en home fazil en el orden 1do lugar
+     Combo de Pollo
+    Muchas gracias!!
+    ID HIJO:  CATG10199 
+    Solución
+        IMG BANNER
+            https://images.ctfassets.net/efpn4u8cnuye/4TvE3PmTTupsFEVrVMRWPw/aef058e6f4723f5b9928673210862e89/625x250.png
+
+            
+        COMPONENTE
+            https://app.contentful.com/spaces/efpn4u8cnuye/entries/2sRMA0j9WZIZFodgiqW2Do
+
+            PRODUCCION
+            DL: https://fazil-app.com/categories?name=Combopolloasado&id=Combopolloasado&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+        Home
+        https://app.contentful.com/spaces/efpn4u8cnuye/entries/2sRMA0j9WZIZFodgiqW2Do?previousEntries=4zIPs6lyBg7PiHZ71LbeSP,5FpfGCpyIKt07KjWqorltX
+
+        DBR | imageLinkProdChile - Home Fazil - sx72 Combo pollo asado
+        cl__home_fazil_mayo_2023_s20_sx72_ou_carrusel_13_combo_pollo_asado_mas_papas
+
+        DEEPLINK
+        URL: https://fazil-app.com/vendor?contentfulid=4zIPs6lyBg7PiHZ71LbeSP
+
+
+
+Desde el Viernes 29 al Domingo 21 de Mayo
+    DBR | imageLinkProdChile - Home Fazil - Combo de Pizzas --> Pos 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
