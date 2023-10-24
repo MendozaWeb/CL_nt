@@ -5188,7 +5188,7 @@ ID: CATG15662
 
 Categoria: Especial Halloween
 ID: CATG24655
- https://api.test.tottus.cl/categories?name=EspecialHalloween&id=CATG24655&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+ https://fazil-app.com/categories?name=EspecialHalloween&id=CATG24655&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 
@@ -5384,4 +5384,34 @@ ID: CATG20055
 Categoria: Fiambrería 
 ID: CATG18909
  https://fazil-app.com/categories?name=Fiambrería&id=CATG18909&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+
+
+
+Categoria: Especial Halloween
+ID: CATG24655
+ https://fazil-app.com/categories?name=EspecialHalloween&id=CATG24655&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Día de la Pasta
+ID: CATG24668
+ https://fazil-app.com/categories?name=DíadelaPasta&id=CATG24668&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Jugos Individuales
+ID: CATG19047
+ https://fazil-app.com/categories?name=JugosIndividuales&id=CATG19047&landingtonewPLP=true&defaultSelectParentId=CATG19043&defaultSortBy=Recomendados
+
+
+
+Categoria: Pantene
+ID: CATG24689
+ https://fazil-app.com/categories?name=Pantene&id=CATG24689&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Not Co
+ID: CATG24688
+ https://fazil-app.com/categories?name=NotCo&id=CATG24688&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
 
