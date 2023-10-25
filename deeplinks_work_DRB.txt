@@ -5387,7 +5387,7 @@ ID: CATG18909
 
 
 
-Categoria: Especial Halloween
+Categoria: Especial Halloween:
 ID: CATG24655
  https://fazil-app.com/categories?name=EspecialHalloween&id=CATG24655&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
@@ -5411,6 +5411,18 @@ ID: CATG24689
 Categoria: Not Co
 ID: CATG24688
  https://fazil-app.com/categories?name=NotCo&id=CATG24688&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Mega Ahorro
+ID: CATG24195
+ https://fazil-app.com/categories?name=MegaAhorro&id=CATG24195&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Omo
+ID: CATG24422
+ https://fazil-app.com/categories?name=Omo&id=CATG24422&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
 
 
 
