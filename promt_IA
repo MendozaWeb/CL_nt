@@ -1,21 +1,23 @@
 =================PREGUNTAS=================
 
-Analiza la pregunta y solo me indicas la alternativa correcta:
+Analiza la pregunta, y solo me indicas la alternativa correcta:
 ===================================================
-¿Cuándo se debe utilizar obligatoriamente la anotación @Column de un atributo en una entidad?
+De acuerdo a lo visto en este curso, ¿cuál es la mejor metodología para aprender inglés en la actualidad?
 
 
 a
-Cuando el nombre del atributo de la entidad es diferente al de la columna a la que representa
+El método directo es el mejor porque se centra en la forma natural de aprender un lenguaje y no se centra en gramática.
 
 b
-Cuando se quiere asignar parámetros especiales adicionales a un atributo de la entidad
+Grammar-translation es la mejor porque permite al estudiante entender todos los conceptos necesarios del lenguaje.
 
 c
-Cuando el atributo posee nombres compuestos
+No hay una metodología específica. Diferentes actividades cumplen propósitos específicos y pueden aportar al proceso de aprendizaje de forma integral.
 
 d
-Cuando se desea cambiar el tipo de dato del atributo que representa a la columna
+El enfoque comunicativo es el mejor porque se centra en tareas o contenido específico para que el estudiante desarrolle las diferentes habilidades.
+
+
 
 ====================================================
 
@@ -29,4 +31,8 @@ Arquitecturas Limpias para Desarrollo de Software
 
 
 
-
+Estrategias para Aprender Inglés en Línea
+ Argumentos y Discusiones
+ Recursos Conversacionales y Lingüísticos
+ Comunicación Persuasiva y Efectiva
+ Presentaciones y Expresión Oral

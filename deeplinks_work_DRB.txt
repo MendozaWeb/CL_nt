@@ -4731,15 +4731,10 @@ ID: CATG20435
 
 
 
-Categoria: Helados de Agua
-ID: CATG20146
- https://fazil-app.com/categories?name=HeladosdeAgua&id=CATG20146&landingtonewPLP=true&defaultSelectParentId=CATG20118&defaultSortBy=Recomendados
 
 
 
-Categoria: Especial Papeles
-ID: CATG24186
- https://fazil-app.com/categories?name=EspecialPapeles&id=CATG24186&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
 
 
 
@@ -4772,10 +4767,6 @@ CERV STE ART SIX PACK LATA 4.8G GL354 CC
 DL: https://fazil-app.com/productdesc?productkey=110613687
 
 
-
-Categoria: Solo Por 48 Horas 
-ID: CATG23957 
-https://fazil-app.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
 
@@ -4963,9 +4954,6 @@ ID: CATG24384
 
 
 
-Categoria: Solo por 48 Horas Lunes
-ID: CATG10197
- https://fazil-app.com/categories?name=Solopor48HorasLunes&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 Categoria: Sx48 Miércoles
 ID: CATG24376
@@ -5161,9 +5149,7 @@ ID: CATG24072
 
 
 
-Category name: Cuidado Personal	
-ID: CATG15485
- https://fazil-app.com/categories?name=CuidadoPersonal&id=CATG15485&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
 
 Categoria: Dulces y Snack
 ID: CATG24068
@@ -5377,16 +5363,6 @@ ID: CATG20198|
  https://fazil-app.com/categories?name=ConservasdeMariscos&id=CATG20198&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
 
 
-Categoria: Té
-ID: CATG20055
- https://fazil-app.com/categories?name=Te&id=CATG20055&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
-
-Categoria: Fiambrería 
-ID: CATG18909
- https://fazil-app.com/categories?name=Fiambrería&id=CATG18909&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
-
-
-
 Categoria: Especial Halloween:
 ID: CATG24655
  https://fazil-app.com/categories?name=EspecialHalloween&id=CATG24655&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
@@ -5419,10 +5395,43 @@ ID: CATG24195
 
 
 
+
+
+
+Categoria: Fiambrería 
+ID: CATG18909
+ https://fazil-app.com/categories?name=Fiambrería&id=CATG18909&landingtonewPLP=true&defaultSelectParentId=CATG15481&defaultSortBy=Recomendados
+
 Categoria: Omo
 ID: CATG24422
  https://fazil-app.com/categories?name=Omo&id=CATG24422&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
+Categoria: Especial Papeles
+ID: CATG24186
+ https://fazil-app.com/categories?name=EspecialPapeles&id=CATG24186&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Té
+ID: CATG20055
+ https://fazil-app.com/categories?name=Te&id=CATG20055&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+
+Category name: Cuidado Personal	
+ID: CATG15485
+ https://fazil-app.com/categories?name=CuidadoPersonal&id=CATG15485&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Helados de Agua
+ID: CATG20146
+ https://fazil-app.com/categories?name=HeladosdeAgua&id=CATG20146&landingtonewPLP=true&defaultSelectParentId=CATG20118&defaultSortBy=Recomendados
+
+
+
+Categoria: Solo por 48 Horas Lunes
+ID: CATG10197
+ https://fazil-app.com/categories?name=Solopor48HorasLunes&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+Categoria: Solo Por 48 Horas 
+ID: CATG23957 
+https://fazil-app.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
 
