@@ -4677,10 +4677,6 @@ ID: CATG24316
  https://fazil-app.com/categories?name=Tottus&id=CATG24316&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
-
-
-
-
 Categoria: Combos Platos Listos
 ID: CATG24194
  https://fazil-app.com/categories?name=CombosPlatosListos&id=CATG24194&landingtonewPLP=true&defaultSelectParentId=CATG24095&defaultSortBy=Recomendados
@@ -5342,7 +5338,7 @@ ID: CATG23957
 
 Categoria: Navidad
 ID: CATG24595
- https://fazil-app.com/categories?name=Navidad&id=CATG24595&landingtonewPLP=true&defaultSelectParentId=CATG15495&defaultSortBy=Recomendados
+ https://api.test.tottus.c/categories?name=Navidad&id=CATG24595&landingtonewPLP=true&defaultSelectParentId=CATG15495&defaultSortBy=Recomendados
 
 
 Categoria: Detergentes Líquidos
