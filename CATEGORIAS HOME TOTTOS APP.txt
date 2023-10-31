@@ -14,6 +14,7 @@ Desayuno y Dulces: https://admin.fazil.services/application/catalog/taxonomy/cat
 
 Bebidas, Aguas y Jugos: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15482?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
 
+
 Platos Preparados: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15492?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
 
 
@@ -27,6 +28,8 @@ Cervezas: https://admin.fazil.services/application/catalog/taxonomy/categories/e
 
 
 Aseo y Limpieza: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15484?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
+
+----------> aqui
 
 Mundo Hogar: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15495?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
 

@@ -2,20 +2,58 @@
 
 Analiza la pregunta, y solo me indicas la alternativa correcta:
 ===================================================
-De acuerdo a lo visto en este curso, ¿cuál es la mejor metodología para aprender inglés en la actualidad?
+¿En qué consiste un conjunto de datos administrado en Vertex AI? 
+ 
 
 
-a
-El método directo es el mejor porque se centra en la forma natural de aprender un lenguaje y no se centra en gramática.
+a)Son datos cargados en AutoML Tables, ya sea desde Google Cloud Storage o BigQuery. Esto significa, por ejemplo, que pueden vincularse a un modelo.
 
-b
-Grammar-translation es la mejor porque permite al estudiante entender todos los conceptos necesarios del lenguaje.
 
-c
-No hay una metodología específica. Diferentes actividades cumplen propósitos específicos y pueden aportar al proceso de aprendizaje de forma integral.
+b)Son datos cargados en Python, ya sea desde Google Cloud Storage o BigQuery. 
 
-d
-El enfoque comunicativo es el mejor porque se centra en tareas o contenido específico para que el estudiante desarrolle las diferentes habilidades.
+Esto significa, por ejemplo, que pueden vincularse a un modelo.
+
+
+c)Son datos cargados en un DataFrame de Pandas, ya sea desde Google Cloud Storage 
+
+o BigQuery. Esto significa, por ejemplo, que pueden vincularse a un modelo.
+
+
+d)Son datos cargados en Vertex AI, ya sea desde Google Cloud Storage o BigQuery. 
+
+Esto significa, por ejemplo, que pueden vincularse a un modelo.
+
+
+
+1 punto
+
+
+
+Pregunta 7
+
+
+1 punto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
