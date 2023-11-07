@@ -694,9 +694,9 @@ DL: https://fazil-app.com/categories?name=PlatosListos&id=CATG19056&landingtonew
 
 
 
-Category name: Pollo 
+Categoria: Pollo 
 ID: CATG20260 
-DL: https://fazil-app.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+ https://fazil-app.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
 
 
 Category name: Cerdo 
@@ -4385,7 +4385,7 @@ Categoria: Paltas
 ID: CATG20043
  https://fazil-app.com/categories?name=Paltas&id=CATG20043&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
 
-https://api.test.tottus.cl/categories?name=PreciosIncreíbles&id=CATG23079&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+https://fazil-app.com/categories?name=PreciosIncreíbles&id=CATG23079&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
 
@@ -5430,5 +5430,18 @@ ID: CATG23957
 https://fazil-app.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
+https://fazil-app.com/categories?name=Precios Increíbles&id=CATG24750&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
+
+Categoria: Mascotas
+ID: CATG24761a
+ https://fazil-app.com/categories?name=Mascotas&id=CATG24761&landingtonewPLP=true&defaultSelectParentId=CATG24750&defaultSortBy=Recomendados
+
+
+ Categoria: Carnes
+ID: CATG16837
+ https://fazil-app.com/categories?name=Carnes&id=CATG16837
+
+
+ 
