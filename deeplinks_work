@@ -10702,5 +10702,13 @@ ID: CATG20202
 https://api.test.tottus.cl/categories?name=nescafe&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
+Categoria: Evercrips
+ID: CATG24731
+ https://fazil-app.com/categories?name=Evercrips&id=CATG24731&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
+
+
+Categoria: Tottus Reserve
+ID: CATG24596
+ https://fazil-app.com/categories?name=TottusReserve&id=CATG24596&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
 

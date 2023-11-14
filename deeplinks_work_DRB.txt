@@ -1319,9 +1319,6 @@ DL: https://fazil-app.com/categories?name=Loncoleche&id=CATG23956&landingtonewPL
 
 cl__home_fazil_mayo_2023_s19_preciazos_tmp_carrusel_15_lomo_liso_vetado_punta_ganso_importado
 
-Category name: Vacuno 
-ID: CATG20258 
-DL: https://fazil-app.com/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
 
 
 
@@ -3051,19 +3048,6 @@ ID: CATG18724
  https://fazil-app.com/categories?name=MasasyTortillas	&id=CATG18724&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Categoria: Frutas y Verduras	
 ID: CATG15478
      https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
@@ -3138,16 +3122,6 @@ ID: CATG19957
 Categoria: Leches Individuales
 ID: CATG19947
  https://fazil-app.com/categories?name=LechesIndividuales&id=CATG19947&landingtonewPLP=true&defaultSelectParentId=CATG19931&defaultSortBy=Recomendados
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4391,9 +4365,7 @@ https://fazil-app.com/categories?name=PreciosIncreíbles&id=CATG23079&landington
 
 
 
-Categoria: Molidas y Hamburguesas
-ID: CATG20291
- https://fazil-app.com/categories?name=MolidasyHamburguesas&id=CATG20291&landingtonewPLP=true&defaultSelectParentId=CATG20265&defaultSortBy=Recomendados
+
 
 
 Categoria: Trutos de Pollo 
@@ -4682,9 +4654,6 @@ ID: CATG24194
  https://fazil-app.com/categories?name=CombosPlatosListos&id=CATG24194&landingtonewPLP=true&defaultSelectParentId=CATG24095&defaultSortBy=Recomendados
 
 
-Categoria: Cervezas
-ID: CATG15479
- https://api.test.tottus.cl/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
 Categoria: Importado
@@ -5375,9 +5344,7 @@ ID: CATG19047
 
 
 
-Categoria: Pantene
-ID: CATG24689
- https://fazil-app.com/categories?name=Pantene&id=CATG24689&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
 
 
 Categoria: Not Co
@@ -5443,5 +5410,57 @@ ID: CATG24761a
 ID: CATG16837
  https://fazil-app.com/categories?name=Carnes&id=CATG16837
 
+
+Categoria: Manjar
+ID: CATG24779
+ https://fazil-app.com/categories?name=Manjar&id=CATG24779&landingtonewPLP=true&defaultSelectParentId=CATG24754&defaultSortBy=Recomendados
+ 
+
+
+Categoria: Dg Hellmans
+ID: CATG24741
+ https://fazil-app.com/categories?name=DgHellmans&id=CATG24741&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
+
+Peacock: Color to Peacock 
+
+
+https://api.test.tottus.cl/categories?name=Leches Líquidas&id=CATG19931&landingtonewPLP=true&defaultSelectParentId=CATG15480&defaultSortBy=Recomendados
+
+
+
+Tottus Express TOTTUS APP (CATG15093)
+/
+Lácteos y Quesos (CATG15480) / CATG19931	Leches Líquidas
+
+
+Categoria: Pantene
+ID: CATG24689
+ https://fazil-app.com/categories?name=Pantene&id=CATG24689&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Hasta 30% dcto Precios Increíbles
+ID: CATG24812
+ https://fazil-app.com/categories?name=Hasta30%dctoPreciosIncreíbles&id=CATG24812&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+ LG ThinQ Duplex
+
+Categoria: Molidas y Hamburguesas
+ID: CATG20291
+ https://fazil-app.com/categories?name=MolidasyHamburguesas&id=CATG20291&landingtonewPLP=true&defaultSelectParentId=CATG20265&defaultSortBy=Recomendados
+
+Categoria: Vacuno 
+ID: CATG20258 
+ https://fazil-app.com/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+Categoria: Cervezas
+ID: CATG15479
+ https://fazil-app.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Starbucks
+ID: CATG24876
+ https://fazil-app.com/categories?name=Starbucks&id=CATG24876&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
  

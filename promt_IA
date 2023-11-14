@@ -1,59 +1,41 @@
 =================PREGUNTAS=================
 
-Analiza la pregunta, y solo me indicas la alternativa correcta:
+Analiza la pregunta, y SOLO me indicas la alternativa correcta:
 ===================================================
-¿En qué consiste un conjunto de datos administrado en Vertex AI? 
- 
+If you don't know the name of something, which strategy can you use to communicate your idea?
 
+a
+All of the answers are correct.
 
-a)Son datos cargados en AutoML Tables, ya sea desde Google Cloud Storage o BigQuery. Esto significa, por ejemplo, que pueden vincularse a un modelo.
+b
+Describe the purpose of the word you want to say.
 
+c
+Use synonynms and/or antonyms for the word you want to use.
 
-b)Son datos cargados en Python, ya sea desde Google Cloud Storage o BigQuery. 
-
-Esto significa, por ejemplo, que pueden vincularse a un modelo.
-
-
-c)Son datos cargados en un DataFrame de Pandas, ya sea desde Google Cloud Storage 
-
-o BigQuery. Esto significa, por ejemplo, que pueden vincularse a un modelo.
-
-
-d)Son datos cargados en Vertex AI, ya sea desde Google Cloud Storage o BigQuery. 
-
-Esto significa, por ejemplo, que pueden vincularse a un modelo.
-
-
-
-1 punto
-
-
-
-Pregunta 7
-
-
-1 punto
+d
+Give an approximation of the word you want to say.
 
 
 
 
 
+Indica la alternativa correcta:
+-------------------------------
+The famous “I have a dream…” speech by Martin Luther King is an example of which rhetorical device?
 
 
+a
+Antanagoge
 
+b
+The rule of 3
 
+c
+Anaphora
 
-
-
-
-
-
-
-
-
-
-
-
+d
+Parallelism
 
 
 
