@@ -450,9 +450,7 @@ DL: https://fazil-app.com/categories?name=BlackWeekSodimac&id=CATG23799&landingt
 
 
 
-Category name: Carnes 
-ID: CATG10173 
-DL: https://fazil-app.com/categories?name=Carnes&id=CATG10173&landingtonewPLP=true&defaultSelectParentId=CATG10146&defaultSortBy=Recomendados
+
 
 
 Category name: Cuidado de la Ropa 
@@ -5463,4 +5461,78 @@ Categoria: Starbucks
 ID: CATG24876
  https://fazil-app.com/categories?name=Starbucks&id=CATG24876&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
- 
+
+Componentes Circulares Tottus Express TOTTUS APP (CATG23078)  CATG24705	Mega Ahorro	
+
+CATG24713	Perfumería
+
+Categoria: Perfumería
+ID: CATG24713
+ https://fazil-app.com/categories?name=Perfumería&id=CATG24713&landingtonewPLP=true&defaultSelectParentId=CATG24705&defaultSortBy=Recomendados
+
+
+Categoria: Black Friday
+ID: CATG24817
+ https://fazil-app.com/categories?name=BlackFriday&id=CATG24817&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Licores Desa
+ID: CATG24877
+ https://api.test.tottus.cl/categories?name=LicoresDesa&id=CATG24877&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Vino Tinto
+ID: CATG15658
+ https://fazil-app.com/categories?name=VinoTinto&id=CATG15658&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+
+
+Título: Maggi
+===========================
+
+  IMG: 
+        Img_CL_tottusApp_s46_logo_maggi_nov_2023
+        https://images.ctfassets.net/efpn4u8cnuye/2wnaCs0xK68kavyfT3a9A9/a84c1bd277bffcf58d6f67818100804a/LOGO-MAGGI.png
+
+        NOMENCLATURA: cl__home_noviembre_2023_s46_boton_05_sabores_mundo_maggi
+        
+Categoria: Maggi
+ID: CATG24875
+ https://api.test.tottus.cl/categories?name=Maggi&id=CATG24875&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Componentes Circulares Tottus Express TOTTUS APP (CATG23078) CATG23080	Oportunidad Única
+
+
+Categoria: Carnes 
+ID: CATG10173 
+ https://fazil-app.com/categories?name=Carnes&id=CATG10173&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+}
+
+---------- DL de Oportunidad Única ----------
+
+Categoria: Carnes
+ID: CATG24685
+ https://fazil-app.com/categories?name=Carnes&id=CATG24685&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+---------- DIAS CINTILLOS ----------
+
+Categoria: Carnes
+ID: CATG15488
+ https://fazil-app.com/categories?name=Carnes&id=CATG15488&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Frutas y Verduras
+ID: CATG15478
+ https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Oportunidad Única
+ID: CATG23078
+ https://fazil-app.com/categories?name=OportunidadÚnica&id=CATG23078&landingtonewPLP=true&defaultSelectParentId=CATG23080&defaultSortBy=Recomendados
+
+
+
+

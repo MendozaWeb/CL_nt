@@ -8623,14 +8623,15 @@ https://images.ctfassets.net/efpn4u8cnuye/4rtO1sGpfchPKVMcRgpYGn/0ed3102dbc4309c
 
 
 
-
+Se valido las nomenclaturas de cada home
+-------------------------------------
 Home Tootus App ----> esta oki
-Home Carnes ----> esta oki (No tienen carrusel banners)
+Home Carnes ----> esta oki 
 Home FFVV ----> esta oki (No tienen carrusel banners)
 Home Mundo Parrillero ----> esta oki (No tienen carrusel banners)
-Home Lácteos----> esta oki (No tienen carrusel banners)
-Home Fiambrería y Huevos ----> esta oki
-Home Panadería ----> esta oki 
+Home Lácteos----> esta oki
+Home Fiambrería y Huevos ----> esta oki (No tienen carrusel banners)
+Home Panadería ----> esta oki (No tienen carrusel banners)
 Home Pastelería ----> esta oki (No tienen carrusel banners)
 Home Congelados ----> esta oki (No tienen carrusel banners)
 
@@ -8639,5 +8640,19 @@ Home Congelados ----> esta oki (No tienen carrusel banners)
 Banner para mob FFVV
 https://images.ctfassets.net/efpn4u8cnuye/7v1rKomQ8srpVz4V3nZeOa/062371d5c4d663dc03cb9c6953fc8945/slider-mobile-tottus-app-8.png
 
+
+Pdf_Cl_tottusApp_s46_BLs_DG_Campana_CodigosTresComprasen_Tottus_App_SEPTIEMBRE_2023
+https://assets.ctfassets.net/efpn4u8cnuye/5bvZLbZKrYphmGtmO84UO5/ce9d6c5d93aad5219d364dbd3b34e2c5/Bases_Legales_Campa_a_C_digos_Tres_Compras_en_Tottus_App_-_Tottus_App-11-.pdf
+
+
+Título: Maggi
+===========================
+  IMG:
+        Img_CL_tottusApp_s46_logo_maggi_nov_2023
+        https://images.ctfassets.net/efpn4u8cnuye/2wnaCs0xK68kavyfT3a9A9/a84c1bd277bffcf58d6f67818100804a/LOGO-MAGGI.png
+        NOMENCLATURA: cl__home_noviembre_2023_s46_boton_05_sabores_mundo_maggi
+Categoria: Maggi
+ID: CATG24875
+ https://api.test.tottus.cl/categories?name=Maggi&id=CATG24875&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
