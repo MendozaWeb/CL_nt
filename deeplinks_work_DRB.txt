@@ -5183,9 +5183,6 @@ Categoria: PIZZA 28 CM
 ID: CATG10197 
  https://fazil-app.com/categories?name=PIZZA28CM&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
-Categoria: Solo Por 48 Horas 
-ID: CATG23957 
- https://fazil-app.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
 
@@ -5478,7 +5475,7 @@ ID: CATG24817
 
 Categoria: Licores Desa
 ID: CATG24877
- https://api.test.tottus.cl/categories?name=LicoresDesa&id=CATG24877&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+ https://fazil-app.com/categories?name=LicoresDesa&id=CATG24877&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 Categoria: Vino Tinto
@@ -5536,3 +5533,67 @@ ID: CATG23078
 
 
 
+--------CATEGORIA INACTIVO------------
+Categoria: Solo por 48 Horas
+ID: CATG10197
+ https://fazil-app.com/categories?name=Solopor48Horas&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+Categoria:HUEVO GRANDE
+ID: CATG23957 
+ https://fazil-app.com/categories?name=HUEVOGRANDE&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+--------------PERU--------------
+Pollo ROstizado
+Abarrotes desde S/ 5.90  CATG37681
+Cervezas Seltzer              CATG37682
+Gaseosas                         CATG37684
+
+
+Categoria: ABARROTES DESDE 5 9
+ID: CATG37681
+ https://fazil-app.com/categories?name=ABARROTESDESDE59&id=CATG37681
+
+
+Categoria: Cervezas y Seltzer
+ID: CATG37682
+ https://fazil-app.com/categories?name=CervezasySeltzer&id=CATG37682
+
+
+Categoria: GASEOSAS Y BEBIDAS
+ID: CATG37684
+ https://fazil-app.com/categories?name=GASEOSASYBEBIDAS&id=CATG37684
+
+
+
+Categoria: Pollo Rostizado
+ID: CATG16804
+ https://fazil-app.com/categories?name=PolloRostizado&id=CATG16804
+
+--------------------------------------------------------
+
+
+Categoria: Pañales para Adultos
+ID: CATG20376
+ https://fazil-app.com/categories?name=PañalesparaAdultos&id=CATG20376&landingtonewPLP=true&defaultSelectParentId=CATG20346&defaultSortBy=Recomendados
+
+
+Categoria: Desde Hoy
+ID: CATG24869
+ https://fazil-app.com/categories?name=DesdeHoy&id=CATG24869&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Mega Ahorro
+ID: CATG24869
+ https://fazil-app.com/categories?name=MegaAhorro&id=CATG24705&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: NIDO
+ID: CATG24811
+ https://api.test.tottus.cl/categories?name=NIDO&id=CATG24811&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+ 
+
+
+ 
