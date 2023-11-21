@@ -5597,3 +5597,26 @@ ID: CATG24811
 
 
  
+Categoria: Cuidado de la Ropa
+ID: CATG24792
+ https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24792&landingtonewPLP=true&defaultSelectParentId=CATG24750&defaultSortBy=Recomendados
+
+
+
+Categoria: Cuidado de la Ropa
+ID: CATG24792
+ https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24792&landingtonewPLP=true&defaultSelectParentId=CATG24750&defaultSortBy=Recomendados
+
+
+
+Categoria: Desde Hoy
+ID: CATG24869
+ https://fazil-app.com/categories?name=DesdeHoy&id=CATG24869&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Helados
+ID: CATG24789
+ https://fazil-app.com/categories?name=Helados&id=CATG24789&landingtonewPLP=true&defaultSelectParentId=CATG24756&defaultSortBy=Recomendados
+
+
+ 
