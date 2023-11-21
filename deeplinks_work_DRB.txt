@@ -1351,7 +1351,7 @@ DL: https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG23973&la
 
 1839.75
 
-
+CATG15488
 
 
 
@@ -2243,23 +2243,6 @@ DL: https://fazil-app.com/categories?name=PandeMolde&id=CATG18730&landingtonewPL
 Category name:Pañales
 ID: CATG24159
 DL: https://fazil-app.com/categories?name=Pañales&id=CATG24159&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
-
-
-
-
-CATG20390
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4302,7 +4285,7 @@ ID: CATG21743
  https://fazil-app.com/categories?name=Verduras&id=CATG21743&landingtonewPLP=true&defaultSelectParentId=CATG21731&defaultSortBy=Recomendados
 
 
-
+CATG15653
 
 
 Categoria: Gin
@@ -4785,7 +4768,7 @@ https://fazil-app.com/categories?name=aceiteMaravilla&id=CATG24376&landingtonewP
 
 
 
-
+CATG15094
 
 
 
@@ -5439,7 +5422,7 @@ ID: CATG24812
 
 
 
- LG ThinQ Duplex
+ LG ThinQ Duplex CATG20265
 
 Categoria: Molidas y Hamburguesas
 ID: CATG20291
@@ -5619,4 +5602,48 @@ ID: CATG24789
  https://fazil-app.com/categories?name=Helados&id=CATG24789&landingtonewPLP=true&defaultSelectParentId=CATG24756&defaultSortBy=Recomendados
 
 
- 
+
+Categoria: Pollo Congelado
+ID: CATG20114
+ https://fazil-app.com/categories?name=PolloCongelado&id=CATG20114&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+Categoria: Perros
+ID: CATG20237
+ https://fazil-app.com/categories?name=Perros&id=CATG20237&landingtonewPLP=true&defaultSelectParentId=CATG15487&defaultSortBy=Recomendados
+
+
+Categoria: Abarrotes
+ID: CATG24818
+ https://fazil-app.com/categories?name=Abarrotes&id=CATG24818&landingtonewPLP=true&defaultSelectParentId=CATG24817&defaultSortBy=Recomendados
+
+
+Categoria: Aseo y Limpieza
+ID: CATG24820
+ https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG24820&landingtonewPLP=true&defaultSelectParentId=CATG24817&defaultSortBy=Recomendados
+
+
+Categoria: Perfumería
+ID: CATG24821
+ https://fazil-app.com/categories?name=Perfumería&id=CATG24821&landingtonewPLP=true&defaultSelectParentId=CATG24817&defaultSortBy=Recomendados
+
+
+Categoria: Panadería y Pastelería
+ID: CATG24827
+ https://fazil-app.com/categories?name=PanaderíayPastelería&id=CATG24827&landingtonewPLP=true&defaultSelectParentId=CATG24817&defaultSortBy=Recomendados
+
+
+Categoria: Leches y Cremas
+ID: CATG24860
+ https://fazil-app.com/categories?name=LechesyCremas&id=CATG24860&landingtonewPLP=true&defaultSelectParentId=CATG24824&defaultSortBy=Recomendados
+
+
+Categoria: Leches y Cremas
+ID: CATG24862
+ https://fazil-app.com/categories?name=LechesyCremas&id=CATG24862&landingtonewPLP=true&defaultSelectParentId=CATG24824&defaultSortBy=Recomendados
+
+
+Categoria: Vegetales Congelados
+ID: CATG24864
+ https://fazil-app.com/categories?name=VegetalesCongelados&id=CATG24864&landingtonewPLP=true&defaultSelectParentId=CATG24826&defaultSortBy=Recomendados
+|
