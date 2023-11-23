@@ -1,5 +1,4 @@
-
-TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=3MarwGzmUPktGiy5A4QjZ3
+|TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=3MarwGzmUPktGiy5A4QjZ3
 
 TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=2QOW2B6krPHnevZ3TWuzwn
 
@@ -5646,4 +5645,44 @@ ID: CATG24862
 Categoria: Vegetales Congelados
 ID: CATG24864
  https://fazil-app.com/categories?name=VegetalesCongelados&id=CATG24864&landingtonewPLP=true&defaultSelectParentId=CATG24826&defaultSortBy=Recomendados
-|
+
+
+
+
+Categoria: Helados
+ID: CATG24862
+ https://fazil-app.com/categories?name=Helados&id=CATG24862&landingtonewPLP=true&defaultSelectParentId=CATG24826&defaultSortBy=Recomendados
+
+
+
+Black Friday (CATG24817) --> Congelados (CATG24826) Helados --> CATG24862	
+
+
+
+
+Black Friday (CATG24817) --> *Líquidos* (CATG24819)
+
+
+-------------------------------
+CATG24837	Bebidas	
+
+CATG24836	Licores	
+
+CATG24834	Cervezas	
+
+CATG24835	Vinos
+
+
+
+Categoria: Carnes
+ID: CATG24822
+ https://fazil-app.com/categories?name=Carnes&id=CATG24822&landingtonewPLP=true&defaultSelectParentId=CATG24817&defaultSortBy=Recomendados
+
+
+------Categoria Inactiva--------
+Categoria: Cuidado de la Ropa
+ID: CATG24838
+ https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24838&landingtonewPLP=true&defaultSelectParentId=CATG24820&defaultSortBy=Recomendados
+
+
+ 
