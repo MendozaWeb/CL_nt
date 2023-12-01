@@ -5707,3 +5707,33 @@ ID: CATG24889
  https://fazil-app.com/categories?name=Perfumería&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG24705&defaultSortBy=Recomendados
 
 
+<
+
+Categoria: Servilletas
+ID: CATG20302
+ https://www.tottus.com/categories?name=Servilletas&id=CATG20302&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
+
+
+Categoria: Mayonesa
+ID: CATG20000
+ https://www.tottus.com/categories?name=Mayonesa&id=CATG20000&landingtonewPLP=true&defaultSelectParentId=CATG20001&defaultSortBy=Recomendados
+
+
+Condicion 1
+======================
+Categoria: Mayonesa
+ID: CATG20000
+ https://www.tottus.com/categories?name=Mayonesa&id=CATG20000&landingtonewPLP=true&defaultSelectParentId=CATG20001&defaultSortBy=Recomendados
+
+
+Condicion 2
+======================
+Producto: TRUTRO ENTERO DE POLLO ENV LOCAL ARIZTIA
+ID: 118687407
+ https://www.tottus.com/productdesc?productkey=118687407
+
+
+Categoria: Mayonesa
+ID: CATG24889
+ https://www.tottus.com/categories?name=Mayonesa&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG24889&defaultSortBy=Recomendados
+
