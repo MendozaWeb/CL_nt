@@ -3249,7 +3249,7 @@ Pan de Pascua: CATG18733
 
 Category name: Pan de Pascua	
 ID: CATG18733
- https://api.test.tottus.cl/categories?name=PandePascua	&id=CATG18733&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
+ https://fazil-app.com/categories?name=PandePascua&id=CATG18733&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
 
 
 
@@ -3261,7 +3261,7 @@ DRB | circularButtonsComponent - Landing Pastelería
 
 Categoria: Especial Play-Doh
 ID: CATG24301
- https://fazil-app.com/categories?name=EspecialPlayDoh&id=CATG24301&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+ https://       /categories?name=EspecialPlayDoh&id=CATG24301&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
 
 
 
@@ -5574,7 +5574,7 @@ ID: CATG24869
 
 Categoria: NIDO
 ID: CATG24811
- https://api.test.tottus.cl/categories?name=NIDO&id=CATG24811&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+ https://fazil-app.com/categories?name=NIDO&id=CATG24811&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
  
 
 
@@ -5657,8 +5657,7 @@ ID: CATG24862
 
 Black Friday (CATG24817) --> Congelados (CATG24826) Helados --> CATG24862	
 
-
-
+Black Friday (CATG24817) --> CATG24824	Lácteos
 
 Black Friday (CATG24817) --> *Líquidos* (CATG24819)
 
@@ -5684,5 +5683,27 @@ Categoria: Cuidado de la Ropa
 ID: CATG24838
  https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24838&landingtonewPLP=true&defaultSelectParentId=CATG24820&defaultSortBy=Recomendados
 
-
  
+Categoria: Higiene Bucal
+ID: CATG24846
+ https://fazil-app.com/categories?name=HigieneBucal&id=CATG24846&landingtonewPLP=true&defaultSelectParentId=CATG24821&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Cuidado de la Ropa
+ID: CATG24887
+ https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24887&landingtonewPLP=true&defaultSelectParentId=CATG24886&defaultSortBy=Recomendados
+
+
+Categoria: Mundo Bebé
+ID: CATG24894
+ https://fazil-app.com/categories?name=MundoBebé&id=CATG24894&landingtonewPLP=true&defaultSelectParentId=CATG24705&defaultSortBy=Recomendados
+
+
+Categoria: Perfumería
+ID: CATG24889
+ https://fazil-app.com/categories?name=Perfumería&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG24705&defaultSortBy=Recomendados
+
+
