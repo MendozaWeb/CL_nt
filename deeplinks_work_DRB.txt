@@ -2930,9 +2930,6 @@ ID: CATG21741
  https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG21741&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
 
 
-Categoria: Vinos y Licores
-ID: CATG21730
- https://fazil-app.com/categories?name=VinosyLicores&id=CATG21730&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
 
 Categoria: Galletas Dulces
 ID: CATG20104
@@ -3289,10 +3286,6 @@ DL: https://fazil-app.com/categories?name=CervezasPremium&id=CATG15679&landingto
 
 
 
-
-Categoria: Aseo y Limpieza 
-ID: CATG15484 
- https://fazil-app.com/categories?name=AseoyLimpieza&id=CATG15484&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
 
@@ -5689,9 +5682,6 @@ ID: CATG24846
  https://fazil-app.com/categories?name=HigieneBucal&id=CATG24846&landingtonewPLP=true&defaultSelectParentId=CATG24821&defaultSortBy=Recomendados
 
 
-
-
-
 Categoria: Cuidado de la Ropa
 ID: CATG24887
  https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24887&landingtonewPLP=true&defaultSelectParentId=CATG24886&defaultSortBy=Recomendados
@@ -5744,3 +5734,34 @@ ID: CATG24889
 Categoria: Perfumería
 ID: CATG24889
  https://www.tottus.com/categories?name=Perfumería&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG24889&defaultSortBy=Recomendados
+
+
+
+Categoria: Papas Fritas
+ID: CATG18750
+ https://www.tottus.com/categories?name=PapasFritas&id=CATG18750&landingtonewPLP=true&defaultSelectParentId=CATG15503&defaultSortBy=Recomendados
+
+Categoria: Vinos y Licores
+ID: CATG21730
+ https://www.tottus.com/categories?name=VinosyLicores&id=CATG21730&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
+
+Categoria: Helados
+ID: CATG20118
+ https://www.tottus.com/categories?name=Helados&id=CATG20118&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+
+Categoria: Aseo y Limpieza 
+ID: CATG15484 
+ https://www.tottus.com/categories?name=AseoyLimpieza&id=CATG15484&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Aromaterapia Navidad
+ID: CATG24815
+ https://www.tottus.com/categories?name=AromaterapiaNavidad&id=CATG24815&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Navidad MMPP
+ID: CATG25053
+ https://www.tottus.com/categories?name=NavidadMMPP&id=CATG25053&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
