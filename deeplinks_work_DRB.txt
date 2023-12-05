@@ -4583,7 +4583,7 @@ ID: CATG24450
 
 Categoria: Aceites
 ID: CATG20183
- https://fazil-app.com/categories?name=Aceites&id=CATG20183&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=Aceites&id=CATG20183&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
 
 
 
@@ -5722,3 +5722,25 @@ Categoria: Mayonesa
 ID: CATG24889
  https://www.tottus.com/categories?name=Mayonesa&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG24889&defaultSortBy=Recomendados
 
+
+https://api.test.tottus.cl/categories?name=Aceites&id=CATG20183&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
+
+
+Categoria: Mayonesa
+ID: CATG24889
+ https://www.tottus.com/categories?name=Mayonesa&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG20000&defaultSortBy=Recomendados
+
+
+Categoria: Servilletas
+ID: CATG20302
+ https://www.tottus.com/categories?name=Servilletas&id=CATG20302&landingtonewPLP=true&defaultSelectParentId=CATG20302&defaultSortBy=Recomendados
+
+
+Categoria: Perfumería
+ID: CATG24889
+ https://www.tottus.com/categories?name=Perfumería&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG24889&defaultSortBy=Recomendados
+
+
+Categoria: Perfumería
+ID: CATG24889
+ https://www.tottus.com/categories?name=Perfumería&id=CATG24889&landingtonewPLP=true&defaultSelectParentId=CATG24889&defaultSortBy=Recomendados
