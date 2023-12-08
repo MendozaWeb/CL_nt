@@ -471,7 +471,7 @@ DL: https://fazil-app.com/categories?name=Menaje&id=CATG10158&landingtonewPLP=tr
 
 Category name: Verduras Congeladas 
 ID: CATG20111 
-DL: https://fazil-app.com/categories?name=VerdurasCongeladas&id=CATG20111&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=VerdurasCongeladas&id=CATG20111&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
 
 
 Antes
@@ -1163,7 +1163,7 @@ DL: https://fazil-app.com/categories?name=Oreo&id=CATG23981&landingtonewPLP=true
 
 Category name: Queso Mantecoso 
 ID: CATG19962 
-DL: https://fazil-app.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
 Category name: Margarinas 
@@ -1180,7 +1180,7 @@ DL: https://fazil-app.com/categories?name=Margarinas&id=CATG19958&landingtonewPL
 
 Category name: Salame y Cocktail 
 ID: CATG18928 
-DL: https://fazil-app.com/categories?name=SalameyCocktail&id=CATG18928&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=SalameyCocktail&id=CATG18928&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
 
 
 
@@ -1229,7 +1229,7 @@ DL: https://fazil-app.com/categories?name=Perfumería&id=CATG23974&landingtonewP
 
 Category name: Otros Licores 
 ID: CATG15668 
-DL: https://fazil-app.com/categories?name=OtrosLicores&id=CATG15668&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=OtrosLicores&id=CATG15668&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
 
 Category name: Chocolates 
 ID: CATG23969 
@@ -1814,8 +1814,7 @@ ID: CATG19960
 
 Category name: Papas Congeladas 
 ID: CATG20122 
-DL: https://fazil-app.com/categories?name=PapasCongeladas&id=CATG20122&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
-
+DL: https://www.tottus.com/categories?name=PapasCongeladas&id=CATG20122&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
 
 
 
@@ -2215,7 +2214,7 @@ DL: https://fazil-app.com/categories?name=CarneMolida&id=CATG21200&landingtonewP
 
 Category name: Vacuno Congelado
 ID: CATG20113
-DL: https://fazil-app.com/categories?name=VacunoCongelado&id=CATG20113&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=VacunoCongelado&id=CATG20113&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
 
 
 Category name: Limpieza MMPP
@@ -2428,7 +2427,7 @@ DL: https://fazil-app.com/categories?name=Vinos&id=CATG15652&landingtonewPLP=tru
 
 Category name: Pechuga de Pavo 
 ID: CATG18935 
-DL: https://fazil-app.com/categories?name=PechugadePavo&id=CATG18935&landingtonewPLP=true&defaultSelectParentId=CATG18911&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=PechugadePavo&id=CATG18935&landingtonewPLP=true&defaultSelectParentId=CATG18911&defaultSortBy=Recomendados
 
 
 
@@ -3115,10 +3114,6 @@ https://fazil-app.com/categories?name=Almuerzapormenosde5Lucas&id=CATG10203&land
 Categoria: Core Desayuno
 ID: CATG24248
  https://fazil-app.com/categories?name=CoreDesayuno&id=CATG24248&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
-
-Categoria: Otros Cortes de Pavo 
-ID: CATG20285 
- https://fazil-app.com/categories?name=OtrosCortesdePavo&id=CATG20285&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
 
 
 
@@ -4291,9 +4286,6 @@ ID: CATG20276
 
 
 
-Categoria: Costillar y Costillitas 
-ID: CATG20273 
- https://fazil-app.com/categories?name=CostillaryCostillitas&id=CATG20273&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
 
 
 
@@ -4468,7 +4460,7 @@ https://api.test.tottus.cl/categories?name=Cocktail y Snack&id=CATG15503&landing
 
 Categoria: Papas Fritas
 ID: CATG18750
- https://fazil-app.com/categories?name=PapasFritas&id=CATG18750&landingtonewPLP=true&defaultSelectParentId=CATG15503&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=PapasFritas&id=CATG18750&landingtonewPLP=true&defaultSelectParentId=CATG15503&defaultSortBy=Recomendados
 
 Categoria: Galletas de Cocktail
 ID: CATG18751
@@ -4601,7 +4593,7 @@ ID: CATG24457
 
 Categoria: Café
 ID: CATG20054
- https://fazil-app.com/categories?name=Café&id=CATG20054&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=Café&id=CATG20054&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
 
 
 Categoria: Cafe Instantáneo
@@ -4689,9 +4681,6 @@ ID: CATG24455
 
 
 
-Category name: La Gran Estancia 
-ID: CATG20268 
-DL: https://fazil-app.com/categories?name=LaGranEstancia&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
 
 Categoria: Carbon
 ID: CATG20169
@@ -4893,9 +4882,6 @@ ID: CATG24384
 
 
 
-Categoria: Sx48 Miércoles
-ID: CATG24376
- https://fazil-app.com/categories?name=Sx48Miercoles&id=CATG24376&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
 
@@ -5357,9 +5343,7 @@ ID: CATG20146
 
 
 
-Categoria: Solo por 48 Horas Lunes
-ID: CATG10197
- https://fazil-app.com/categories?name=Solopor48HorasLunes&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
 
 
 Categoria: Solo Por 48 Horas 
@@ -5424,9 +5408,6 @@ Categoria: Vacuno
 ID: CATG20258 
  https://fazil-app.com/categories?name=Vacuno&id=CATG20258&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
 
-Categoria: Cervezas
-ID: CATG15479
- https://fazil-app.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
 Categoria: Starbucks
@@ -5455,10 +5436,10 @@ ID: CATG24877
 
 Categoria: Vino Tinto
 ID: CATG15658
- https://fazil-app.com/categories?name=VinoTinto&id=CATG15658&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+ https://www.tottus.com//categories?name=VinoTinto&id=CATG15658&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
 
 
-Título: Maggi
+Título: Maggi 
 ===========================
 
   IMG: 
@@ -5765,3 +5746,82 @@ ID: CATG25053
  https://www.tottus.com/categories?name=NavidadMMPP&id=CATG25053&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
+
+-----DL INACTIVO---------  
+Categoria: Solo por 48 Horas
+ID: CATG10197
+ https://www.tottus.com/categories?name=Solopor48HorasLunes&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+Categoria: CERVEZA LAGER CORONA
+ID: CATG24376
+ https://www.tottus.com/categories?name=CERVEZALAGERCORONA&id=CATG24376&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+	URL: https://www.tottus.com/vendor?contentfulid=2hqjAj9D7aDz8K2lhS8Ven
+
+Home Principal - Landing Fazil Navidad
+
+	URL: https://www.tottus.com/vendor?contentfulid=3fZKJnhuUvvgoKk9j9tgVM
+
+ TRUTRO ENTERO DE POLLO ENV LOCAL ARIZTIA
+DL: https://www.tottus.com/productdesc?productkey=118687407
+
+
+
+
+
+
+Category name: Importado
+ID: CATG20268 
+DL: https://www.tottus.com/categories?name=Importado&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+Categoria: Cervezas
+ID: CATG15479
+ https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Costillar y Costillitas 
+ID: CATG20273 
+ https://www.tottus.com/categories?name=CostillaryCostillitas&id=CATG20273&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+Categoria: Papas Lays
+ID: CATG25049
+ https://www.tottus.com/categories?name=PapasLays&id=CATG25049&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: La Crianza y Súper Cerdo 
+ID: CATG25045
+ https://www.tottus.com/categories?name=LaCrianzaySúperCerdo&id=CATG25045&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Otros Cortes de Pavo 
+ID: CATG20285 
+ https://www.tottus.com/categories?name=OtrosCortesdePavo&id=CATG20285&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+
+Categoria: Hot Dog y Hamburguesas
+ID: CATG18732
+ https://www.tottus.com/categories?name=HotDogyHamburguesas&id=CATG18732&landingtonewPLP=true&defaultSelectParentId=CATG18725&defaultSortBy=Recomendados
+
+Categoria: Mayonesa
+ID: CATG20216
+ https://www.tottus.com/categories?name=Mayonesa&id=CATG20216&landingtonewPLP=true&defaultSelectParentId=CATG20188&defaultSortBy=Recomendados
+
+Categoria: Nivea Diciembre
+ID: CATG24931
+ https://www.tottus.com/categories?name=NiveaDiciembre&id=CATG24931&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Murana
+ID: CATG24944
+ https://www.tottus.com/categories?name=Murana&id=CATG24944&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Dulces Navidad
+ID: CATG24947
+ https://www.tottus.com/categories?name=DulcesNavidad&id=CATG24947&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Tío Nacho
+ID: CATG24949
+ https://www.tottus.com/categories?name=TíoNacho&id=CATG24949&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Especial Belleza Loreal
+ID: CATG24951
+ https://www.tottus.com/categories?name=EspecialBellezaLoreal&id=CATG24951&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
