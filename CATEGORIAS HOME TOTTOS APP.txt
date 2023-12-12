@@ -1,5 +1,7 @@
-
+LIVEAN PROTEIN
 banner_plp
+
+Sin fecha, hasta cuando seria su vigencia
 
 =============LISTADO DE LOS LINK DE JARVIS DE LA CATEGORIAS=============   
 
@@ -29,7 +31,6 @@ Cervezas: https://admin.fazil.services/application/catalog/taxonomy/categories/e
 
 Aseo y Limpieza: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15484?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
 
-----------> aqui
 
 Mundo Hogar: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15495?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
 
@@ -68,6 +69,7 @@ Celebraciones: https://admin.fazil.services/application/catalog/taxonomy/categor
 Sabores del Mundo: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15505?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
 
 Aire Libre: https://admin.fazil.services/application/catalog/taxonomy/categories/editCategory/CATG15500?locale=es&tenant=00d756da-3bca-4b96-a824-620810406108&sites=
-|
+
+
 
 

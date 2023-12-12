@@ -2943,13 +2943,6 @@ ID: CATG24231
 
 
 
-
-
-
-
-
-
-
 Category name: CLINIQUE
 ID: CATG10128
  https://fazil-app.com/categories?name=CLINIQUE&id=CATG10128&landingtonewPLP=true&defaultSelectParentId=CATG10120&defaultSortBy=Recomendados
@@ -2970,9 +2963,9 @@ Category name: Aceites
 ID: CATG20192 
 DL: https://fazil-app.com/categories?name=Aceites&id=CATG20192&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
 
-Category name: Pechugas y Filetitos de Pollo 
+Categoria: Pechugas y Filetitos de Pollo 
 ID: CATG20278 
-https://fazil-app.com/categories?name=PechugasyFiletitosdePollo&id=CATG20278&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=PechugasyFiletitosdePollo&id=CATG20278&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
 
 
 Category name: Nescafe
@@ -4311,10 +4304,6 @@ ID: CATG21744
  https://fazil-app.com/categories?name=Frutas&id=CATG21744&landingtonewPLP=true&defaultSelectParentId=CATG21731&defaultSortBy=Recomendados
 
 
-
-
-
-
 Categoria: Aceites 
 ID: CATG20192 
  https://fazil-app.com/categories?name=Aceites&id=CATG20192&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
@@ -4328,14 +4317,9 @@ https://fazil-app.com/categories?name=PreciosIncreíbles&id=CATG23079&landington
 
 
 
-
-
-
-
-
 Categoria: Trutos de Pollo 
 ID: CATG20279 
- https://fazil-app.com/categories?name=TrutosdePollo&id=CATG20279&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=TrutosdePollo&id=CATG20279&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
 
 
 
@@ -4400,7 +4384,7 @@ ID: CATG23082
 
 Categoria: Papeles Higiénicos 
 ID: CATG20300 
- https://fazil-app.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
 
 
 
@@ -5770,10 +5754,6 @@ Home Principal - Landing Fazil Navidad
 DL: https://www.tottus.com/productdesc?productkey=118687407
 
 
-
-
-
-
 Category name: Importado
 ID: CATG20268 
 DL: https://www.tottus.com/categories?name=Importado&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
@@ -5796,7 +5776,8 @@ ID: CATG25045
 
 Categoria: Otros Cortes de Pavo 
 ID: CATG20285 
- https://www.tottus.com/categories?name=OtrosCortesdePavo&id=CATG20285&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=OtrosCortesdePavo&id=CATG20285&landingtonewPLP=true&defaultSelectParentIs
+
 
 Categoria: Hot Dog y Hamburguesas
 ID: CATG18732
@@ -5825,3 +5806,45 @@ ID: CATG24949
 Categoria: Especial Belleza Loreal
 ID: CATG24951
  https://www.tottus.com/categories?name=EspecialBellezaLoreal&id=CATG24951&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Milo
+ID: CATG25052
+ https://www.tottus.com/categories?name=Milo&id=CATG25052&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Especial Belleza Loreal
+ID: CATG24951
+ https://www.tottus.com/categories?name=EspecialBellezaLoreal&id=CATG24951&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Especial Licores
+ID: CATG25051
+ https://www.tottus.com/categories?name=EspecialLicores&id=CATG25051&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Magdalenas
+ID: CATG18749
+ https://www.tottus.com/categories?name=Magdalenas&id=CATG18749&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
+
+
+620 dolares tus carcasas (Delivery) 735 (UND 3000) | 1355 | S/ 5121,9 | UND s/ 1,70
+850 dolares medias (Delivery)735 (UND 10000) | 1585 | S/ 5991,3 | UND s/ 0,60
+
+
+Categoria: Merluza
+ID: CATG20136
+ https://www.tottus.com/categories?name=Merluza&id=CATG20136&landingtonewPLP=true&defaultSelectParentId=CATG20115&defaultSortBy=Recomendados
+
+Categoria: Depilación Femenina
+ID: CATG20364
+ https://www.tottus.com/categories?name=DepilaciónFemenina&id=CATG20364&landingtonewPLP=true&defaultSelectParentId=CATG20343&defaultSortBy=Recomendados
+
+Categoria: Helados Super Quincena APP
+ID: CATG25054
+ https://www.tottus.com/categories?name=HeladosSuperQuincenaAPP&id=CATG25054&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Suerox
+ID: CATG24950
+ https://www.tottus.com/categories?name=Suerox&id=CATG24950&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
