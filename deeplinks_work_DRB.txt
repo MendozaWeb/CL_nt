@@ -1,6 +1,7 @@
 |TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=3MarwGzmUPktGiy5A4QjZ3
 
-TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=2QOW2B6krPHnevZ3TWuzwn
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=2hqjAj9D7aDz8K2lhS8Ven
+
 
 ==============CAT ACCESO RAPIDO==================
 
@@ -2093,10 +2094,6 @@ https://fazil-app.com/categories?name=GalletasDulces&id=CATG20104&landingtonewPL
 
 
 
-Category name: Espumantes 
-ID: CATG15661 
-DL: https://fazil-app.com/categories?name=Espumantes&id=CATG15661&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
-
 
 
 -------INACTIVOS------
@@ -2118,14 +2115,9 @@ DL: https://fazil-app.com/categories?name=Cyber&id=CATG24053&landingtonewPLP=tru
 
 
 
-Category name: OMO
+Categoria: OMO
 ID: CATG24112 
-DL: https://fazil-app.com/categories?name=OMO&id=CATG24112&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
-
-
-
-
-
+ https://www.tottus.com/categories?name=OMO&id=CATG24112&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 Category name: Día Mundial de la Leche 
@@ -2164,13 +2156,6 @@ DL: https://api.test.tottus.cl/categories?name=DGHsySupreme&id=CATG24172&landing
 
 
 
-
-
-
-
-
-
-
 Category name: IANSA
 ID: CATG23946
 DL: https://fazil-app.com/categories?name=IANSA&id=CATG23946&landingtonewPLP=true&defaultSelectParentId=CATG10136&defaultSortBy=Recomendados
@@ -2192,15 +2177,6 @@ DL: https://api.test.tottus.cl/categories?name=DespachoGratis&id=CATG10136&landi
 
 
 https://fazil-app.com/categories?name=La+Gran+Estancia&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20263&defaultSortBy=Recomendados
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2303,9 +2279,6 @@ ID: CATG20390
 DL: https://fazil-app.com/categories?name=PañalesyToallasHúmedas&id=CATG20390&landingtonewPLP=true&defaultSelectParentId=CATG15489&defaultSortBy=Recomendados
 
 
-Category name: Cortes Parrilleros de Cerdo 
-ID: CATG20277 
-https://fazil-app.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
 
 
 
@@ -2410,18 +2383,6 @@ DL: https://fazil-app.com/categories?name=ElAndar&id=CATG24096&landingtonewPLP=t
 Category name: Aceite de Oliva
 ID: CATG24098
 DL: https://fazil-app.com/categories?name=AceitedeOliva&id=CATG24098&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
-
-
-
-
-
-
-
-
-Category name: Vinos 
-ID: CATG15652 
-DL: https://fazil-app.com/categories?name=Vinos&id=CATG15652&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
-
 
 
 
@@ -4382,12 +4343,6 @@ ID: CATG23082
 
 
 
-Categoria: Papeles Higiénicos 
-ID: CATG20300 
- https://www.tottus.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
-
-
-
 
 Categoria: Kit Kat
 ID: CATG24448
@@ -4711,10 +4666,6 @@ ID: CATG20268
 Categoria: Champiñones y Orientales 
 ID: CATG20042 
  https://fazil-app.com/categories?name=ChampiñonesyOrientales&id=CATG20042&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
-
-Categoria: Pan Envasado
-ID: CATG18725
- https://fazil-app.com/categories?name=PanEnvasado&id=CATG18725&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
 
 
 Categoria: Jabones Líquidos
@@ -5758,9 +5709,6 @@ Category name: Importado
 ID: CATG20268 
 DL: https://www.tottus.com/categories?name=Importado&id=CATG20268&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
 
-Categoria: Cervezas
-ID: CATG15479
- https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 Categoria: Costillar y Costillitas 
 ID: CATG20273 
@@ -5827,8 +5775,7 @@ ID: CATG18749
  https://www.tottus.com/categories?name=Magdalenas&id=CATG18749&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
 
 
-620 dolares tus carcasas (Delivery) 735 (UND 3000) | 1355 | S/ 5121,9 | UND s/ 1,70
-850 dolares medias (Delivery)735 (UND 10000) | 1585 | S/ 5991,3 | UND s/ 0,60
+
 
 
 Categoria: Merluza
@@ -5846,5 +5793,41 @@ ID: CATG25054
 Categoria: Suerox
 ID: CATG24950
  https://www.tottus.com/categories?name=Suerox&id=CATG24950&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Vinos 
+ID: CATG15652 
+ https://www.tottus.com/categories?name=Vinos&id=CATG15652&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+
+Categoria: Espumantes 
+ID: CATG15661 
+ https://www.tottus.com/categories?name=Espumantes&id=CATG15661&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+
+Categoria: Cortes Parrilleros de Cerdo 
+ID: CATG20277 
+ https://www.tottus.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
+
+Categoria: Cervezas
+ID: CATG15479
+ https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+ HOME TOTTUS APP DL: https://www.tottus.com/vendor?contentfulid=3QVPzlVzmkFkP4lCXDCt4J
+
+https://www.tottus.com/categories?name=Mantequillas&id=CATG19957&landingtonewPLP=true&defaultSelectParentId=CATG19933&defaultSortBy=Recomendados
+
+
+Categoria: Papeles Higiénicos 
+ID: CATG20300 
+ https://www.tottus.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
+
+Categoria: Queques, Brazos de Reina y Magdalenas
+ID: CATG18741
+ https://www.tottus.com/categories?name=Queques,BrazosdeReinayMagdalenas&id=CATG18741&landingtonewPLP=true&defaultSelectParentId=CATG15491&defaultSortBy=Recomendados
+
+Categoria: Pan Envasado
+ID: CATG18725
+ https://www.tottus.com/categories?name=PanEnvasado&id=CATG18725&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
 
 
