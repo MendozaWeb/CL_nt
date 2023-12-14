@@ -369,7 +369,7 @@ Category name: Pan de Molde
 ID: CATG18730 
 DL: https://fazil-app.com/categories?name=PandeMolde&id=CATG18730&landingtonewPLP=true&defaultSelectParentId=CATG18725&defaultSortBy=Recomendados
 
-
+MOLDE PIERRE BLANCO FAMILIAR 755 GRS
 
 
 
@@ -1798,7 +1798,7 @@ DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG24057&landingto
 
 Category name: Queso Mantecoso 
 ID: CATG19962 
-DL: https://fazil-app.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 Category name: Pizzas y Pizzetas 
 ID: CATG20116 
@@ -2069,7 +2069,7 @@ DL: https://fazil-app.com/categories?name=Vodka&id=CATG15663&landingtonewPLP=tru
 
 Category name: Pisco 
 ID: CATG15665 
-DL: https://fazil-app.com/categories?name=Pisco&id=CATG15665&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=Pisco&id=CATG15665&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
 
 
 Category name: Pollo 
@@ -2090,8 +2090,14 @@ DL: https://fazil-app.com/categories?name=HarinasBlancas&id=CATG20213&landington
 
 Categoria: Galletas Dulces 
 ID: CATG20104 
-https://fazil-app.com/categories?name=GalletasDulces&id=CATG20104&landingtonewPLP=true&defaultSelectParentId=CATG20064&defaultSortBy=Recomendados
+https://www.tottus.com/categories?name=GalletasDulces&id=CATG20104&landingtonewPLP=true&defaultSelectParentId=CATG20064&defaultSortBy=Recomendados
 
+
+antes
+
+Categoria: Galletas Dulces 
+ID: CATG25093
+https://www.tottus.com/categories?name=CenasNavideñas&id=CATG25093&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 
@@ -2225,9 +2231,6 @@ ID: CATG20130
 DL: https://fazil-app.com/categories?name=FiletesdePollo&id=CATG20130&landingtonewPLP=true&defaultSelectParentId=CATG20114&defaultSortBy=Recomendados
 
 
-Category name: Chorizos Longanizas y Longanicillas
-ID: CATG24173
-DL: https://fazil-app.com/categories?name=ChorizosLonganizasyLonganicillas&id=CATG24173&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
 
 
 Category name: Paltas
@@ -2497,7 +2500,7 @@ DL: https://fazil-app.com/categories?name=Chocolates&id=CATG20100&landingtonewPL
 
 Category name: Vino Tinto 
 ID: CATG15658 
-DL: https://fazil-app.com/categories?name=VinoTinto&id=CATG15658&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=VinoTinto&id=CATG15658&landingtonewPLP=true&defaultSelectParentId=CATG15652&defaultSortBy=Recomendados
 
 Category name: Cortes Parrilleros de Cerdo 
 ID: CATG20277 
@@ -3195,7 +3198,7 @@ Pan de Pascua: CATG18733
 
 Category name: Pan de Pascua	
 ID: CATG18733
- https://fazil-app.com/categories?name=PandePascua&id=CATG18733&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=PandePascua&id=CATG18733&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
 
 
 
@@ -3728,7 +3731,7 @@ ID: CATG20422
 
 Categoria:  Especial Juguetería
 ID: CATG15504
- https://api.test.tottus.cl/categories?name=EspecialJuguetería&id=CATG15504&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=EspecialJuguetería&id=CATG15504&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
 
@@ -4182,7 +4185,7 @@ ID: CATG23086
 
 Categoria: Choclo Congelado
 ID: CATG20121
- https://fazil-app.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
 
  
 
@@ -4229,9 +4232,6 @@ ID: CATG21743
 CATG15653
 
 
-Categoria: Gin
-ID: CATG15667
- https://fazil-app.com/categories?name=Gin&id=CATG15667&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
 
 
 Categoria: Molidas de Cerdo
@@ -4768,26 +4768,6 @@ ID: CATG23879
 DL: https://api.test.tottus.cl/categories?name=Detox&id=CATG23879&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
 
 
-
-
-
-
-
-
-
-cl__home_agosto_2023_s35_boton_05_marca_destacada_livean
-
-cl__home_agosto_2023_s38_boton_04_not_co
-
-
-Se agrego la marca *NotCO*, en el Home 
-
-
-
-
-
-
-
 Categoria: Remate Tiki Tiki
 ID: CATG24558
  https://fazil-app.com/categories?name=RemateTikiTiki&id=CATG24558&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
@@ -4801,7 +4781,7 @@ DL: https://fazil-app.com/categories?name=Detox&id=CATG23879&landingtonewPLP=tru
 
 Categoria: Sour y Cocteles
 ID: CATG15666
- https://fazil-app.com/categories?name=SouryCocteles&id=CATG15666&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=SouryCocteles&id=CATG15666&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
 
 
  
@@ -4825,7 +4805,7 @@ ID: CATG24384
 
 Categoria: Vienesas 
 ID: CATG18927 
- https://fazil-app.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
 
 
 
@@ -5062,7 +5042,7 @@ ID: CATG23876
 
 Categoria: Papas Fritas 
 ID: CATG20231 
- https://fazil-app.com/categories?name=PapasFritas&id=CATG20231&landingtonewPLP=true&defaultSelectParentId=CATG20191&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=PapasFritas&id=CATG20231&landingtonewPLP=true&defaultSelectParentId=CATG20191&defaultSortBy=Recomendados
 
 
 Categoria: Huevos
@@ -5424,10 +5404,6 @@ ID: CATG23078
 
 
 
---------CATEGORIA INACTIVO------------
-Categoria: Solo por 48 Horas
-ID: CATG10197
- https://fazil-app.com/categories?name=Solopor48Horas&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 Categoria:HUEVO GRANDE
 ID: CATG23957 
@@ -5688,10 +5664,6 @@ ID: CATG10197
  https://www.tottus.com/categories?name=Solopor48HorasLunes&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
-Categoria: CERVEZA LAGER CORONA
-ID: CATG24376
- https://www.tottus.com/categories?name=CERVEZALAGERCORONA&id=CATG24376&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
-
 
 
 
@@ -5755,6 +5727,10 @@ Categoria: Especial Belleza Loreal
 ID: CATG24951
  https://www.tottus.com/categories?name=EspecialBellezaLoreal&id=CATG24951&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
+Componentes Circulares Tottus Express TOTTUS APP (CATG23078)
+/
+Especiales Fazil (CATG10196) CHOCOLATE LECHE TOBLERONE 400 GRS
+
 
 Categoria: Milo
 ID: CATG25052
@@ -5773,9 +5749,6 @@ ID: CATG25051
 Categoria: Magdalenas
 ID: CATG18749
  https://www.tottus.com/categories?name=Magdalenas&id=CATG18749&landingtonewPLP=true&defaultSelectParentId=CATG18741&defaultSortBy=Recomendados
-
-
-
 
 
 Categoria: Merluza
@@ -5829,5 +5802,117 @@ ID: CATG18741
 Categoria: Pan Envasado
 ID: CATG18725
  https://www.tottus.com/categories?name=PanEnvasado&id=CATG18725&landingtonewPLP=true&defaultSelectParentId=CATG15486&defaultSortBy=Recomendados
+
+
+Categoria: Pañales
+ID: CATG25095
+ https://www.tottus.com/categories?name=Panales&id=CATG25095&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Ensaladas Listas
+ID: CATG20047
+ https://www.tottus.com/categories?name=EnsaladasListas&id=CATG20047&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
+
+
+
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=3fZKJnhuUvvgoKk9j9tgVM
+
+
+Categoria: Ensaladas Listas
+ID: CATG20047
+ https://api.test.tottus.cl/categories?name=EnsaladasListas&id=CATG20047&landingtonewPLP=true&defaultSelectParentId=CATG20033&defaultSortBy=Recomendados
+
+
+DL https://fazil-app.com/vendor?contentfulid=3fZKJnhuUvvgoKk9j9tgVM
+
+
+Categoria: Pescados y Mariscos
+ID: CATG15490
+ https://www.tottus.com/categories?name=PescadosyMariscos&id=CATG15490&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=Juguetería&id=CATG15504&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+}
+
+Categoria: Pollos Enteros
+ID: CATG19303
+ https://www.tottus.com/categories?name=PollosEnteros&id=CATG19303&landingtonewPLP=true&defaultSelectParentId=CATG19057&defaultSortBy=Recomendados
+
+
+Categoria: Cenas Navideñas
+ID: CATG25093
+ https://www.tottus.com/categories?name=CenasNavideñas&id=CATG25093&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Agrosuper
+ID: CATG25097
+ https://www.tottus.com/categories?name=Agrosuper&id=CATG25097&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Galletas de Cocktail
+ID: CATG20232
+ https://www.tottus.com/categories?name=GalletasdeCocktail&id=CATG20232&landingtonewPLP=true&defaultSelectParentId=CATG20191&defaultSortBy=Recomendados
+
+Categoria: Otros Snack
+ID: CATG20236
+ https://www.tottus.com/categories?name=OtrosSnack&id=CATG20236&landingtonewPLP=true&defaultSelectParentId=CATG20191&defaultSortBy=Recomendados
+
+
+Categoria: Helados Savory
+ID: CATG25044
+ https://www.tottus.com/categories?name=HeladosSavory&id=CATG25044&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Chorizos Longanizas y Longanicillas
+ID: CATG24173
+ https://www.tottus.com/categories?name=ChorizosLonganizasyLonganicillas&id=CATG24173&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+
+Categoria: Gin
+ID: CATG15667
+ https://www.tottus.com/categories?name=Gin&id=CATG15667&landingtonewPLP=true&defaultSelectParentId=CATG15653&defaultSortBy=Recomendados
+
+Categoria: Helados Año Nuevo
+ID: CATG25116
+ https://www.tottus.com/categories?name=HeladosAñoNuevo&id=CATG25116&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Evercrips
+ID: CATG25117
+ https://www.tottus.com/categories?name=Evercrips&id=CATG25117&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: HUEVO GRANDE COLOR
+ID: CATG24376
+ https://www.tottus.com/categories?name=HUEVOGRANDECOLOR&id=CATG24376&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+--------CATEGORIA INACTIVO------------
+
+Categoria: Solo por 48 Horas
+ID: CATG10197
+ https://fazil-app.com/categories?name=Solopor48Horas&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+Categoria: Mega Ahorro
+
+ID: CATG24705
+ https://fazil-app.com/categories?name=MegaAhorro&id=CATG24705&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Especial Navidad
+ID: CATG24959
+ https://www.tottus.com/categories?name=EspecialNavidad&id=CATG24959&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+https://fazil-app.com/categories?name=La Navidad es Ahora&id=CATG24705&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: Especial Navidad
+ID: CATG24959
+ https://api.test.tottus.cl/categories?name=La Navidad es Ahora&id=CATG24959&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
 
 
