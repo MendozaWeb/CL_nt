@@ -1,6 +1,7 @@
 |TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=3MarwGzmUPktGiy5A4QjZ3
 
-TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=2hqjAj9D7aDz8K2lhS8Ven
+TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=5IqqLYFa2jINmN8HJRxquZ
+
 
 
 ==============CAT ACCESO RAPIDO==================
@@ -1813,17 +1814,12 @@ ID: CATG19960
  https://fazil-app.com/categories?name=QuesoGauda&id=CATG19960&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
-Category name: Papas Congeladas 
+Categoria: Papas Congeladas 
 ID: CATG20122 
-DL: https://www.tottus.com/categories?name=PapasCongeladas&id=CATG20122&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
-
-
-
+ https://www.tottus.com/categories?name=PapasCongeladas&id=CATG20122&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
 
 
 CATG20096
-
-
 
  CATEGORIAS ACTIVOS
 ----------------------------
@@ -1833,15 +1829,8 @@ ID: CATG20096
 https://fazil-app.com/categories?name=CerelalesAzucarados&id=CATG20096&landingtonewPLP=true&defaultSelectParentId=CATG20062&defaultSortBy=Recomendados
 
 
-
-
-
-
-
  CATEGORIAS INACTIVOS
 ----------------------------
-
-
 
 Category name: Aseo y Limpieza 
 ID: CATG24063 
@@ -4129,9 +4118,8 @@ https://fazil-app.com/categories?name=Para la Parrilla&id=CATG20286&landingtonew
 
 Categoria: Milka
 ID: CATG24399
- https://fazil-app.com/categories?name=Milka&id=CATG24399&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
-
-
+ https://fazil-app.com/categories?name=Milka&id=CATG24399&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendadosz
+|
 Categoria: Ensaladas
 ID: CATG19064
  https://fazil-app.com/categories?name=Ensaladas&id=CATG19064&landingtonewPLP=true&defaultSelectParentId=CATG24095&defaultSortBy=Recomendados
@@ -5067,10 +5055,6 @@ ID: CATG24659
  https://fazil-app.com/categories?name=ANTITRANSPIRANTESTOTTUS&id=CATG24659&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
- 
-
-
-
 
 Categoria: Oportunidad Única
 ID: CATG23080
@@ -5363,9 +5347,6 @@ Título: Maggi
 
         NOMENCLATURA: cl__home_noviembre_2023_s46_boton_05_sabores_mundo_maggi
         
-Categoria: Maggi
-ID: CATG24875
- https://api.test.tottus.cl/categories?name=Maggi&id=CATG24875&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 
@@ -5574,11 +5555,6 @@ ID: CATG24846
  https://fazil-app.com/categories?name=HigieneBucal&id=CATG24846&landingtonewPLP=true&defaultSelectParentId=CATG24821&defaultSortBy=Recomendados
 
 
-Categoria: Cuidado de la Ropa
-ID: CATG24887
- https://fazil-app.com/categories?name=CuidadodelaRopa&id=CATG24887&landingtonewPLP=true&defaultSelectParentId=CATG24886&defaultSortBy=Recomendados
-
-
 Categoria: Mundo Bebé
 ID: CATG24894
  https://fazil-app.com/categories?name=MundoBebé&id=CATG24894&landingtonewPLP=true&defaultSelectParentId=CATG24705&defaultSortBy=Recomendados
@@ -5741,9 +5717,6 @@ ID: CATG24951
  https://www.tottus.com/categories?name=EspecialBellezaLoreal&id=CATG24951&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
-Categoria: Especial Licores
-ID: CATG25051
- https://www.tottus.com/categories?name=EspecialLicores&id=CATG25051&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 Categoria: Magdalenas
@@ -5763,9 +5736,6 @@ Categoria: Helados Super Quincena APP
 ID: CATG25054
  https://www.tottus.com/categories?name=HeladosSuperQuincenaAPP&id=CATG25054&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
-Categoria: Suerox
-ID: CATG24950
- https://www.tottus.com/categories?name=Suerox&id=CATG24950&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 Categoria: Vinos 
@@ -5893,12 +5863,8 @@ ID: CATG10197
 
 
 Categoria: Mega Ahorro
-
 ID: CATG24705
- https://fazil-app.com/categories?name=MegaAhorro&id=CATG24705&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
-
-
-
+ https://www.tottus.com/categories?name=MegaAhorro&id=CATG24705&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
 Categoria: Especial Navidad
@@ -5913,6 +5879,30 @@ https://fazil-app.com/categories?name=La Navidad es Ahora&id=CATG24705&landingto
 Categoria: Especial Navidad
 ID: CATG24959
  https://api.test.tottus.cl/categories?name=La Navidad es Ahora&id=CATG24959&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Cuidado de la Ropa
+ID: CATG24887
+ https://www.tottus.com/categories?name=CuidadodelaRopa&id=CATG24887&landingtonewPLP=true&defaultSelectParentId=CATG24886&defaultSortBy=Recomendados
+
+
+
+Categoria: Suerox
+ID: CATG24950
+ https://www.tottus.com/categories?name=Suerox&id=CATG24950&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Especial Licores
+ID: CATG25051
+ https://www.tottus.com/categories?name=EspecialLicores&id=CATG25051&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Maggi
+ID: CATG24875
+ https://www.tottus.com/categories?name=Maggi&id=CATG24875&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Espumantes
+ID: CATG20176
+ https://www.tottus.com/categories?name=Espumantes&id=CATG20176&landingtonewPLP=true&defaultSelectParentId=CATG20161&defaultSortBy=Recomendados
 
 
 
