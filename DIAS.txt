@@ -574,3 +574,12 @@ IMG PLP
 
 
 
+cl__home_tottus_app_agosto_2023_s31_cintillo_01_miercoles_carnes_vacuno
+    IMG
+        https://images.ctfassets.net/efpn4u8cnuye/38q454uIulYg1hFfCor3xG/148e5a451dcca8b3a8d35ac932bdf17b/dias-d-08.jpg
+
+cl__home_tottus_app_agosto_2023_s31_cintillo_02_jueves_frutas_verduras
+    IMG 
+        https://images.ctfassets.net/efpn4u8cnuye/4hk87v2PVCo9bPasy3LvzG/c55431f6b3527eb2abecc84fd991da7c/HUINCHA-D___AS-D-30-06.png
+
+

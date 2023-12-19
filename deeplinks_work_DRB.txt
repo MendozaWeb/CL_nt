@@ -4171,10 +4171,6 @@ ID: CATG23086
  https://fazil-app.com/categories?name=LavadoyMantencion&id=CATG23086&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
 
 
-Categoria: Choclo Congelado
-ID: CATG20121
- https://www.tottus.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
-
  
 
  
@@ -4316,9 +4312,7 @@ ID: CATG24384
  https://fazil-app.com/categories?name=Carnes&id=CATG24384&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
 
 
-Categoria: Detergentes Líquidos
-ID: CATG20305
- https://fazil-app.com/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
 
 Categoria: Líquidos
 ID: CATG23088
@@ -5903,6 +5897,18 @@ ID: CATG24875
 Categoria: Espumantes
 ID: CATG20176
  https://www.tottus.com/categories?name=Espumantes&id=CATG20176&landingtonewPLP=true&defaultSelectParentId=CATG20161&defaultSortBy=Recomendados
+
+
+
+Categoria: Detergentes Líquidos
+ID: CATG20305
+ https://www.tottus.com/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+
+Categoria: Choclo Congelado
+ID: CATG20121
+ https://www.tottus.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
 
 
 
