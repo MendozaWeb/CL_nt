@@ -3685,19 +3685,9 @@ ID: CATG24070
  https://fazil-app.com/categories?name=Cervezas&id=CATG24070&landingtonewPLP=true&defaultSelectParentId=CATG24053&defaultSortBy=Recomendados
 
 
-
-
-
-
-
 Categoria: Hasta $7.990
 ID: CATG24310
  https://fazil-app.com/categories?name=Hasta$7990&id=CATG24310&landingtonewPLP=true&defaultSelectParentId=CATG24308&defaultSortBy=Recomendados
-
-
-
-
-
 
 Categoria: Loreal
 ID: CATG24342
@@ -3710,7 +3700,7 @@ ID: CATG20420
 
 Categoria: Muñecas, Peluches y Accesorios
 ID: CATG20419
- https://fazil-app.com/categories?name=MuñecasPeluchesyAccesorios&id=CATG20419&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=MuñecasPeluchesyAccesorios&id=CATG20419&landingtonewPLP=true&defaultSelectParentId=CATG15504&defaultSortBy=Recomendados
 
 
 Categoria: Juegos de Mesa y Puzzles
@@ -3721,9 +3711,6 @@ ID: CATG20422
 Categoria:  Especial Juguetería
 ID: CATG15504
  https://www.tottus.com/categories?name=EspecialJuguetería&id=CATG15504&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
-
-
-
 
 
 Categoria: Super Fazil
@@ -3829,7 +3816,7 @@ ID: CATG20162
 
 Categoria: Vino Tinto
 ID: CATG20174
- https://fazil-app.com/categories?name=VinoTinto&id=CATG20174&landingtonewPLP=true&defaultSelectParentId=CATG20161&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=VinoTinto&id=CATG20174&landingtonewPLP=true&defaultSelectParentId=CATG20161&defaultSortBy=Recomendados
 
 
  
@@ -5909,6 +5896,17 @@ Categoria: Choclo Congelado
 ID: CATG20121
  https://www.tottus.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
 
+Categoria: APP FA
+ID: CATG25130
+ https://www.tottus.com/categories?name=APPFA&id=CATG25130&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
+
+Categoria: Platos Listos
+ID: CATG24095
+ https://www.tottus.com/categories?name=PlatosListos&id=CATG24095&landingtonewPLP=true&defaultSelectParentId=CATG15492&defaultSortBy=Recomendados
+
+
+
+https://api.test.tottus.cl/categories?name=La Navidad es Ahora&id=CATG24959&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
