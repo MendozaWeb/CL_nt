@@ -1,6 +1,6 @@
 |TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=3MarwGzmUPktGiy5A4QjZ3
 
-TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=5IqqLYFa2jINmN8HJRxquZ
+Tómate este finde DL: https://www.tottus.com/vendor?contentfulid=5IqqLYFa2jINmN8HJRxquZ
 
 
 
@@ -3601,9 +3601,6 @@ ID: CATG24336
  https://fazil-app.com/categories?name=CoreMMPP&id=CATG24336&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
-
-
-
 Antes
 https://api.test.tottus.cl/categories?name=Abarrotes&id=CATG24317&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
@@ -3611,7 +3608,7 @@ https://api.test.tottus.cl/categories?name=Abarrotes&id=CATG24317&landingtonewPL
 
 Category name: Pastas y Salsas
 ID: CATG20186
- https://fazil-app.com/categories?name=PastasySalsas&id=CATG20186&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=PastasySalsas&id=CATG20186&landingtonewPLP=true&defaultSelectParentId=CATG15476&defaultSortBy=Recomendados
 
 
 
@@ -4897,7 +4894,7 @@ https://api.test.tottus.cl/categories?name=VerdurasCongeladas&id=CATG20141&landi
 
 Categoria: Lasagnas y Pastas
 ID: CATG20141
- https://api.test.tottus.cl/categories?name=LasagnasyPastas&id=CATG20141&landingtonewPLP=true&defaultSelectParentId=CATG20117&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=LasagnasyPastas&id=CATG20141&landingtonewPLP=true&defaultSelectParentId=CATG20117&defaultSortBy=Recomendados
 
 
 Categoria: Helados de Leche o Cremosos
@@ -5897,7 +5894,7 @@ ID: CATG20121
  https://www.tottus.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
 
 Categoria: APP FA
-ID: CATG25130
+ID: CATG25130z
  https://www.tottus.com/categories?name=APPFA&id=CATG25130&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
@@ -5908,5 +5905,24 @@ ID: CATG24095
 
 
 https://api.test.tottus.cl/categories?name=La Navidad es Ahora&id=CATG24959&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Reserve
+ID: CATG25131
+ https://www.tottus.com/categories?name=Reserve&id=CATG25131&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Navidad MMPP
+ID: CATG25132
+ https://www.tottus.com/categories?name=NavidadMMPP&id=CATG25132&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+https://api.test.tottus.cl/categories?name=Frutas&id=CATG10206&landingtonewPLP=true&defaultSelectParentId=CATG20034&defaultSortBy=Recomendados
+
+
+IMG
+    https://images.ctfassets.net/efpn4u8cnuye/6dwj32ulAsDzakrHgxUGoQ/472f6afca191ffc67f37af029f003c13/cerveza.jpg
+
+DL
+    https://www.tottus.comcategories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados<
 
 
