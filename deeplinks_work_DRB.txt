@@ -2,10 +2,10 @@
 
 Tómate este finde DL: https://www.tottus.com/vendor?contentfulid=5IqqLYFa2jINmN8HJRxquZ
 
-
+Navidad DL: https://www.tottus.com/vendor?contentfulid=3fZKJnhuUvvgoKk9j9tgVM
 
 ==============CAT ACCESO RAPIDO==================
-
+<
 Carnes (CATG15488)
 /
 Vacuno (CATG20258)
@@ -1258,44 +1258,14 @@ Lácteos y Quesos (CATG15480)
 /
  (CATG19934)
 
-
-
-
-
-
-
-
-
 Category name: Queso Chanco 
 ID: CATG19963 
 DL: https://fazil-app.com/categories?name=QuesoChanco&id=CATG19963&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Category name: Cervezas 
 ID: CATG20162 
 DL: https://fazil-app.com/categories?name=Cervezas&id=CATG20162&landingtonewPLP=true&defaultSelectParentId=CATG15506&defaultSortBy=Recomendados
-
-
-
-
 
 
 0011-0814-0243444700-15
@@ -2708,10 +2678,6 @@ https://api.test.tottus.cl/categories?name=DiadeLácteosyCongelados&id=CATG23967
 Category name: Lavalozas
 ID: CATG21791
  https://fazil-app.com/categories?name=Lavalozas&id=CATG21791&landingtonewPLP=true&defaultSelectParentId=CATG21741&defaultSortBy=Recomendados
-
-Category name: Suavizantes
-ID: CATG20307
- https://fazil-app.com/categories?name=Suavizantes&id=CATG20307&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
 
 
 
@@ -4566,13 +4532,6 @@ ID: CATG20435
 
 
 
-
-
-
-
-
-
-
 Categoria: Bombillines
 ID: CATG24509
  https://fazil-app.com/categories?name=Bombillines&id=CATG24509&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
@@ -4582,14 +4541,11 @@ Categoria: Tresmontes Lucchetti
 ID: CATG24455
  https://fazil-app.com/categories?name=TresmontesLucchetti&id=CATG24455&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
-
-
-
-
-
 Categoria: Carbon
 ID: CATG20169
-  https://fazil-app.com/categories?name=Carbon&id=CATG20169&landingtonewPLP=true&defaultSelectParentId=CATG20158&defaultSortBy=Recomendados
+  https://www.tottus.com/categories?name=Carbon&id=CATG20169&landingtonewPLP=true&defaultSelectParentId=CATG20158&defaultSortBy=Recomendados
+
+
 
 Category name: Pan Precocido 
 ID: CATG23966 
@@ -4597,11 +4553,6 @@ DL: https://fazil-app.com/categories?name=PanPrecocido&id=CATG23966&landingtonew
 
 CERV STE ART SIX PACK LATA 4.8G GL354 CC	
 DL: https://fazil-app.com/productdesc?productkey=110613687
-
-
-
-
-
 
 Categoria: DG  Omo Quix Cif y Comfort
 ID: CATG24241
@@ -4613,10 +4564,6 @@ ID: CATG24241
 Categoria: Club Social Oreo Milka
 ID: CATG24459
  https://fazil-app.com/categories?name=ClubSocialOreoMilka&id=CATG24459&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
-
-
-
-
 
 
 
@@ -4814,10 +4761,6 @@ Categoria: Quesos
 ID: CATG19934
  https://fazil-app.com/categories?name=Quesos&id=CATG19934&landingtonewPLP=true&defaultSelectParentId=CATG15480&defaultSortBy=Recomendados
 
-Categoria: Panales Infantiles
-ID: CATG20395
- https://fazil-app.com/categories?name=PanalesInfantiles&id=CATG20395&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
-
 
 Categoria: Cuidado Capilar 
 ID: CATG20339 
@@ -4989,11 +4932,6 @@ ID: CATG15093
  https://fazil-app.com/categories?name=TottusExpressTOTTUSAPP&id=CATG15093&&defaultSortBy=Recomendados
 
 
-
- 
-Categoria: Queso Chanco
-ID: CATG19963
- https://fazil-app.com/categories?name=QuesoChanco&id=CATG19963&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
 
@@ -5809,8 +5747,6 @@ ID: CATG25044
  https://www.tottus.com/categories?name=HeladosSavory&id=CATG25044&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
-
-
 Categoria: Chorizos Longanizas y Longanicillas
 ID: CATG24173
  https://www.tottus.com/categories?name=ChorizosLonganizasyLonganicillas&id=CATG24173&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
@@ -5924,5 +5860,37 @@ IMG
 
 DL
     https://www.tottus.comcategories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados<
+
+
+Categoria: Galletas y Chocolates
+ID: CATG25147
+ https://www.tottus.com/categories?name=GalletasyChocolates&id=CATG25147&landingtonewPLP=true&defaultSelectParentId=CATG25144&defaultSortBy=Recomendados
+
+
+
+Categoria: Raff
+ID: CATG25046
+ https://www.tottus.com/categories?name=Raff&id=CATG25046&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Suavizantes
+ID: CATG20307
+ https://www.tottus.com/categories?name=Suavizantes&id=CATG20307&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+
+Categoria: Panales Infantiles
+ID: CATG20395
+ https://www.tottus.com/categories?name=PanalesInfantiles&id=CATG20395&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
+
+
+Categoria: Helados Enero
+ID: CATG25123
+ https://www.tottus.com/categories?name=HeladosEnero&id=CATG25123&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+ 
+Categoria: Queso Chanco
+ID: CATG19963
+ https://www.tottus.com/categories?name=QuesoChanco&id=CATG19963&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
 
 
