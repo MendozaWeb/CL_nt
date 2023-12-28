@@ -1163,9 +1163,6 @@ DL: https://fazil-app.com/categories?name=Oreo&id=CATG23981&landingtonewPLP=true
 
 
 
-Category name: Queso Mantecoso 
-ID: CATG19962 
-DL: https://www.tottus.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
 Category name: Margarinas 
@@ -1841,9 +1838,6 @@ DL: https://fazil-app.com/categories?name=Electodómesticos&id=CATG24130&landing
 
 
 
-Category name: Aceites 
-ID: CATG20192 
-DL: https://fazil-app.com/categories?name=Aceites&id=CATG20192&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
 
 
 
@@ -2470,14 +2464,6 @@ DL: https://fazil-app.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&
 
 
 
-
-
-
-
-
-Category name: Vienesas 
-ID: CATG18927 
-DL: https://fazil-app.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
 
 
 
@@ -5667,9 +5653,6 @@ Categoria: Cortes Parrilleros de Cerdo
 ID: CATG20277 
  https://www.tottus.com/categories?name=CortesParrillerosdeCerdo&id=CATG20277&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
 
-Categoria: Cervezas
-ID: CATG15479
- https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
  HOME TOTTUS APP DL: https://www.tottus.com/vendor?contentfulid=3QVPzlVzmkFkP4lCXDCt4J
@@ -5718,7 +5701,6 @@ ID: CATG15490
 
 
 https://fazil-app.com/categories?name=Juguetería&id=CATG15504&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
-}
 
 Categoria: Pollos Enteros
 ID: CATG19303
@@ -5883,14 +5865,38 @@ ID: CATG20395
  https://www.tottus.com/categories?name=PanalesInfantiles&id=CATG20395&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
 
 
-Categoria: Helados Enero
-ID: CATG25123
- https://www.tottus.com/categories?name=HeladosEnero&id=CATG25123&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
- 
+
 Categoria: Queso Chanco
 ID: CATG19963
  https://www.tottus.com/categories?name=QuesoChanco&id=CATG19963&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
+Categoria: Aceites 
+ID: CATG20192 
+ https://www.tottus.com/categories?name=Aceites&id=CATG20192&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
 
+Categoria: Salsas de Tomate
+ID: CATG20210
+ https://www.tottus.com/categories?name=SalsasdeTomate&id=CATG20210&landingtonewPLP=true&defaultSelectParentId=CATG20186&defaultSortBy=Recomendados
+
+Categoria: Queso Mantecoso 
+ID: CATG19962 
+ https://www.tottus.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Categoria: Vienesas 
+ID: CATG18927 
+ https://www.tottus.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+
+Categoria: Helados Enero
+ID: CATG25123
+ https://www.tottus.com/categories?name=HeladosEnero&id=CATG25123&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+ 
+Categoria: Cervezas
+ID: CATG15479
+ https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Lácteos Mega Ahorro
+ID: CATG25157
+ https://www.tottus.com/categories?name=LácteosMegaAhorro&id=CATG25157&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
