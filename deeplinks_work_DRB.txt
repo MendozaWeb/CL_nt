@@ -5807,9 +5807,7 @@ ID: CATG20305
  https://www.tottus.com/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
 
 
-Categoria: Choclo Congelado
-ID: CATG20121
- https://www.tottus.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
 
 Categoria: APP FA
 ID: CATG25130z
@@ -5899,4 +5897,21 @@ ID: CATG15479
 Categoria: Lácteos Mega Ahorro
 ID: CATG25157
  https://www.tottus.com/categories?name=LácteosMegaAhorro&id=CATG25157&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+https://api.test.tottus.cl/categories?name=Espumantes&id=CATG15661&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+Categoria: Espumantes 
+ID: CATG15661 
+ https://www.tottus.com/categories?name=Espumantes&id=CATG15661&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+
+Categoria: Choclo Congelado
+ID: CATG20121
+ https://www.tottus.com/categories?name=ChocloCongelado&id=CATG20121&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
+Categoria: Helados Año Nuevo
+ID: CATG25116
+ https://www.tottus.com/categories?name=HeladosAñoNuevo&id=CATG25116&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
 

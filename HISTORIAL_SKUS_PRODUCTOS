@@ -649,6 +649,7 @@ DRB | carouselBannerChileProd - Tottus App - Verduras
 Verduras	
 SKU	Descripción
 20410138	20410138 - CHAMPIÑON BLANCO 200G TOTTUS 110622684	110622685
+20409658	115877251	115877252 SANDIA TOTTUS	
 5014038	05014038 - TOMATE LARGA VIDA 116165192	116165193
 20410133	20410133 - PAPA MALLA 2KG TOTTUS 110624221	110624222
 6900045	06900045 - PAPA (GRANEL) 116165190	116165191
@@ -2884,9 +2885,13 @@ _----------------------------------
 DRB | CL | productCarouselChileProd - Tottus App - AÑO NUEVO APP 26 AL 01 ENE
     https://app.contentful.com/spaces/efpn4u8cnuye/entries/1rSTNQWR80tyiDHN2qT6eU?previousEntries=4zIPs6lyBg7PiHZ71LbeSP&focusedField=recomendedData
 
+ESPUMANTE BRUT 10º GL 750 CC. Undurraga	1016011	CATG25051	110619960	110619961	
 Lomo Liso Impotado Cat-V Vacío	5100225	CATG20268	118705940	118705941
+Pack cerveza Corona larger botella 4.5 24x330cc	20440890 CATG15479 110354284	110354285
+
+
 Elvive Acondicionador RT% 600 ML	20423139	CATG20347	113257742	113257745
-Espumante		CATG25051		
+
 Abarrotes				
 Salchichas Tradicionales San Jorge 20 Un	5700024	CATG18909	110613577	110613579
 Papel	20391924	CATG20300	119622643	119622644
@@ -3066,7 +3071,19 @@ Se agregaron los productos: "
 en el carrusel de productos del *Home Tottus App*.
 
 
+Se ordenaron los productos, 
 
+*ESPUMANTE BRUT 10º GL 750 CC.*,
+*Lomo Liso Impotado Cat-V Vacío* y
+*Pack cerveza Corona larger botella 4.5 24x330cc* ,
 
+en el carrusel de productos del *Home Tottus App*.
+
+---------------- DIRECIONES ----------------
+
+_ 88 Don Pepe / 11
+_ 1440 Avenida apoquindo / 10
+_ La reina / Santiago / 9 / 11
+_ Bio Bio / 9
 
 
