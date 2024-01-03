@@ -471,10 +471,6 @@ DL: https://fazil-app.com/categories?name=Menaje&id=CATG10158&landingtonewPLP=tr
 
 
 
-Category name: Verduras Congeladas 
-ID: CATG20111 
-DL: https://www.tottus.com/categories?name=VerdurasCongeladas&id=CATG20111&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
-
 
 Antes
 https://fazil-app.com/categories?name=Verduras Congeladas&id=CATG20037&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
@@ -5913,5 +5909,27 @@ Categoria: Helados Año Nuevo
 ID: CATG25116
  https://www.tottus.com/categories?name=HeladosAñoNuevo&id=CATG25116&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
+Categoria: Higiene Bucal
+ID: CATG24799
+ https://www.tottus.com/categories?name=HigieneBucal&id=CATG24799&landingtonewPLP=true&defaultSelectParentId=CATG24759&defaultSortBy=Recomendados
 
+
+
+Categoria: Espumantes
+ID: CATG24888
+ https://www.tottus.com/categories?name=Espumantes&id=CATG24888&landingtonewPLP=true&defaultSelectParentId=CATG15094&defaultSortBy=Recomendados
+
+Categoria: Verduras Congeladas 
+ID: CATG20111 
+ https://www.tottus.com/categories?name=VerdurasCongeladas&id=CATG20111&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+Categoria: Raid
+ID: CATG25163
+ https://www.tottus.com/categories?name=Raid&id=CATG25163&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+
+Categoria: Bebidas Regulares
+ID: CATG19051
+ https://www.tottus.com/categories?name=BebidasRegulares&id=CATG19051&landingtonewPLP=true&defaultSelectParentId=CATG19044&defaultSortBy=Recomendados
 
