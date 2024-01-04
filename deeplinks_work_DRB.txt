@@ -5773,9 +5773,7 @@ ID: CATG24959
  https://api.test.tottus.cl/categories?name=La Navidad es Ahora&id=CATG24959&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
-Categoria: Cuidado de la Ropa
-ID: CATG24887
- https://www.tottus.com/categories?name=CuidadodelaRopa&id=CATG24887&landingtonewPLP=true&defaultSelectParentId=CATG24886&defaultSortBy=Recomendados
+
 
 
 
@@ -5923,13 +5921,75 @@ Categoria: Verduras Congeladas
 ID: CATG20111 
  https://www.tottus.com/categories?name=VerdurasCongeladas&id=CATG20111&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
 
-Categoria: Raid
-ID: CATG25163
- https://www.tottus.com/categories?name=Raid&id=CATG25163&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
-
 
 
 Categoria: Bebidas Regulares
 ID: CATG19051
  https://www.tottus.com/categories?name=BebidasRegulares&id=CATG19051&landingtonewPLP=true&defaultSelectParentId=CATG19044&defaultSortBy=Recomendados
+
+Categoria: Coca Cola
+ID: CATG25164
+ https://www.tottus.com/categories?name=CocaCola&id=CATG25164&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Congelados
+ID: CATG24897
+ https://www.tottus.com/categories?name=Congelados&id=CATG24897&landingtonewPLP=true&defaultSelectParentId=CATG24705&defaultSortBy=Recomendados
+
+
+LOMO LISO IMP. CAT-V	
+DL: https://fazil-app.com/productdesc?productkey=118705940
+
+
+https://api.test.tottus.cl/categories?name=CuidadodelaRopa&id=CATG24887&landingtonewPLP=true&defaultSelectParentId=CATG24886&defaultSortBy=Recomendados
+
+
+========== CATEGORIAS ==========
+
+
+Categoria: Raid
+ID: CATG25163
+ https://www.tottus.com/categories?name=Raid&id=CATG25163&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Cervezas
+ID: CATG15479
+ https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Cuidado de la Ropa
+ID: CATG24887
+ https://www.tottus.com/categories?name=CuidadodelaRopa&id=CATG24887&landingtonewPLP=true&defaultSelectParentId=CATG24886&defaultSortBy=Recomendados
+
+Categoria: Bebidas Isotónicas y Energizantes 
+ID: CATG19052 
+ https://www.tottus.com/categories?name=BebidasIsotónicasyEnergizantes&id=CATG19052&landingtonewPLP=true&defaultSelectParentId=CATG19044&defaultSortBy=Recomendados
+
+
+Categoria: Cervezas Premium 
+ID: CATG15679 
+ https://www.tottus.com/categories?name=CervezasPremium&id=CATG15679&landingtonewPLP=true&defaultSelectParentId=CATG15479&defaultSortBy=Recomendados
+
+
+========== SKUs ==========
+
+Raid Insec. Aer Casa y Jardín 420 CC	
+ https://www.tottus.com/productdesc?productkey=110618241
+
+
+Pack Cerveza Lata 12unds 355 cc Budweiser	
+ https://www.tottus.com/productdesc?productkey=110613281
+
+
+Omo detergente líquido para Diluir piel sensible 500 ML	
+ https://www.tottus.com/productdesc?productkey=110610023
+
+
+ISOTONICAS NARANJA ZERO GATORADE 1 LT	
+ https://www.tottus.com/productdesc?productkey=125194560
+
+
+Royal Guard Pack Cerveza Botella 6 UN x 355 CC	
+ https://www.tottus.com/productdesc?productkey=110609633
+
+
+
 
