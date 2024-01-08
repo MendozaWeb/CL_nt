@@ -5991,5 +5991,20 @@ Royal Guard Pack Cerveza Botella 6 UN x 355 CC
  https://www.tottus.com/productdesc?productkey=110609633
 
 
+Categoria: Pepsi
+ID: CATG25165
+ https://www.tottus.com/categories?name=Pepsi&id=CATG25165&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Pollo Asado 
+ID: CATG19057 
+ https://www.tottus.com//categories?name=PolloAsado&id=CATG19057&landingtonewPLP=true&defaultSelectParentId=CATG15492&defaultSortBy=Recomendados
+
+
+SKU
+-------------------------
+ProductId: Combo Pollo Asado Entero más Caja de Papas Fritas Grande
+ID: 116169630
+DL: https://fazil-app.com/productdesc?productkey=116169630 
+
 
 
