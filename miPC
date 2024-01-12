@@ -82,40 +82,74 @@ https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/
 
 
 --------TEST---------
-bebidas OKOK
+BEBIDAS
 https://renderer.falabella.com/preview/asL4073Qg2xDKlhxWg01?version=2
 
-juguetes OKOK
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/bltc97d3e1f38bf5768/edit
+
+
+------------------------------
+JUGUETES
 https://renderer.falabella.com/preview/Gu1AHGsAOVLLzXdiwc4u?version=2
 
-ffvv OKOK
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/blt45c7f734723511a8/edit
+
+
+------------------------------
+FFVV
 https://renderer.falabella.com/preview/8VtNrlPb7kD8iEtXXltJ?version=2
 
-carnes OKOK
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/bltf9051db0adebfb40/edit
+
+
+------------------------------
+CARNES
 https://renderer.falabella.com/preview/7saxDsU22EUDrLmZyys6?version=4
 
-vinos OKOK
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/blt250ae599ca8affa7/edit
+
+
+------------------------------
+VINOS
 https://renderer.falabella.com/preview/1qLC7IMBVDRDKrUSSIws?version=2
 
-cervezas OKOK
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/bltd886eb131480cdb9/edit
+
+
+------------------------------
+CERVEZAS
 https://renderer.falabella.com/preview/ZFpiQMPz9KFpswTSdvLO?version=2
 
-Destacados OKOK
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/blt4b601270c246f604/edit
+
+
+------------------------------
+DESTACADOS
 https://renderer.falabella.com/preview/qmDFeK66dJL26Fdscc3Z?version=2
 
-Index
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/blt950c96874fe85390/edit
+
+
+------------------------------
+INDEX
 https://renderer.falabella.com/preview/EYOhZMQyAgDVCXzUfWhQ?version=2
 
+https://app.contentstack.com/#!/stack/blt72431f7a08fe765a/content-type/richtext/en-us/entry/blt902c7ec4bade9d47/edit
+
+
+
+-------------GITLAP-----------------
+
+Destacados-cl
+https://www.tottus.com/cl/destacados
+
+Index-cl
+https://www.tottus.com/cl
+
+
+
 
 =============
-index-cl
-	https://www.tottus.com/cl
-
-Destacado-cl
-	https://www.tottus.com/cl/destacados
-
-=============
-
 Working contry
 ==========================
 
@@ -127,12 +161,27 @@ cruise
 AirTable
 DataBrickt
 	
-
----------------- DIRECIONES ----------------
-
+==========================
 _ 88 Don Pepe / 11
 _ 1440 Avenida apoquindo / 10
 _ La reina / Santiago / 9 / 11
 _ Bio Bio / 9
 _ 1918 Lo Beltrán
+
+
+==========================
+PLP --> Es la url de una categoria
+
+Categoria: Helados Año Nuevo
+ID: CATG25116
+ https://www.tottus.com/categories?name=HeladosAñoNuevo&id=CATG25116&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+PDP --> Es de un producto sku
+
+Producto: PANAL HUGGIES ACTIVE SEC XXG 52 UN
+ID: 110619646
+ https://www.tottus.com/productdesc?productkey=110619646
+
+
 

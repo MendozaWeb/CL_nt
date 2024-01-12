@@ -682,7 +682,7 @@ DL: https://fazil-app.com/categories?name=PlatosListos&id=CATG19056&landingtonew
 
 Categoria: Pollo 
 ID: CATG20260 
- https://fazil-app.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+ https://api.test.tottus.cl/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
 
 
 Category name: Cerdo 
@@ -1472,7 +1472,7 @@ https://api.test.tottus.cl/categories?name=Vacuno&id=CATG20258&landingtonewPLP=t
 
 Category name: Trutos de Pollo 
 ID: CATG20279 
-DL: https://fazil-app.com/categories?name=TrutosdePollo&id=CATG20279&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+DL: https://api.test.tottus.cl/categories?name=TrutosdePollo&id=CATG20279&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
 
 
 
@@ -3991,9 +3991,7 @@ Categoria: Cerdo
 ID: CATG20259 
  https://fazil-app.com/categories?name=Cerdo&id=CATG20259&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
 
-Categoria name: Pollo 
-ID: CATG20260 
- https://www.tottus.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
 
 Categoria name: Hamburguesas
 ID: CATG20263 
@@ -4982,9 +4980,7 @@ ampiñón Blanco
 https://api.test.tottus.cl/categories?name=Verduras+para+Parrillar&id=CATG20036&landingtonewPLP=true&defaultSelectParentId=CATG15478&defaultSortBy=Recomendados
 
 
- Categoria: Detergente y Cuidado para la ropa 
-ID: CATG20294 
- https://api.test.tottus.cl/categories?name=DetergenteyCuidadoparalaropa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
 
 
 Categoria: Perfumería
@@ -5824,9 +5820,6 @@ ID: CATG20307
  https://www.tottus.com/categories?name=Suavizantes&id=CATG20307&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
 
 
-Categoria: Panales Infantiles
-ID: CATG20395
- https://www.tottus.com/categories?name=PanalesInfantiles&id=CATG20395&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
 
 
 
@@ -6030,6 +6023,36 @@ ID: CATG10197
 Categoria: Sx48 Viernes
 ID: CATG24377
  https://www.tottus.com/categories?name=Sx48Viernes&id=CATG24377&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+ 
+
+Categoria: Panales Infantiles
+ID: CATG20395
+ https://www.tottus.com/categories?name=PanalesInfantiles&id=CATG20395&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
+
+Categoria: Soprole
+ID: CATG25174
+ https://www.tottus.com/categories?name=Soprole&id=CATG25174&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+ Categoria: Detergente y Cuidado para la ropa 
+ID: CATG20294 
+ https://www.tottus.com/categories?name=DetergenteyCuidadoparalaropa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+Categoria name: Pollo 
+ID: CATG20260 
+ https://www.tottus.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
 
 
 
