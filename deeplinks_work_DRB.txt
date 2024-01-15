@@ -5624,9 +5624,7 @@ ID: CATG20277
 https://www.tottus.com/categories?name=Mantequillas&id=CATG19957&landingtonewPLP=true&defaultSelectParentId=CATG19933&defaultSortBy=Recomendados
 
 
-Categoria: Papeles Higiénicos 
-ID: CATG20300 
- https://www.tottus.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
+
 
 Categoria: Queques, Brazos de Reina y Magdalenas
 ID: CATG18741
@@ -5801,7 +5799,7 @@ IMG
     https://images.ctfassets.net/efpn4u8cnuye/6dwj32ulAsDzakrHgxUGoQ/472f6afca191ffc67f37af029f003c13/cerveza.jpg
 
 DL
-    https://www.tottus.comcategories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados<
+    https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
 Categoria: Galletas y Chocolates
@@ -5940,7 +5938,7 @@ Raid Insec. Aer Casa y Jardín 420 CC
  https://www.tottus.com/productdesc?productkey=110618241
 
 
-Pack Cerveza Lata 12unds 355 cc Budweiser	
+Pack Lata 12unds 355 cc Budweiser	
  https://www.tottus.com/productdesc?productkey=110613281
 
 
@@ -6024,11 +6022,7 @@ Categoria: Sx48 Viernes
 ID: CATG24377
  https://www.tottus.com/categories?name=Sx48Viernes&id=CATG24377&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
-
-
-
  
-
 Categoria: Panales Infantiles
 ID: CATG20395
  https://www.tottus.com/categories?name=PanalesInfantiles&id=CATG20395&landingtonewPLP=true&defaultSelectParentId=CATG20390&defaultSortBy=Recomendados
@@ -6045,16 +6039,27 @@ Categoria name: Pollo
 ID: CATG20260 
  https://www.tottus.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
 
+Categoria: Papeles Higiénicos 
+ID: CATG20300 
+ https://www.tottus.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
 
 
+CATG15679	Cervezas Premium
+
+Categoria: Panadería y Pastelería
+ID: CATG24757
+ https://www.tottus.com/categories?name=PanaderíayPastelería&id=CATG24757&landingtonewPLP=true&defaultSelectParentId=CATG24750&defaultSortBy=Recomendados
+
+Categoria: Promociones Super Cerdo APP
+ID: CATG25177
+ https://www.tottus.com/categories?name=PromocionesSuperCerdoAPP&id=CATG25177&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Yoghurt
+ID: CATG24777
+ https://www.tottus.com/categories?name=Yoghurt&id=CATG24777&landingtonewPLP=true&defaultSelectParentId=CATG24754&defaultSortBy=Recomendados
+
+Categoria: Bebidas
+ID: CATG24767
+ https://www.tottus.com/categories?name=Bebidas&id=CATG24767&landingtonewPLP=true&defaultSelectParentId=CATG24752&defaultSortBy=Recomendados
 
 
-
-
-
-
-
-
-
-
- 
