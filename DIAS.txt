@@ -257,19 +257,13 @@ MARTES	Días de lácteos	CATG23967
 
 
 
-Categoria: Frutas y Verduras	
-ID: CATG15478
-     https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
-
 
 Categoria: Día de Lácteos y Congelados 
 ID: CATG23967 
  https://fazil-app.com/categories?name=DiadeLacteosyCongelados&id=CATG19932&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
-Categoria: Día del Pollo
-ID: CATG24238
- https://fazil-app.com/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG24237&defaultSortBy=Recomendados
+
 
 
 Categoria: Carnes 
@@ -581,5 +575,130 @@ cl__home_tottus_app_agosto_2023_s31_cintillo_01_miercoles_carnes_vacuno
 cl__home_tottus_app_agosto_2023_s31_cintillo_02_jueves_frutas_verduras
     IMG 
         https://images.ctfassets.net/efpn4u8cnuye/4hk87v2PVCo9bPasy3LvzG/c55431f6b3527eb2abecc84fd991da7c/HUINCHA-D___AS-D-30-06.png
+
+
+
+============== 2024 ==============
+
+Lunes Marcas Tottus CATG15501
+
+Categoria: Marcas Tottus
+ID: CATG15501
+ https://www.tottus.com/categories?name=MarcasTottus&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+Martes Pollo CATG24238
+
+Categoria: Día del Pollo
+ID: CATG24238
+ https://www.tottus.com/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+Miércoles Carnes CATG15488
+
+Categoria: Carnes 
+ID: CATG15488 
+ https://www.tottus.com/categories?name=Carnes&id=CATG15488&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+ 
+
+
+Jueves FFVV CATG15478
+
+Categoria: Frutas y Verduras	
+ID: CATG15478
+     https://www.tottus.com/categories?name=FrutasyVerduras&id=CATG15478&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+Viernes Detergente CATG24354
+
+Categoria: Día de Detergentes
+ID: CATG24354
+ https://www.tottus.com/categories?name=DíadeDetergentes&id=CATG24354&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+https://www.tottus.com/categories?name=Marcas Destacadas&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+================== DIAS D CMR =====================
+
+Img_CL_tottus_s15_banner_carousel_viernes_enero_2024
+https://images.ctfassets.net/efpn4u8cnuye/l1IA9LxNE3gnTQZeY52Sq/65b13b698ed72f29aace79dc73ded987/carrusel-viernes.png
+
+Img_CL_tottus_s15_banner_carousel_jueves_enero_2024
+https://images.ctfassets.net/efpn4u8cnuye/6QzsOO95CTEZ99WYxZurNP/636dad78e46e5c0791e51ce7e462b174/carrusel-jueves.png
+
+Img_CL_tottus_s15_banner_carousel_miércoles_enero_2024
+https://images.ctfassets.net/efpn4u8cnuye/J8oegy1JTT2h10hxm68iz/2347d723df39f859b1f58a5b5dc09ce8/carrusel-mie_rcoles.png
+
+Img_CL_tottus_s15_banner_carousel_miércoles_enero_2024
+https://images.ctfassets.net/efpn4u8cnuye/74fPGkFtKUqnRNTGraAZ4L/583d58930c254deb15051c3fb40393e6/carrusel-martes.png
+
+Img_CL_tottus_s15_banner_carousel_miércoles_enero_2024
+https://images.ctfassets.net/efpn4u8cnuye/6WhzOIFYzeVbOm9jE4C3OI/1b513d270b3a259e460a25ca107c360b/carrusel-lunes.png
+
+
+
+================== BANNERLG =====================
+
+
+Img__Cl_tottusApp_s03_banner_DD_viernes_Detergentes_ene_2024
+https://images.ctfassets.net/efpn4u8cnuye/13KrPaKfQ8O4Iayr7mWIKt/1b32ee32eed057f21ef3ec98c029e207/IMG_4925.jpg
+
+Img__Cl_tottusApp_s03_cintillo_DD_jueves_ffvv_ene_2024
+https://images.ctfassets.net/efpn4u8cnuye/4Z5RgSETIVvHcgtV10yoS6/54e186ef73f3f4937ff040d14b5b48e7/cintillo-jueves.png
+
+Img__Cl_tottusApp_s03_cintillo_DD_miercoles_Carnes_ene_2024
+https://images.ctfassets.net/efpn4u8cnuye/jdyADtjNtoto9zhmm57Gh/1ffc13ce58aafb1e8a48c11d7cbb971c/cintillo-miercoles.png
+
+Img__Cl_tottusApp_s03_cintillo_DD_martes_Pollos_ene_2024
+https://images.ctfassets.net/efpn4u8cnuye/6wPSfavf4iU24rcADyaIen/edd05ee95ee5633962ca2125794b169b/cintillo-martes.png
+
+
+Img__Cl_tottusApp_s03_cintillo_DD_lunes_enTodoTottus_ene_2024
+https://images.ctfassets.net/efpn4u8cnuye/6setimqFuYC70pQq2SFgEM/c35b523c223d26ccfa374df9d4039cd1/cintillo-lunes.png
+
+
+cl__home_tottus_app_enero_2024_s03_cintillo_02_martes_pollos
+
+cl__home_tottus_app_enero_2024_s03_cintillo_03_miercoles_carnes_vacuno
+
+cl__home_tottus_app_enero_2024_s03_cintillo_04_Jueves_frutas_verduras
+
+
+================== URL PARA WEB DE DIAS =====================
+
+para destacados-cl (tottus.com) y detacados (fcom)
+
+Lunes Marcas Tottus CATG15501: https://www.tottus.com/link/4DdU
+Martes Pollo CATG24238: https://www.tottus.com/link/Gsda
+Miércoles Carnes CATG15488: https://www.tottus.com/link/jP64
+Jueves FFVV CATG15478: https://www.tottus.com/link/2XRq
+Viernes Detergente CATG24354: https://www.tottus.com/link/b9oE
+
+
+
+
+cl__home_enero_2024_s3_boton_01_lunes_marcas_tottus
+
+cl__home_enero_2024_s3_boton_02_martes_pollos
+
+cl__home_enero_2024_s3_boton_03_miercoles_carnes_vacuno
+
+cl__home_enero_2024_s3_boton_04_Jueves_frutas_verduras
+
+cl__home_enero_2024_s3_boton_05_viernes_detergente
+
+
+
+https://www.tottus.com/categories?name=Marcas Tottus&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+https://www.tottus.com/categories?name=Marcas Tottus&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
 
 
