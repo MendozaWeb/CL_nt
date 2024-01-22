@@ -73,3 +73,168 @@ Aire Libre: https://admin.fazil.services/application/catalog/taxonomy/categories
 
 
 
+------------------------------------------------------------
+
+Categoria: Marcas Tottus 
+ID: CATG15501 
+https://www.tottus.com/categories?name=MarcasTottus&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Despensa
+ID: CATG15476
+ https://www.tottus.com/categories?name=Despensa&id=CATG15476&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Desayuno y Dulces
+ID: CATG15477
+ https://www.tottus.com/categories?name=DesayunoyDulces&id=CATG15477&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Bebidas, Aguas y Jugos 
+ID: CATG15482 
+ https://www.tottus.com/categories?name=BebidasAguasyJugos&id=CATG15482&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+ Categoria: Platos Preparados
+ID: CATG15492 
+ https://www.tottus.com/categories?nname=PlatosPreparados&id=CATG15492&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+ Categoria: Cocktail y Snack
+ID: CATG15503 
+https://www.tottus.com/categories?name=CocktailySnack&id=CATG15503&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Vinos y Licores 
+ID: CATG15094 
+ https://www.tottus.com/categories?name=Vinos+y+Licores&id=CATG15094&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Cervezas
+ID: CATG15479
+ https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Aseo y Limpieza 
+ID: CATG15484 
+ https://www.tottus.com/categories?name=AseoyLimpieza&id=CATG15484&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Mundo Hogar
+ID: CATG15495
+ https://www.tottus.com/categories?name=MundoHogar&id=CATG15495&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Category name: Cuidado Personal	
+ID: CATG15485
+ https://www.tottus.com/categories?name=CuidadoPersonal&id=CATG15485&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Belleza
+ID: CATG15502
+ https://www.tottus.com/categories?name=Belleza&id=CATG15502&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Electro 
+ID: CATG15494 
+ https://www.tottus.com/categories?name=Electro&id=CATG15494&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Mundo Bebe
+ID: CATG15489
+ https://www.tottus.com/categories?name=MundoBebe&id=CATG15489&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Mascotas
+ID: CATG15487
+ https://www.tottus.com/categories?name=Mascotas&id=CATG15487&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Alimentos Saludables
+ID: CATG15493
+ https://www.tottus.com/categories?name=AlimentosSaludables&id=CATG15493&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Pescados y Mariscos
+ID: CATG15490
+ https://www.tottus.com/categories?name=PescadosyMariscos&id=CATG15490&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Escolares
+ID: CATG15497
+ https://www.tottus.com/categories?name=Escolares&id=CATG15497&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria:  Especial Juguetería
+ID: CATG15504
+ https://www.tottus.com/categories?name=EspecialJuguetería&id=CATG15504&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Auto y Ferretería
+ID: CATG15499
+ https://www.tottus.com/categories?name=AutoyFerretería&id=CATG15499&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Deportes
+ID: CATG15496
+ https://www.tottus.com/categories?name=Deportes&id=CATG15496&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Celebraciones
+ID: CATG15498
+ https://www.tottus.com/categories?name=Celebraciones&id=CATG15498&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Sabores del Mundo
+ID: CATG15505
+ https://www.tottus.com/categories?name=SaboresdelMundo&id=CATG15505&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Aire Libre
+ID: CATG15500
+ https://www.tottus.com/categories?name=AireLibre&id=CATG15500&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+-------------------- DLs de destacadas de conteStack --------------------
+
+Categoria: Marcas Tottus 
+ID: CATG15501 
+https://www.tottus.com/categories?name=MarcasTottus&id=CATG15501&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Despensa
+ID: CATG15476
+ https://www.tottus.com/categories?name=Despensa&id=CATG15476&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Carnes
+https://www.tottus.com/vendor?contentfulid=2StiQTAiPqvtgHUgAc04bz
+
+
+Categoria: Verduras frutas
+https://www.tottus.com/vendor?contentfulid=6JPa8u3U6xTieOuEorgpS9
+
+
+Categoria: Platos Preparados 
+https://www.tottus.com/vendor?contentfulid=2hqjAj9D7aDz8K2lhS8Ven
+
+
+Categoria: Pastelería 
+https://www.tottus.com/vendor?contentfulid=4GmWYsqrPcZOxutsnllTG8
+
+
+Categoria: Desayuno y Dulces
+ID: CATG15477
+ https://www.tottus.com/categories?name=DesayunoyDulces&id=CATG15477&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Cervezas
+ID: CATG15479
+ https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+Categoria: Mundo parrillero  
+https://www.tottus.com/vendor?contentfulid=1UCxDFY1fKKlCn4lMnLVUX
+
+
+Categoria: Congelados 
+https://www.tottus.com/vendor?contentfulid=1Dgjr8CUg7UrkjdN145mCc
+
+
+Categoria: Lácteos frescos y fiambres
+https://www.tottus.com/vendor?contentfulid=73DdvvLw5J1Su1mNioO2re
+
+
+Categoria: Huevos y Fiambres
+https://www.tottus.com/vendor?contentfulid=2QOW2B6krPHnevZ3TWuzwn
+
+
+Categoria: Vinos y Licores 
+ID: CATG15094 
+ https://www.tottus.com/categories?name=Vinos+y+Licores&id=CATG15094&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+Categoria: Panadería 
+https://www.tottus.com/vendor?contentfulid=4iUpsZbnNcfs7Axt5DEefr
+
+
+
