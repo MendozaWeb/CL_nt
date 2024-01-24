@@ -748,9 +748,9 @@ DL: https://fazil-app.com/categories?name=Lacteos&id=CATG10169&landingtonewPLP=t
 
 
 
-Category name: Conservas de Pescado 
+Categoria: Conservas de Pescado 
 ID: CATG20196 
-DL: https://fazil-app.com/categories?name=ConservasdePescado&id=CATG20196&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=ConservasdePescado&id=CATG20196&landingtonewPLP=true&defaultSelectParentId=CATG20184&defaultSortBy=Recomendados
 
 
 
@@ -1743,9 +1743,6 @@ DL: https://fazil-app.com/categories?name=FrutasyVerduras&id=CATG24057&landingto
 
 
 
-Category name: Queso Mantecoso 
-ID: CATG19962 
-DL: https://www.tottus.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 Category name: Pizzas y Pizzetas 
 ID: CATG20116 
@@ -2950,10 +2947,6 @@ https://api.test.tottus.cl/categories?name=Desayuno y Dulces&id=CATG15477&landin
 
 
 
-Categoria: Mantequillas
-ID: CATG19957
- https://www.tottus.com/categories?name=Mantequillas&id=CATG19957&landingtonewPLP=true&defaultSelectParentId=CATG19933&defaultSortBy=Recomendados
-
 
 Categoria: Leches Individuales
 ID: CATG19947
@@ -3480,10 +3473,6 @@ Categoria: Chuletas de Cerdo
 ID: CATG20275 
 DL: https://fazil-app.com/categories?name=ChuletasdeCerdo&id=CATG20275&landingtonewPLP=true&defaultSelectParentId=CATG20259&defaultSortBy=Recomendados
 
-
-Categoria: Manzanas y Peras
-ID: CATG20052
- https://www.tottus.com/categories?name=ManzanasyPeras&id=CATG20052&landingtonewPLP=true&defaultSelectParentId=CATG20034&defaultSortBy=Recomendados
 
 
 Categoria: Suavizantes 
@@ -4073,15 +4062,7 @@ ID: CATG10215
 
 
 
-Categoria: Líquidos
-ID: CATG24318
- https://www.tottus.com/categories?name=Líquidos&id=CATG24318&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
-
-
-Categoria: Abarrotes
-ID: CATG24317
- https://www.tottus.com/categories?name=Abarrotes&id=CATG24317&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
 Categoria: Frutas y Verduras
 ID: CATG24322
@@ -4636,9 +4617,6 @@ Categoria: Carnes
 ID: CATG24384
  https://api.test.tottus.cl/categories?name=Categoría Destacada&id=CATG24384&landingtonewPLP=true&defaultSelectParentId=CATG23079&defaultSortBy=Recomendados
 
-Categoria: Vienesas 
-ID: CATG18927 
- https://www.tottus.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
 
 
 
@@ -4969,13 +4947,8 @@ ID: CATG24383
 
 
 
-Categoria: Pasteles
-ID: CATG18743
- https://www.tottus.com/categories?name=Pasteles&id=CATG18743&landingtonewPLP=true&defaultSelectParentId=CATG18734&defaultSortBy=Recomendados
 
-Categoria: Frutas Congeladas 
-ID: CATG20112 
- https://www.tottus.com/categories?name=FrutasCongeladas&id=CATG20112&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
 
 
 Categoria: MASTER DOG 
@@ -5437,9 +5410,6 @@ Categoria: Vinos y Licores
 ID: CATG21730
  https://www.tottus.com/categories?name=VinosyLicores&id=CATG21730&landingtonewPLP=true&defaultSelectParentId=CATG15501&defaultSortBy=Recomendados
 
-Categoria: Helados
-ID: CATG20118
- https://www.tottus.com/categories?name=Helados&id=CATG20118&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
 
 
 
@@ -5858,9 +5828,6 @@ Categoria: Raid
 ID: CATG25163
  https://www.tottus.com/categories?name=Raid&id=CATG25163&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
-Categoria: Cervezas
-ID: CATG15479
- https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 Categoria: Cuidado de la Ropa
 ID: CATG24887
@@ -5939,10 +5906,6 @@ Categoria: Jugos Líquidos
 ID: CATG24768
  https://www.tottus.com/categories?name=JugosLíquidos&id=CATG24768&landingtonewPLP=true&defaultSelectParentId=CATG24752&defaultSortBy=Recomendados
 
-
-Categoria: Papeles Higiénicos 
-ID: CATG20300 
- https://www.tottus.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
 
 
 
@@ -6029,33 +5992,14 @@ Categoria: Tío Nacho
 ID: CATG25179
  https://www.tottus.com/categories?name=TíoNacho&id=CATG25179&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
-Categoria: Huevos Blancos
-ID: CATG18931
- https://www.tottus.com/categories?name=HuevosBlancos&id=CATG18931&landingtonewPLP=true&defaultSelectParentId=CATG18910&defaultSortBy=Recomendados
 
 
-Categoria: Perfumería
-ID: CATG24410
- https://www.tottus.com/categories?name=Perfumería&id=CATG24410&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
-
-Categoria: Congelados
-ID: CATG24325
- https://www.tottus.com/categories?name=Congelados&id=CATG24325&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
 
-Categoria: Mundo Bebe
-ID: CATG24320
- https://www.tottus.com/categories?name=MundoBebe&id=CATG24320&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
 
-Categoria: Carnes
-ID: CATG24321
- https://www.tottus.com/categories?name=Carnes&id=CATG24321&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
 
-Categoria: Lácteos
-ID: CATG24324
- https://www.tottus.com/categories?name=Lácteos&id=CATG24324&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
 Categoria: Panadería
 ID: CATG24326
@@ -6226,7 +6170,7 @@ Botón Circular 1
 
 Categoria: Escolares
 ID: CATG15497
- https://api.test.tottus.cl/categories?name=Escolares&id=CATG15497&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=Escolares&id=CATG15497&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
 Botón Circular 2
@@ -6328,9 +6272,6 @@ Categoria: Leches Líquidas
 ID: CATG19931
  https://api.test.tottus.cl/categories?name=Leches Líquidas&id=CATG19931&landingtonewPLP=true&defaultSelectParentId=CATG15480&defaultSortBy=Recomendados
 
-Categoria: Cereales
-ID: CATG20062
- https://api.test.tottus.cl/categories?name=Cereales&id=CATG20062&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
 
 Categoria: Galletas y Colaciones Dulces
 ID: CATG20064
@@ -6348,5 +6289,215 @@ ID: CATG19043
 
 
 Landing Escolares DL: https://www.tottus.com/vendor?contentfulid=3KxiTbv4gEmOclmdXIUHky
+
+
+Home testing App
+https://fazil-app.com/vendor?contentfulid=7L52ybYEburt50OrxoB5Np
+
+
+
+Categoria: Productos a Lucas
+ID: CATG10215
+ https://www.tottus.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+DRB | Banner_DG_TMP TESTING Versión 2
+
+
+
+--------------------------------------------
+DRB TESTING Versión 2 | Home BU Tottus
+DL: https://www.tottus.com/vendor?contentfulid=5UdnzTrfyPOHIFQNdEtZCx
+
+
+HOME
+        URL:https://app.contentful.com/spaces/efpn4u8cnuye/entries/5UdnzTrfyPOHIFQNdEtZCx
+
+--------------------------------------------
+
+
+DRB Testing Versión 2 | homecontentChileProd EXPERTO EN CARNES
+
+DL: https://www.tottus.com/vendor?contentfulid=5Y57mdHWEsETWLZ1ZBAMuA
+
+        URL:https://app.contentful.com/spaces/efpn4u8cnuye/entries/5Y57mdHWEsETWLZ1ZBAMuA?isNewEntry=true&focusedField=homeContent
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChile Landing FFVV
+
+DL: https://www.tottus.com/vendor?contentfulid=6nMOOshs2apNhoDTjZq01M
+
+        URL:https://app.contentful.com/spaces/efpn4u8cnuye/entries/6nMOOshs2apNhoDTjZq01M
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChile Landing Lácteos
+
+DL: https://www.tottus.com/vendor?contentfulid=4MfYo4NglxspBxOzWRnjFO
+
+URL: https://app.contentful.com/spaces/efpn4u8cnuye/entries/4MfYo4NglxspBxOzWRnjFO
+
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChile Landing Fiambrería y Huevos
+
+DL: https://www.tottus.com/vendor?contentfulid=6HEl907sDiH5KBnF1p9TY3
+
+URL: https://app.contentful.com/spaces/efpn4u8cnuye/entries/6HEl907sDiH5KBnF1p9TY3?isNewEntry=true&focusedField=homeContent
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChileProd - Home Principal - Landing Platos Preparados
+DL: https://www.tottus.com/vendor?contentfulid=7aH398BOAiCvRY7S416yNk
+
+URL: https://app.contentful.com/spaces/efpn4u8cnuye/entries/7aH398BOAiCvRY7S416yNk
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChile Landing Panadería
+DL: https://www.tottus.com/vendor?contentfulid=4CafMLH9mQVMGCO7zSy5zq
+
+URL:https://app.contentful.com/spaces/efpn4u8cnuye/entries/4CafMLH9mQVMGCO7zSy5zq
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChile Landing Pastelería
+
+
+
+
+================================
+
+DRB Testing v2 | brandCategoryItemChileProd - Tottus App - Pastelería
+
+================================
+
+
+
+Categoria: Cereales
+ID: CATG20062
+ https://www.tottus.com/categories?name=Cereales&id=CATG20062&landingtonewPLP=true&defaultSelectParentId=CATG15477&defaultSortBy=Recomendados
+
+Categoria: Huevos Blancos
+ID: CATG18931
+ https://www.tottus.com/categories?name=HuevosBlancos&id=CATG18931&landingtonewPLP=true&defaultSelectParentId=CATG18910&defaultSortBy=Recomendados
+
+Categoria: Vienesas 
+ID: CATG18927 
+ https://www.tottus.com/categories?name=Vienesas&id=CATG18927&landingtonewPLP=true&defaultSelectParentId=CATG18909&defaultSortBy=Recomendados
+
+
+Categoria: Queso Mantecoso 
+ID: CATG19962 
+ https://www.tottus.com/categories?name=QuesoMantecoso&id=CATG19962&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+
+Categoria: Papeles Higiénicos 
+ID: CATG20300 
+ https://www.tottus.com/categories?name=PapelesHigienicos&id=CATG20300&landingtonewPLP=true&defaultSelectParentId=CATG20293&defaultSortBy=Recomendados
+
+
+Categoria: Manzanas y Peras
+ID: CATG20052
+ https://www.tottus.com/categories?name=ManzanasyPeras&id=CATG20052&landingtonewPLP=true&defaultSelectParentId=CATG20034&defaultSortBy=Recomendados
+
+Categoria: Cervezas
+ID: CATG15479
+ https://www.tottus.com/categories?name=Cervezas&id=CATG15479&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+Categoria: Pasteles
+ID: CATG18743
+ https://www.tottus.com/categories?name=Pasteles&id=CATG18743&landingtonewPLP=true&defaultSelectParentId=CATG18734&defaultSortBy=Recomendados
+
+Categoria: Helados
+ID: CATG20118
+ https://www.tottus.com/categories?name=Helados&id=CATG20118&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+Categoria: Carnes
+ID: CATG24321
+ https://www.tottus.com/categories?name=Carnes&id=CATG24321&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Lácteos
+ID: CATG24324
+ https://www.tottus.com/categories?name=Lácteos&id=CATG24324&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Congelados
+ID: CATG24325
+ https://www.tottus.com/categories?name=Congelados&id=CATG24325&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Frutas Congeladas 
+ID: CATG20112 
+ https://www.tottus.com/categories?name=FrutasCongeladas&id=CATG20112&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Perfumería
+ID: CATG24410
+ https://www.tottus.com/categories?name=Perfumería&id=CATG24410&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Mundo Bebe
+ID: CATG24320
+ https://www.tottus.com/categories?name=MundoBebe&id=CATG24320&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+
+
+
+
+Categoria: Leches Semidescremadas
+ID: CATG19950
+ https://www.tottus.com/categories?name=LechesSemidescremadas&id=CATG19950&landingtonewPLP=true&defaultSelectParentId=CATG19931&defaultSortBy=Recomendados
+
+Categoria: Mantequillas
+ID: CATG19957
+ https://www.tottus.com/categories?name=Mantequillas&id=CATG19957&landingtonewPLP=true&defaultSelectParentId=CATG19933&defaultSortBy=Recomendados
+
+
+
+Categoria: Venta Nocturna
+ID: CATG24316
+ https://www.tottus.com/categories?name=VentaNocturna&id=CATG24316&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+Categoria: APP TOTTUS 2
+ID: CATG24316
+ https://www.tottus.com/categories?name=APPTOTTUS2&id=CATG24316&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+Categoria: Líquidos
+ID: CATG24318
+ https://www.tottus.com/categories?name=Líquidos&id=CATG24318&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Abarrotes
+ID: CATG24317
+ https://www.tottus.com/categories?name=Abarrotes&id=CATG24317&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+Categoria: Mascotas
+ID: CATG24464
+ https://www.tottus.com/categories?name=Mascotas&id=CATG24464&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
 
 
