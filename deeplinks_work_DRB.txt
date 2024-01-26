@@ -5978,14 +5978,8 @@ https://www.tottus.com/vendor?contentfulid=3fZKJnhuUvvgoKk9j9tgVM
 
 
 
-Categoria: Solo por 48 Horas
-ID: CATG10197
- https://www.tottus.com/categories?name=Solopor48Horas&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
-Categoria: Solo Por 48 Horas
-ID: CATG24377
- https://www.tottus.com/categories?name=Solopor48Horas&id=CATG24377&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
 
 Categoria: Tío Nacho
@@ -6365,15 +6359,54 @@ URL:https://app.contentful.com/spaces/efpn4u8cnuye/entries/4CafMLH9mQVMGCO7zSy5z
 --------------------------------------------
 
 DRB Testing Versión 2 | homeContentChile Landing Pastelería
+DL: https://www.tottus.com/vendor?contentfulid=5Hb9SeSqVUmoDqkHsKE7zM
 
 
+URL: https://app.contentful.com/spaces/efpn4u8cnuye/entries/5Hb9SeSqVUmoDqkHsKE7zM
+
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChile Landing Congelados
+DL: https://www.tottus.com/vendor?contentfulid=3vxbcA6zNKFOLA2Gaytncu
+
+URL: https://app.contentful.com/spaces/efpn4u8cnuye/entries/3vxbcA6zNKFOLA2Gaytncu
+
+
+--------------------------------------------
+
+DRB Testing Versión 2 | homeContentChile Landing Mundo Parrillero
+DL: https://www.tottus.com/vendor?contentfulid=6cXb7F0vGT67A8Wy2lnWER
+
+URL: https://app.contentful.com/spaces/efpn4u8cnuye/entries/6cXb7F0vGT67A8Wy2lnWER
+
+
+--------------------------------------------
+
+================================
+
+DRB Testing v2 | CL_carnicería_banner_marzo_2022_3_Especial_Lista_para_la_Cocina
+
+
+
+
+Voy continuando con la generacion de duplicidad de homes 
+
+_ Carnes --> oki
+_ FFVV --> oki
+_ Lacteos y Quesos --> oki
+_ Huevos y Fiambres --> oki
+_ Platos Preparados --> oki
+_ Panaderia --> oki
+_ Pasteleria --> oki
+_ Congelados --> oki
+_ Mundo Parrillero --> oki
 
 
 ================================
 
-DRB Testing v2 | brandCategoryItemChileProd - Tottus App - Pastelería
 
-================================
+
 
 
 
@@ -6448,9 +6481,6 @@ Categoria: Perfumería
 ID: CATG24410
  https://www.tottus.com/categories?name=Perfumería&id=CATG24410&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
-Categoria: Mundo Bebe
-ID: CATG24320
- https://www.tottus.com/categories?name=MundoBebe&id=CATG24320&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
 
 
@@ -6498,6 +6528,39 @@ ID: CATG24317
 Categoria: Mascotas
 ID: CATG24464
  https://www.tottus.com/categories?name=Mascotas&id=CATG24464&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+
+Categoria: Mundo Bebe
+ID: CATG24320
+ https://www.tottus.com/categories?name=MundoBebe&id=CATG24320&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+Categoria: Mundo Bebe
+ID: CATG15489
+ https://www.tottus.com/categories?name=MundoBebe&id=CATG15489&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+Landing Escolares DL: https://www.tottus.com/vendor?contentfulid=3KxiTbv4gEmOclmdXIUHky
+
+
+
+
+------CARTEGORIA INACTIVO---------
+
+Categoria: Solo por 48 Horas
+ID: CATG10197
+ https://www.tottus.com/categories?name=Solopor48Horas&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Solo Por 48 Horas
+ID: CATG24377
+ https://www.tottus.com/categories?name=Solopor48Horas&id=CATG24377&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
 
 
 

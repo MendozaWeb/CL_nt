@@ -9164,9 +9164,9 @@ Voy continuando con la generacion de duplicidad de homes
 _ Carnes --> oki
 _ FFVV --> oki
 _ Lacteos y Quesos --> oki
-_ Huevos y Fiambres
-_ Platos Preparados
-_ Panaderia
+_ Huevos y Fiambres --> oki
+_ Platos Preparados --> oki
+_ Panaderia --> oki
 _ Pasteleria
 _ Congelados
 _ Mundo Parrillero
@@ -9206,6 +9206,60 @@ DRB | imageLinkProdChile - Tottus App - CIENTOS A LUCAS 24 ENE AL 21 FEB - Snack
 
 DRB | carouselBannerChileProd - Home Carnes - CIENTOS A LUCAS 24 ENE AL 21 FEB
 
+
+COMPONENTE REMOVIDO DEL HOME PANEDERIA Y PASTELERIA 26/01
+
+_    BannerLG
+        _ DRB | CL_Panaderia_pan_pascua
+
+
+
+
+
+
+Img__Cl_tottusApp_s04_banner_pechuga_ene_2024
+https://images.ctfassets.net/efpn4u8cnuye/7aKMOeNbK96IuJ1uMRnvt/2e80732ceefc31da2323a0b1b04bb0d0/Banners-ahorra-pechuga.png
+
+
+
+
+DRB | imageLinkProdChile - Tottus App - CIENTOS A LUCAS 24 ENE AL 21 FEB - Pechuga entera pollo
+
+
+
+cl__home_enero_2024_s05_sx48_tmp_banner_lg_01_cerveza_lager24_corona
+
+
+
+
+
+AGENDA
+
+Del Lunes 29 al 30 de Enero
+
+	TOTTUS APP - BANNERLG
+	cl__home_enero_2024_s05_sx48_tmp_banner_lg_01_cerveza_lager24_corona (AGRREGAR)
+
+
+Lunes 29 de Enero
+
+    DRB | imageLinkProdChile - Tottus App - SUPER AHORRO 04 AL 07 ENE - Combo pollo asado (REMOVER)
+
+    DRB | imageLinkProdChile - Tottus App - CIENTOS A LUCAS 24 ENE AL 21 FEB - Pechuga entera pollo (AGREGAR EN REEMPLAZO DE "COMBO POLLOS")
+
+    DRB | imageLinkProdChile - Tottus App - CIENTOS A LUCAS 24 ENE AL 21 FEB - Queso mantecoso huilco (REMOVER)
+
+    DRB | imageLinkProdChile - Tottus App - CIENTOS A LUCAS 24 ENE AL 21 FEB - Huevo blanco grande (REMOVER)
+
+    DRB | imageLinkProdChile - Tottus App - CIENTOS A LUCAS 24 ENE AL 21 FEB - Snacks variedades tv (REMOVER)
+
+    DRB | imageLinkProdChile - Tottus App - CIENTOS A LUCAS 24 ENE AL 21 FEB - Atun coliseo tv (REMOVER)
+
+
+
+Del Miercoles 31 de Enero al 01 de febrero
+	TOTTUS APP - BANNERLG
+	cl__home_enero_2024_s05_sx48_tmp_banner_lg_01_confort24_papel_higienico (AGRREGAR)
 
 
 
