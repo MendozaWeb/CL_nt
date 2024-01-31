@@ -4,6 +4,13 @@ Tómate este finde DL: https://www.tottus.com/vendor?contentfulid=5IqqLYFa2jINmN
 
 Home RM DL: https://www.tottus.com/vendor?contentfulid=4zIPs6lyBg7PiHZ71LbeSP
 
+
+
+https://www.tottus.com/vendor?contentfulid=3KxiTbv4gEmOclmdXIUHky
+
+https://api.test.tottus.cl/seller?name=Escolares&id=3KxiTbv4gEmOclmdXIUHky
+
+
 ==============CAT ACCESO RAPIDO==================
 <
 Carnes (CATG15488)
@@ -972,9 +979,6 @@ DL: https://fazil-app.com/categories?name=ComboPolloAsado&id=CATG10199&landingto
 
 
 
-Category name: Día de Lácteos y Congelados 
-ID: CATG23967 
-DL: https://fazil-app.com/categories?name=DiadeLácteosyCongelados&id=CATG23967&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 Category name: Greendays 
@@ -1748,9 +1752,6 @@ Category name: Pizzas y Pizzetas
 ID: CATG20116 
 DL: https://www.tottus.com/categories?name=PizzasyPizzetas&id=CATG20116&landingtonewPLP=true&defaultSelectParentId=CATG15483&defaultSortBy=Recomendados
 
-Category name: Hamburguesas Nuggets y Croquetas de Pollo 
-ID: CATG20131 
-DL: https://www.tottus.com/categories?name=HamburguesasNuggetsyCroquetasdePollo&id=CATG20131&landingtonewPLP=true&defaultSelectParentId=CATG20114&defaultSortBy=Recomendados
 
 Categoria: Queso Gauda 
 ID: CATG19960 
@@ -3872,13 +3873,6 @@ ID: CATG20280
 
 
 
-Categoria: Día de Vinos y Espumantes
-ID: CATG24353
- https://fazil-app.com/categories?name=DíadeVinosyEspumantes&id=CATG24353&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
-
-Categoria: Día de Desayuno
-ID: CATG24349
- https://fazil-app.com/categories?name=DíadeDesayuno&id=CATG24349&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
 
@@ -4198,9 +4192,7 @@ ID: CATG24448
 
 
 
-Categoria: Bebidas
-ID: CATG19044
- https://fazil-app.com/categories?name=Bebidas&id=CATG19044&landingtonewPLP=true&defaultSelectParentId=CATG15482&defaultSortBy=Recomendados
+
 
 Categoria: Congelados
 ID: CATG23083
@@ -6560,6 +6552,55 @@ ID: CATG10197
 Categoria: Solo Por 48 Horas
 ID: CATG24377
  https://www.tottus.com/categories?name=Solopor48Horas&id=CATG24377&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+
+Category name: Día de Lácteos y Congelados 
+ID: CATG23967 
+DL: https://fazil-app.com/categories?name=DiadeLácteosyCongelados&id=CATG23967&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Día de Vinos y Espumantes
+ID: CATG24353
+ https://fazil-app.com/categories?name=DíadeVinosyEspumantes&id=CATG24353&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+Categoria: Día de Desayuno
+ID: CATG24349
+ https://fazil-app.com/categories?name=DíadeDesayuno&id=CATG24349&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+ Bbva#24go
+
+
+Categoria: Día del Amor
+ID: CATG25257
+ https://www.tottus.com/categories?name=DíadelAmor&id=CATG25257&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Queso Gauda y Rodda
+ID: CATG19960
+ https://www.tottus.com/categories?name=QuesoGaudayRodda&id=CATG19960&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
+
+Categoria: Bebidas
+ID: CATG19044
+ https://www.tottus.com/categories?name=Bebidas&id=CATG19044&landingtonewPLP=true&defaultSelectParentId=CATG15482&defaultSortBy=Recomendados
+
+
+Categoria: Hamburguesas Nuggets y Croquetas de Pollo 
+ID: CATG20131 
+ https://www.tottus.com/categories?name=HamburguesasNuggetsyCroquetasdePollo&id=CATG20131&landingtonewPLP=true&defaultSelectParentId=CATG20114&defaultSortBy=Recomendados
+
+https://www.tottus.com/vendor?contentfulid=5UdnzTrfyPOHIFQNdEtZCx
+
+
+
+
+
 
 
 
