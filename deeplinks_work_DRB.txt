@@ -11,6 +11,14 @@ https://www.tottus.com/vendor?contentfulid=3KxiTbv4gEmOclmdXIUHky
 https://api.test.tottus.cl/seller?name=Escolares&id=3KxiTbv4gEmOclmdXIUHky
 
 
+
+DL CON NAME
+
+Home RM DL: https://www.tottus.com/vendor?name=Escolares&contentfulid=3KxiTbv4gEmOclmdXIUHky
+
+
+
+
 ==============CAT ACCESO RAPIDO==================
 <
 Carnes (CATG15488)
@@ -6605,3 +6613,23 @@ https://www.tottus.com/vendor?contentfulid=5UdnzTrfyPOHIFQNdEtZCx
 
 
 
+https://www.tottus.com/vendor?name=Escolares&id=3KxiTbv4gEmOclmdXIUHky
+
+
+DL CON NAME
+
+Home RM DL: https://www.tottus.com/vendor?name=Escolares&contentfulid=3KxiTbv4gEmOclmdXIUHky
+
+
+
+
+https://www.tottus.com/vendor?name=Escolares&id=3KxiTbv4gEmOclmdXIUHky
+
+
+Home TESTING 2 DL:https://www.tottus.com/vendor?contentfulid=5UdnzTrfyPOHIFQNdEtZCx
+
+
+
+
+
+w
