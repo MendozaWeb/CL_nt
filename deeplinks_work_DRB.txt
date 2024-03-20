@@ -1048,10 +1048,12 @@ DL: https://fazil-app.com/categories?name=Audio&id=CATG24042&landingtonewPLP=tru
 
 Category name: Tortas 
 ID: CATG18742 
-DL: https://fazil-app.com/categories?name=Tortas&id=CATG18742&landingtonewPLP=true&defaultSelectParentId=CATG18734&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=Tortas&id=CATG18742&landingtonewPLP=true&defaultSelectParentId=CATG18734&defaultSortBy=Recomendados
 
 
-
+Categoria: Salmón
+ID: CATG15689
+ https://www.tottus.com/categories?name=Salmón&id=CATG15689&landingtonewPLP=true&defaultSelectParentId=CATG15490&defaultSortBy=Recomendados
 
 
 
@@ -1191,12 +1193,6 @@ DL: https://fazil-app.com/categories?name=ArvejasCongeladas&id=CATG20123&landing
 
 
 
-
-
-
-Category name: Hamburguesas 
-ID: CATG20128 
-DL: https://www.tottus.com/categories?name=Hamburguesas&id=CATG20128&landingtonewPLP=true&defaultSelectParentId=CATG20113&defaultSortBy=Recomendados
 
 
 
@@ -1625,9 +1621,9 @@ DL: https://fazil-app.com/categories?name=JamondeCerdo&id=CATG18937&landingtonew
 
 
 
-Category name: Molidas de Pavo 
+Categoria: Molidas de Pavo 
 ID: CATG20284 
-DL: https://fazil-app.com/categories?name=MolidasdePavo&id=CATG20284&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=MolidasdePavo&id=CATG20284&landingtonewPLP=true&defaultSelectParentId=CATG20261&defaultSortBy=Recomendados
 
 
 
@@ -1766,9 +1762,6 @@ ID: CATG19960
  https://www.tottus.com/categories?name=QuesoGauda&id=CATG19960&landingtonewPLP=true&defaultSelectParentId=CATG19934&defaultSortBy=Recomendados
 
 
-Categoria: Papas Congeladas 
-ID: CATG20122 
- https://www.tottus.com/categories?name=PapasCongeladas&id=CATG20122&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
 
 
 CATG20096
@@ -2215,11 +2208,6 @@ DL: https://fazil-app.com/categories?name=DiadelPadre&id=CATG23968&landingtonewP
 
 
 
-Category name: Pañales y Toallas Húmedas 
-ID: CATG20390 
-DL: https://fazil-app.com/categories?name=PañalesyToallasHúmedas&id=CATG20390&landingtonewPLP=true&defaultSelectParentId=CATG15489&defaultSortBy=Recomendados
-
-
 
 
 
@@ -2335,7 +2323,7 @@ DL: https://www.tottus.com/categories?name=PechugadePavo&id=CATG18935&landington
 
 Category name: Yoghurt 
 ID: CATG19954 
-DL: https://fazil-app.com/categories?name=Yoghurt&id=CATG19954&landingtonewPLP=true&defaultSelectParentId=CATG19932&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=Yoghurt&id=CATG19954&landingtonewPLP=true&defaultSelectParentId=CATG19932&defaultSortBy=Recomendados
 
 
 Category name: Queso Rallado y Granulado
@@ -4058,9 +4046,9 @@ ID: CATG23086
 TEFY HOME DL: https://fazil-app.com/vendor?contentfulid=7L52ybYEburt50OrxoB5Np
 
 
-Category name: Productos a Lucas
+Categoria: Productos a Lucas
 ID: CATG10215
- https://fazil-app.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+ https://www.tottus.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 
 
@@ -5678,11 +5666,6 @@ ID: CATG20176
 
 
 
-Categoria: Detergentes Líquidos
-ID: CATG20305
- https://www.tottus.com/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
-
-
 
 
 Categoria: APP FA
@@ -5936,10 +5919,6 @@ Categoria: Soprole
 ID: CATG25174
  https://www.tottus.com/categories?name=Soprole&id=CATG25174&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
- Categoria: Detergente y Cuidado para la ropa 
-ID: CATG20294 
- https://www.tottus.com/categories?name=DetergenteyCuidadoparalaropa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
-
 Categoria name: Pollo 
 ID: CATG20260 
  https://www.tottus.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
@@ -6087,10 +6066,6 @@ ID: CATG15479
 Categoria: Congelados 
 https://www.tottus.com/vendor?contentfulid=1Dgjr8CUg7UrkjdN145mCc
 
-
-Categoria: Aseo y Limpieza 
-ID: CATG15484 
- https://www.tottus.com/categories?name=AseoyLimpieza&id=CATG15484&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
 
 
 
@@ -6629,7 +6604,184 @@ https://www.tottus.com/vendor?name=Escolares&id=3KxiTbv4gEmOclmdXIUHky
 Home TESTING 2 DL:https://www.tottus.com/vendor?contentfulid=5UdnzTrfyPOHIFQNdEtZCx
 
 
+Categoria: Cuidado Capilar
+ID: CATG25297
+ https://api.test.tottus.cl/categories?name=CuidadoCapilar&id=CATG25297&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Semana de la Piscola
+ID: CATG25293
+ https://www.tottus.com/categories?name=SemanadelaPiscola&id=CATG25293&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
 
 
 
-w
+
+
+https://www.tottus.com/categories?name=ProductosaLucas&id=CATG10215&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Hamburguesas
+ID: CATG25218
+ https://www.tottus.com/categories?name=Hamburguesas&id=CATG25218&landingtonewPLP=true&defaultSelectParentId=CATG10220&defaultSortBy=Recomendados
+
+Categoria: Frutas Congeladas
+ID: CATG25221
+ https://www.tottus.com/categories?name=FrutasCongeladas&id=CATG25221&landingtonewPLP=true&defaultSelectParentId=CATG10220&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Papel Higiénico
+ID: CATG21794
+ https://www.tottus.com/categories?name=PapelHigiénico&id=CATG21794&landingtonewPLP=true&defaultSelectParentId=CATG21741&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Detergente y Cuidado para la Ropa
+ID: CATG20294
+ https://www.tottus.com/categories?name=DetergenteyCuidadoparalaRopa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+
+antes
+https://www.tottus.com/categories?name=DíadeDetergentes&id=CATG24354&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Tottus App
+ID: CATG25523
+ https://www.tottus.com/categories?name=TottusApp&id=CATG25523&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Cócteles
+ID: CATG15666
+ https://www.tottus.com/categories?name=Cócteles&id=CATG15666&landingtonewPLP=true&defaultSelectParentId=CATG25419&defaultSortBy=Recomendados
+
+Categoria: Salmón
+ID: CATG15689
+ https://www.tottus.com/categories?name=Salmón&id=CATG15689&landingtonewPLP=true&defaultSelectParentId=CATG15490&defaultSortBy=Recomendados
+
+Categoria: Merluza
+ID: CATG15686
+ https://www.tottus.com/categories?name=Merluza&id=CATG15686&landingtonewPLP=true&defaultSelectParentId=CATG15490&defaultSortBy=Recomendados
+
+ Categoria: Mariscos Congelados
+ID: CATG15685
+ https://www.tottus.com/categories?name=MariscosCongelados&id=CATG15685&landingtonewPLP=true&defaultSelectParentId=CATG15490&defaultSortBy=Recomendados
+
+Categoria: Cuidado de la Ropa
+ID: CATG25498
+ https://www.tottus.com/categories?name=CuidadodelaRopa&id=CATG25498&landingtonewPLP=true&defaultSelectParentId=CATG24319&defaultSortBy=Recomendados
+
+
+Categoria: Agrosuper BTS
+ID: CATG25054
+ https://www.tottus.com/categories?name=AgrosuperBTS&id=CATG25054&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+Categoria: Tottus Importado
+ID: CATG20266
+ https://www.tottus.com/categories?name=TottusImportado&id=CATG20266&landingtonewPLP=true&defaultSelectParentId=CATG20258&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Colaciones
+ID: CATG21682
+ https://api.test.tottus.cl/categories?name=Colaciones&id=CATG21682&landingtonewPLP=true&defaultSelectParentId=CATG15497&defaultSortBy=Recomendados
+
+
+
+
+Categoria: Pascua Carozzi
+ID: CATG25123
+ https://www.tottus.com/categories?name=PascuaCarozzi&id=CATG25123&landingtonewPLP=true&defaultSelectParentId=CATG10196&defaultSortBy=Recomendados
+
+
+Categoria: Cervezas Tradicionales
+ID: CATG15682
+ https://www.tottus.com/categories?name=CervezasTradicionales&id=CATG15682&landingtonewPLP=true&defaultSelectParentId=CATG15479&defaultSortBy=Recomendados
+
+
+
+Categoria: Yoghurt Protein
+ID: CATG25188
+ https://www.tottus.com/categories?name=YoghurtProtein&id=CATG25188&landingtonewPLP=true&defaultSelectParentId=CATG19954&defaultSortBy=Recomendados
+
+Categoria: Aceite Maravilla
+ID: CATG25250
+ https://www.tottus.com/categories?name=AceiteMaravilla&id=CATG25250&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
+
+Categoria: Hamburguesas 
+ID: CATG20128 
+ https://www.tottus.com/categories?name=Hamburguesas&id=CATG20128&landingtonewPLP=true&defaultSelectParentId=CATG20113&defaultSortBy=Recomendados
+
+Categoria: Aseo y Limpieza 
+ID: CATG15484 
+ https://www.tottus.com/categories?name=AseoyLimpieza&id=CATG15484&landingtonewPLP=true&defaultSelectParentId=CATG15093&defaultSortBy=Recomendados
+
+
+
+
+
+
+
+Categoria: Yoghurt Individuales
+ID: CATG25183
+ https://www.tottus.com/categories?name=YoghurtIndividuales&id=CATG25183&landingtonewPLP=true&defaultSelectParentId=CATG19954&defaultSortBy=Recomendados
+
+
+Categoria: Bebidas Vegetales
+ID: CATG19937
+ https://www.tottus.com/categories?name=BebidasVegetales&id=CATG19937&landingtonewPLP=true&defaultSelectParentId=CATG15480&defaultSortBy=Recomendados
+
+
+Categoria: Detergentes Líquidos
+ID: CATG20305
+ https://www.tottus.com/categories?name=DetergentesLíquidos&id=CATG20305&landingtonewPLP=true&defaultSelectParentId=CATG20294&defaultSortBy=Recomendados
+
+Categoria: Papas Congeladas 
+ID: CATG20122 
+ https://www.tottus.com/categories?name=PapasCongeladas&id=CATG20122&landingtonewPLP=true&defaultSelectParentId=CATG20111&defaultSortBy=Recomendados
+
+Categoria: Otros Cortes de Pollo
+ID: CATG20281
+ https://www.tottus.com/categories?name=OtrosCortesdePollo&id=CATG20281&landingtonewPLP=true&defaultSelectParentId=CATG20260&defaultSortBy=Recomendados
+
+
+
+Main Categories
+/
+Tottus Express TOTTUS APP (CATG15093)
+/
+Despensa (CATG15476)
+
+CATG20183	Aceites
+
+
+Categoria: Aceite Maravilla
+ID: CATG25250
+ https://www.tottus.com/categories?name=AceiteMaravilla&id=CATG25250&landingtonewPLP=true&defaultSelectParentId=CATG20183&defaultSortBy=Recomendados
+
+
+
+
+
+
+Categoria: Pañales y Toallas Húmedas 
+ID: CATG20390 
+ https://www.tottus.com/categories?name=PañalesyToallasHúmedas&id=CATG20390&landingtonewPLP=true&defaultSelectParentId=CATG15489&defaultSortBy=Recomendados
+
+Categoria: Cuidado Capilar
+ID: CATG20339
+ https://www.tottus.com/categories?name=CuidadoCapilar&id=CATG20339&landingtonewPLP=true&defaultSelectParentId=CATG15485&defaultSortBy=Recomendados
+
+
+ Categoria: Detergente y Cuidado para la ropa 
+ID: CATG20294 
+ https://www.tottus.com/categories?name=DetergenteyCuidadoparalaropa&id=CATG20294&landingtonewPLP=true&defaultSelectParentId=CATG15484&defaultSortBy=Recomendados
+
+
+

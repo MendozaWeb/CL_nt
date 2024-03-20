@@ -705,3 +705,8 @@ https://www.tottus.com/categories?name=Marcas Tottus&id=CATG15501&landingtonewPL
 
 
 
+DL CAMBIADO CON DIAS Y PLP VISIBLE AUN 
+    https://www.tottus.com/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+

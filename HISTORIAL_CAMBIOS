@@ -9487,6 +9487,7 @@ https://images.ctfassets.net/efpn4u8cnuye/2yXlZfqk4YQNWWvQtJ8AGc/de833c73df246de
 
 Productos a Lucas 05 de FEB
 
+DRB | carouselBannerChileProd - Home App - CARRUSEL DG TOTTUS CL
 
 DRB | imageLinkProdChile - Tottus App - Dg CMR Generico (NO BORRAR SIEMPRE REEMPLAZAR)
 
@@ -9513,6 +9514,8 @@ DRB | carouselBannerChileProd - Home Tottus - PRODUCTOS A LUCAS 05 DE FEB
 exploreBrandCategoriesX2
 
     DRB | exploreBrandCategoriesX2 - Tottus App - Top - PRODUCTOS A LUCAS 05 DE FEB
+
+    
         https://app.contentful.com/spaces/efpn4u8cnuye/entries/24nroWXaGV0gKOaz6FBHX3?previousEntries=1PTVVvU08ihLx7rbjwwjTv
 
 REMOVIDO
@@ -9528,4 +9531,45 @@ https://assets.ctfassets.net/efpn4u8cnuye/20HfUdDmRqptMYgduqT3x4/716956ae99939a2
 DRB | Banner_DG_CMR_lunes_y_martes
 
 
+REMOVIDO 
+
+    DRB | imageLinkProdChile - Tottus App - PRODUCTOS A LUCAS 05 DE FEB - Vienesas san jorge
+
+
+    DRB | imageLinkProdChile - Tottus App - PRODUCTOS A LUCAS 05 DE FEB - Productos soprole seleccionados
+
+
+https://www.tottus.com/categories?name=DíadelPollo&id=CATG24238&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+DD_pollo	
+
+Categoria: Pollo
+ID: CATG20260
+ https://www.tottus.com/categories?name=Pollo&id=CATG20260&landingtonewPLP=true&defaultSelectParentId=CATG15488&defaultSortBy=Recomendados
+
+
+----------------HUINCHA GENERICO---------------------
+
+COMPONENTE
+    DRB | Banner_DG_TMP
+        https://app.contentful.com/spaces/efpn4u8cnuye/entries/7MLsuOi3dW2xOjryEIhVCX?focusedField=imageUrl
+
+IMG
+    https://images.ctfassets.net/efpn4u8cnuye/7G0isqczhzriFSmbcr7Tj6/6492b14e6c2d5e6910e3d212d43d531b/huincha-nueva-dg-tottusapp-tmp-8.png
+
+
+
+
+------------------- VISIBLE TODO EL MESE DE FEBRERO SOLO LOS LUNES Y MARTES -------------------
+
+IMG
+    https://images.ctfassets.net/efpn4u8cnuye/4mAXGtmnUUEcZDW548EzE/734a98b84e0a6f1c7ad57ea087876d06/CAMPA_A-DG-CON-CMR-753x66.png
+
+COMPONENTE
+    DRB | imageLinkProdChile - Tottus App - Dg CMR Generico (NO BORRAR SIEMPRE REEMPLAZAR)
+
+
+
+v3.8.2
 
