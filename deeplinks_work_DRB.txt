@@ -5971,9 +5971,6 @@ Categoria: Panadería
 ID: CATG24326
  https://www.tottus.com/categories?name=Panadería&id=CATG24326&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
 
-Categoria: Venta Nocturna
-ID: CATG24316
- https://www.tottus.com/categories?name=VentaNocturna&id=CATG24316&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
 
 Categoria: Zona a Lucas
 ID: CATG10215
@@ -6445,16 +6442,6 @@ ID: CATG20112
 
 
 
-Categoria: Perfumería
-ID: CATG24410
- https://www.tottus.com/categories?name=Perfumería&id=CATG24410&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
-
-
-
-
-
-
-
 
 
 
@@ -6817,9 +6804,7 @@ Categoria: Mantequillas y Margarinas
 ID: CATG25490
  https://www.tottus.com/categories?name=MantequillasyMargarinas&id=CATG25490&landingtonewPLP=true&defaultSelectParentId=CATG24324&defaultSortBy=Recomendados
 
-Categoria: Panadería y Pastelería
-ID: CATG24326
- https://www.tottus.com/categories?name=PanaderíayPastelería&id=CATG24326&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
 
 
 
@@ -6837,8 +6822,40 @@ Categoria: Pescados y Mariscos
 ID: CATG25584
  https://www.tottus.com/categories?name=PescadosyMariscos&id=CATG25584&landingtonewPLP=true&defaultSelectParentId=CATG24325&defaultSortBy=Recomendados
 
+Categoria: Panadería y Pastelería
+ID: CATG24326
+ https://www.tottus.com/categories?name=PanaderíayPastelería&id=CATG24326&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+
+ng generate component services/empleado
+
+ng generate service empleado
+
+
+ng g c components/nombre-del-empleado
+ng generate service services/empleado
 
 
 
-ng generate component empleado/service
+
+
+Categoria: Perfumería
+ID: CATG24410
+ https://www.tottus.com/categories?name=Perfumería&id=CATG24410&landingtonewPLP=true&defaultSelectParentId=CATG24316&defaultSortBy=Recomendados
+
+Categoria: Papeles para el Hogar
+ID: CATG25500
+ https://www.tottus.com/categories?name=PapelesparaelHogar&id=CATG25500&landingtonewPLP=true&defaultSelectParentId=CATG24319&defaultSortBy=Recomendados
+
+
+Categoria: Venta Nocturna
+ID: CATG24316
+ https://www.tottus.com/categories?name=VentaNocturna&id=CATG24316&landingtonewPLP=true&defaultSelectParentId=CATG23078&defaultSortBy=Recomendados
+
+
+Categoria: Cocktail y Snack
+ID: CATG25591
+ https://www.tottus.com/categories?name=CocktailySnack&id=CATG25591&landingtonewPLP=true&defaultSelectParentId=CATG24317&defaultSortBy=Recomendados
+
+
 
