@@ -849,7 +849,7 @@ DL: https://api.test.tottus.cl/categories?name=DíadelaCerveza&id=CATG24023&land
 
 Category name: Pañales y Toallas Húmedas 
 ID: CATG10177 
-DL: https://fazil-app.com/categories?name=PañalesyToallasHúmedas&id=CATG10177&landingtonewPLP=true&defaultSelectParentId=CATG23788&defaultSortBy=Recomendados
+DL: https://www.tottus.com/categories?name=PañalesyToallasHúmedas&id=CATG10177&landingtonewPLP=true&defaultSelectParentId=CATG23788&defaultSortBy=Recomendados
 
 
 Papel Higienico Doble Hoja 8x50 mts 
@@ -6858,4 +6858,20 @@ ID: CATG25591
  https://www.tottus.com/categories?name=CocktailySnack&id=CATG25591&landingtonewPLP=true&defaultSelectParentId=CATG24317&defaultSortBy=Recomendados
 
 
+Categoria: Solo Por 48 Horas
+ID: CATG23957
+ https://www.tottus.com/categories?name=SoloPor48Horas&id=CATG23957&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
 
+Categoria: Solo por 48 Horas
+ID: CATG10197
+ https://www.tottus.com/categories?name=Solopor48Horas&id=CATG10197&landingtonewPLP=true&defaultSelectParentId=CATG10194&defaultSortBy=Recomendados
+
+
+
+Categoria: Higiene Bucal
+ID: CATG25590
+ https://www.tottus.com/categories?name=HigieneBucal&id=CATG25590&landingtonewPLP=true&defaultSelectParentId=CATG24410&defaultSortBy=Recomendados
+
+
+
+ 
